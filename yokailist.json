@@ -1,30 +1,411 @@
 [
     {
-        "name": "Jibanyan", 
-        "rank": "D",
-        "tribu": "Mignon",
+        "name": "Woko", 
+        "rank": "E",
+        "tribu": "Vaillant",
         "element": "Feu",
-        "couleur": "Rouge",
+        "rarity": "Commun",
         "role": "Combattant",
-        "nourriture": "Poisson"
+        "nourriture": "Boules de riz"
 
     },
     {
-        "name" : "Komassan",
-        "rank" : "D",
-        "tribu" : "Mignon",
+        "name": "Pagno",
+        "rank": "C",
+        "tribu": "Vaillant",
         "element": "Feu",
-        "couleur" :"Blanc",
+        "rarity": "Commun",
         "role": "Combattant",
-        "nourriture": "Crème glacée"
-    }, 
+        "nourriture": "Boules de riz"
+    },
     {
-        "name": "Shogunyan",
-        "rank": "S",
+        "name": "Alfoncéo",
+        "rank": "B",
+        "tribu": "Vaillant",
+        "element": "Terre",
+        "rarity": "Rare",
+        "role": "Combattant",
+        "nourriture": "Boules de riz"
+    },
+    {
+        "name": "Toumou",
+        "rank": "E",
         "tribu": "Vaillant",
         "element": "Vent",
-        "couleur": "Blanc",
+        "rarity": "Commun",
         "role": "Combattant",
-        "nourriture": "Poisson"
+        "nourriture": "Jus"
+    },
+    {
+        "name": "Lamlam'mou",
+        "rank": "C",
+        "tribu": "Vaillant",
+        "element": "Vent",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Jus"
+    },
+    {
+        "name": "Samoumourai",
+        "rank": "B",
+        "tribu": "Vaillant",
+        "element": "Glace",
+        "rarity": "Rare",
+        "role": "Combattant",
+        "nourriture": "Jus"
+    },
+    {
+        "name": "Sumochi",
+        "rank": "D",
+        "tribu": "Vaillant",
+        "element": "Terre",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Boules de riz"
+    },
+    {
+        "name": "Mochimacho",
+        "rank": "D",
+        "tribu": "Vaillant",
+        "element": "Feu",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Boules de riz"
+    },
+    {
+        "name": "Heaumer",
+        "rank": "D",
+        "tribu": "Vaillant",
+        "element": "Foudre",
+        "rarity": "Commun",
+        "role": "Tank",
+        "nourriture": "Légumes"
+    },
+    {
+        "name": "Bushidos",
+        "rank": "A",
+        "tribu": "Vaillant",
+        "element": "Foudre",
+        "rarity": "Commun",
+        "role": "Tank",
+        "nourriture": "Légumes"
+    },
+    {
+        "name": "Âmiral",
+        "rank": "S",
+        "tribu": "Vaillant",
+        "element": "Absorbtion",
+        "rarity": "Rare",
+        "role": "Combattant",
+        "nourriture": "Légumes"
+    },
+    {
+        "name": "Feulion",
+        "rank": "C",
+        "tribu": "Vaillant",
+        "element": "Feu",
+        "rarity": "Commun",
+        "role": "Ranger",
+        "nourriture": "Viande"
+    },
+    {
+        "name": "Vibrilion",
+        "rank": "B",
+        "tribu": "Vaillant",
+        "element": "Terre",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Viande"
+    },
+    {
+        "name": "Siro",
+        "rank": "A",
+        "tribu": "Vaillant",
+        "element": "Foudre",
+        "rarity": "Rare",
+        "role": "Combattant",
+        "nourriture": "Viande"
+    },
+    {
+        "name": "Bonneto",
+        "rank": "C",
+        "tribu": "Vaillant",
+        "element": "Feu",
+        "rarity": "Commun",
+        "role": "Ranger",
+        "nourriture": "Fruits de mer"
+    },
+    {
+        "name": "Sabri",
+        "rank": "A",
+        "tribu": "Vaillant",
+        "element": "Vent",
+        "rarity": "Commun",
+        "role": "Ranger",
+        "nourriture": "Fruits de mer"
+    },
+    {
+        "name": "Padelou",
+        "rank": "A",
+        "tribu": "Vaillant",
+        "element": "Absorbtion",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Fruits de mer"
+    },
+    {
+        "name": "Orox",
+        "rank": "S",
+        "tribu": "Vaillant",
+        "element": "Foudre",
+        "rarity": "Rare",
+        "role": "Combattant",
+        "nourriture": "Fruits de mer"
+    },
+    {
+        "name": "Benkei", 
+        "rank": "B",
+        "tribu": "Vaillant",
+        "element": "Glace",
+        "rarity": "Commun",
+        "role": "Tank",
+        "nourriture": "Nourriture Chinoise"
+    },
+    {
+        "name": "B3-NK1", 
+        "rank": "B",
+        "tribu": "Vaillant",
+        "element": "Foudre",
+        "rarity": "Commun",
+        "role": "Tank",
+        "nourriture": "Nourriture Chinoise"
+    },
+    {
+        "name": "Sushiyama", 
+        "rank": "B",
+        "tribu": "Vaillant",
+        "element": "Glace",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Boules de riz"
+    },
+    {
+        "name": "Kapunki", 
+        "rank": "A",
+        "tribu": "Vaillant",
+        "element": "Feu",
+        "rarity": "Rare",
+        "role": "Combattant",
+        "nourriture": "Boules de riz"
+    },
+    {
+        "name": "Scatcheur", 
+        "rank": "B",
+        "tribu": "Vaillant",
+        "element": "Terre",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Légumes"
+    },
+    {
+        "name": "Scarmouche", 
+        "rank": "S",
+        "tribu": "Vaillant",
+        "element": "Glace",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Légumes"
+    },
+    {
+        "name": "Scarnage", 
+        "rank": "S",
+        "tribu": "Vaillant",
+        "element": "Foudre",
+        "rarity": "Rare",
+        "role": "Ranger",
+        "nourriture": "Légumes"
+    },
+    {
+        "name": "Zerberker", 
+        "rank": "S",
+        "tribu": "Vaillant",
+        "element": "Feu",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Viande"
+    },
+    {
+        "name": "Fouétar", 
+        "rank": "S",
+        "tribu": "Vaillant",
+        "element": "Glace",
+        "rarity": "Rare",
+        "role": "Combattant",
+        "nourriture": "Viande"
+    },
+    {
+        "name": "Morvobec",
+        "rank": "E",
+        "tribu": "Mysterieux",
+        "element":"Eau",
+        "rarity":"Commun",
+        "role":"Ranger",
+        "nourriture":"Fruits de mer"
+    },
+    {
+        "name": "Matchou",
+        "rank": "D",
+        "tribu": "Mysterieux",
+        "element":"Glace",
+        "rarity":"Commun",
+        "role":"Ranger",
+        "nourriture":"Fruits de mer"
+    },
+    {
+        "name": "Chaipô",
+        "rank": "E",
+        "tribu": "Mysterieux",
+        "element":"Vent",
+        "rarity":"Commun",
+        "role":"Ranger",
+        "nourriture":"Bonbons"
+
+    },
+    {
+        "name": "Gagalurin",
+        "rank": "E",
+        "tribu": "Mysterieux",
+        "element":"Foudre",
+        "rarity":"Commun",
+        "role":"Ranger",
+        "nourriture":"Bonbons"
+    },
+    {
+        "name": "Papa Ress",
+        "rank": "E",
+        "tribu": "Mysterieux",
+        "element":"Restauration",
+        "rarity":"Commun",
+        "role":"Guérisseur",
+        "nourriture":"Hamburger"
+    },
+    {
+        "name": "Ralbouc",
+        "rank": "C",
+        "tribu": "Mysterieux",
+        "element":"Restauration",
+        "rarity":"Commun",
+        "role":"Guérisseur",
+        "nourriture":"Hamburger"
+    },
+    {
+        "name": "Bastata",
+        "rank": "C",
+        "tribu": "Mysterieux",
+        "element":"Terre",
+        "rarity":"Rare",
+        "role":"Combattant",
+        "nourriture":"Hamburger"
+    },
+    {
+        "name": "Marra",
+        "rank": "D",
+        "tribu": "Mysterieux",
+        "element":"Absorbtion",
+        "rarity":"Commun",
+        "role":"Combattant",
+        "nourriture":"Hamburger"
+    },
+    {
+        "name": "Violette",
+        "rank": "C",
+        "tribu": "Mysterieux",
+        "element":"Absorbtion",
+        "rarity":"Commun",
+        "role":"Combattant",
+        "nourriture":"Hamburger"
+    },
+    {
+        "name": "Toutouïe",
+        "rank": "D",
+        "tribu": "Mysterieux",
+        "element":"Restauration",
+        "rarity":"Commun",
+        "role":"Guérisseur",
+        "nourriture":"Ramen"
+    },
+    {
+        "name": "Babalance",
+        "rank": "B",
+        "tribu": "Mysterieux",
+        "element":"Restauration",
+        "rarity":"Commun",
+        "role":"Guérisseur",
+        "nourriture":"Ramen"
+    },
+    {
+        "name": "Mémétal",
+        "rank": "C",
+        "tribu": "Mysterieux",
+        "element":"Restauration",
+        "rarity":"Rare",
+        "role":"Guérisseur",
+        "nourriture":"Ramen"
+    },
+    {
+        "name": "Cupistol",
+        "rank": "D",
+        "tribu": "Mysterieux",
+        "element":"Vent",
+        "rarity":"Commun",
+        "role":"Combattant",
+        "nourriture":"Pain"
+    },
+    {
+        "name": "Donjouant",
+        "rank": "A",
+        "tribu": "Mysterieux",
+        "element":"Vent",
+        "rarity":"Commun",
+        "role":"Combattant",
+        "nourriture":"Pain"
+    },
+    {
+        "name": "Nonjuant",
+        "rank": "A",
+        "tribu": "Mysterieux",
+        "element":"Feu",
+        "rarity":"Commun",
+        "role":"Combattant",
+        "nourriture":"Pain"
+    },
+    {
+        "name": "Padrézo",
+        "rank": "D",
+        "tribu": "Mysterieux",
+        "element":"Foudre",
+        "rarity":"Commun",
+        "role":"Combattant",
+        "nourriture":"Boules de riz"
+    },
+    {
+        "name": "Emmetor",
+        "rank": "A",
+        "tribu": "Mysterieux",
+        "element":"Foudre",
+        "rarity":"Commun",
+        "role":"Combattant",
+        "nourriture":"Boules de riz"
+    },
+    {
+        "name": "Dynamo",
+        "rank": "SA",
+        "tribu": "Mysterieux",
+        "element":"Foudre",
+        "rarity":"Rare",
+        "role":"Combattant",
+        "nourriture":"Boules de riz"
     }
+
+    
 ]

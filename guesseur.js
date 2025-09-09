@@ -17,13 +17,34 @@ async function loadYokaiList() {
 loadYokaiList().then(list => {
     yokaiList = list;
     SetYokai();
+    populateYokaiNames();   // Call the function to populate the datalist
+    // Add event listener to the input field to filter names as the user types
+    const guessInput = document.getElementById("guessInput");
+    if (guessInput) {
+        guessInput.addEventListener("input", (e) => {
+            populateYokaiNames(e.target.value);
+        });
+    }
     console.log(yokaiList, "here the yokai list");
+    
 }).catch(error => {
     console.error(error);
 });
 
 
-//function to set a random yokai as the mystery yokai
+// Function to populate the datalist with Yokai names, filtered by user input
+function populateYokaiNames(filter = "") {
+    const datalist = document.getElementById("yokai-names");
+    datalist.innerHTML = "";
+    yokaiList.forEach(yokai => {
+        if (yokai.name.toLowerCase().startsWith(filter.toLowerCase())) {
+            const option = document.createElement("option");
+            option.value = yokai.name;
+            datalist.appendChild(option);
+        }
+    });
+}
+//function to set a random yokai as the mystery yokai(test will be removed)
 
 function SetYokai(){
     Yokaimystere = yokaiList[Math.floor(Math.random() * yokaiList.length)]
@@ -124,18 +145,18 @@ function checkGuess(){
         document.getElementById("nourriture").classList.add("bg-red-600")
         //case if the favourite food is incorrect
     }
-    if (guessYokai.couleur === Yokaimystere.couleur){
-        document.getElementById("couleur").querySelector("p").classList.remove("hidden")
-        document.getElementById("couleur").querySelector("p").textContent = guessYokai.couleur
-        document.getElementById("couleur").classList.remove("bg-red-600")
-        document.getElementById("couleur").classList.add("bg-green-600")
-        //case if the color is correct
+    if (guessYokai.rarity === Yokaimystere.rarity){
+        document.getElementById("rarity").querySelector("p").classList.remove("hidden")
+        document.getElementById("rarity").querySelector("p").textContent = guessYokai.rarity
+        document.getElementById("rarity").classList.remove("bg-red-600")
+        document.getElementById("rarity").classList.add("bg-green-600")
+        //case if the rarity is correct
     }else{
-        document.getElementById("couleur").querySelector("p").textContent = guessYokai.couleur
-        document.getElementById("couleur").querySelector("p").classList.remove("hidden")
-        document.getElementById("couleur").classList.remove("bg-green-600")
-        document.getElementById("couleur").classList.add("bg-red-600")
-        //case if the color is incorrect
+        document.getElementById("rarity").querySelector("p").textContent = guessYokai.rarity
+        document.getElementById("rarity").querySelector("p").classList.remove("hidden")
+        document.getElementById("rarity").classList.remove("bg-green-600")
+        document.getElementById("rarity").classList.add("bg-red-600")
+        //case if the rarity is incorrect
     }
 
 }
