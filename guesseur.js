@@ -1,3 +1,4 @@
+
 let Yokaimystere; // global variable to hold the mystery Yokai(will be set later)
 let yokaiList = []; //will be loaded from yokailist.json
 
@@ -51,7 +52,31 @@ function SetYokai(){
     console.log(Yokaimystere)
 }
 
+
+function addGuessDiv(guessYokai){
+    const container = document.getElementById("guess-container")
+    const div = document.createElement("div")
+    div.className = "flex item-center justify-center gap-4 w-full"
+    function getColor(category){
+        return String(guessYokai[category]).trim().toLowerCase() === String(Yokaimystere[category]).trim().toLowerCase()
+        ? "bg-green-600"
+        : "bg-red-600";
+    }
+    div.innerHTML = `
+        <div class="${getColor('name')} aspect-square w-24 flex justify-center items-center">${guessYokai.name}</div>
+        <div class="${getColor('rank')} aspect-square w-24 flex justify-center items-center">${guessYokai.rank}</div>
+        <div class="${getColor('tribu')} aspect-square w-24 flex justify-center items-center">${guessYokai.tribu}</div>
+        <div class="${getColor('element')} aspect-square w-24 flex justify-center items-center">${guessYokai.element}</div>
+        <div class="${getColor('role')} aspect-square w-24 flex justify-center items-center">${guessYokai.role}</div>
+        <div class="${getColor('nourriture')} aspect-square w-24 flex justify-center items-center">${guessYokai.nourriture}</div>
+        <div class="${getColor('rarity')} aspect-square w-24 flex justify-center items-center">${guessYokai.rarity}</div>
+    `
+    container.appendChild(div)
+}
+
+
 // Function to check the user's guess against the mystery Yokai
+
 
 function checkGuess(){
 
@@ -70,6 +95,7 @@ function checkGuess(){
         console.log("existe pas")
         return
     }
+    addGuessDiv(guessYokai)
 
     // Create a new div to display the guess
     if (guessYokai.name === Yokaimystere.name){

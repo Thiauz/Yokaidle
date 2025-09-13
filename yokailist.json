@@ -1096,7 +1096,7 @@
         "rank": "A",
         "tribu": "Bienveillant",
         "element":"Restauration",
-        "rarity":"Combattant",
+        "rarity":"Commun",
         "role":"Guérisseur",
         "nourriture":"Jus"
     },
@@ -1954,7 +1954,68 @@
         "rarity":"Rare",
         "role":"Combattant",
         "nourriture":"Fruits de mer"
+    },
+    {
+        "name": "Emeranyan", 
+        "rank": "A",
+        "tribu": "Mignon",
+        "element":"Restauration",
+        "rarity":"Rare",
+        "role":"Guérisseur",
+        "nourriture":"Fruits de mer"
+    },
+    {
+        "name": "Rubinyan", 
+        "rank": "A",
+        "tribu": "Mignon",
+        "element":"Feu",
+        "rarity":"Rare",
+        "role":"Combattant",
+        "nourriture":"Fruits de mer"
+    },
+    {
+        "name": "Topanyan", 
+        "rank": "A",
+        "tribu": "Mignon",
+        "element":"Foudre",
+        "rarity":"Rare",
+        "role":"Combattant",
+        "nourriture":"Fruits de mer"
+    },
+    {
+        "name": "Diamanyan", 
+        "rank": "A",
+        "tribu": "Mignon",
+        "element":"Glace",
+        "rarity":"Rare",
+        "role":"Combattant",
+        "nourriture":"Fruits de mer"
+    },
+    {
+        "name": "Gargaros",
+        "rank": "S",
+        "tribu": "Costaud",
+        "element":"Feu",
+        "rarity":"Rare",
+        "role":"Combattant",
+        "nourriture":"Viande"
+    },
+    {
+        "name": "Ogralos",
+        "rank": "S",
+        "tribu": "Costaud",
+        "element":"Eau",
+        "rarity":"Rare",
+        "role":"Combattant",
+        "nourriture":"Viande"
+    },
+    {
+        "name": "Orcanos",
+        "rank": "S",
+        "tribu": "Costaud",
+        "element":"Absorbtion",
+        "rarity":"Rare",
+        "role":"Combattant",
+        "nourriture":"Viande"
     }
-    
-
 ]
