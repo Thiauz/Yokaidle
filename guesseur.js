@@ -56,20 +56,20 @@ function SetYokai(){
 function addGuessDiv(guessYokai){
     const container = document.getElementById("guess-container")
     const div = document.createElement("div")
-    div.className = "flex item-center justify-center gap-4 w-full"
+    div.className = "flex item-center justify-center gap-4 w-full md:shrink-0"
     function getColor(category){
         return String(guessYokai[category]).trim().toLowerCase() === String(Yokaimystere[category]).trim().toLowerCase()
         ? "bg-green-600"
         : "bg-red-600";
     }
     div.innerHTML = `
-        <div class="${getColor('name')} aspect-square w-24 flex justify-center items-center">${guessYokai.name}</div>
-        <div class="${getColor('rank')} aspect-square w-24 flex justify-center items-center">${guessYokai.rank}</div>
-        <div class="${getColor('tribu')} aspect-square w-24 flex justify-center items-center">${guessYokai.tribu}</div>
-        <div class="${getColor('element')} aspect-square w-24 flex justify-center items-center">${guessYokai.element}</div>
-        <div class="${getColor('role')} aspect-square w-24 flex justify-center items-center">${guessYokai.role}</div>
-        <div class="${getColor('nourriture')} aspect-square w-24 flex justify-center items-center">${guessYokai.nourriture}</div>
-        <div class="${getColor('rarity')} aspect-square w-24 flex justify-center items-center">${guessYokai.rarity}</div>
+        <div class="${getColor('name')} aspect-square h-24 w-24 max-md:h-16 max-md:w-16 max-sm:w-10 max-sm:h-10 flex justify-center items-center text-base max-md:text-sm text-center break-words whitespace-normal overflow-hidden max-sm:text-[0.625rem]">${guessYokai.name}</div>
+        <div class="${getColor('rank')} aspect-square h-24 w-24 max-md:h-16 max-md:w-16 max-sm:w-10 max-sm:h-10 flex justify-center items-center text-base max-md:text-sm text-center break-words whitespace-normal overflow-hidden max-sm:text-[0.625rem]">${guessYokai.rank}</div>
+        <div class="${getColor('tribu')} aspect-square w-24 h-24 max-md:h-16 max-md:w-16 max-sm:w-10 max-sm:h-10 flex justify-center items-center text-base max-md:text-sm text-center break-words whitespace-normal overflow-hidden max-sm:text-[0.625rem]">${guessYokai.tribu}</div>
+        <div class="${getColor('element')} aspect-square w-24 h-24 max-md:h-16 max-md:w-16 max-sm:w-10 max-sm:h-10 flex justify-center items-center text-base max-md:text-sm text-center break-words whitespace-normal overflow-hidden max-sm:text-[0.625rem]">${guessYokai.element}</div>
+        <div class="${getColor('role')} aspect-square w-24 flex h-24 max-md:h-16 max-md:w-16 max-sm:w-10 max-sm:h-10 justify-center items-center text-base max-md:text-sm text-center break-words whitespace-normal overflow-hidden max-sm:text-[0.625rem]">${guessYokai.role}</div>
+        <div class="${getColor('nourriture')} aspect-square w-24 h-24 max-md:h-16 max-md:w-16 max-sm:w-10 max-sm:h-10 flex justify-center items-center text-base max-md:text-sm text-center break-words whitespace-normal overflow-hidden max-sm:text-[0.625rem]">${guessYokai.nourriture}</div>
+        <div class="${getColor('rarity')} aspect-square w-24 flex h-24 max-md:h-16 max-md:w-16 max-sm:w-10 max-sm:h-10 justify-center items-center text-base max-md:text-sm text-center break-words whitespace-normal overflow-hidden max-sm:text-[0.625rem]">${guessYokai.rarity}</div>
     `
     container.appendChild(div)
 }
