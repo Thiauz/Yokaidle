@@ -84,21 +84,23 @@
         const guessInput = document.getElementById("guessInput")
         const guess = guessInput.value.trim()
 
-        // If the input is empty, do nothing
-
-        if (!guess) return
-
         // Find the guessed Yokai in the list
         const guessYokai = yokaiList.find(y => y.name.toLowerCase() === guess.toLowerCase())
+        // If the input is empty, do nothing
         // If the guessed Yokai is not found, do nothing
-        if (!guessYokai) {
 
-            return
-        }
+        if (!guess || !guessYokai) return
+
+        
 
         
 
         addGuessDiv(guessYokai)
+        guessInput.value = ""
+        
+        guessInput.blur()
+        populateYokaiNames("")
+
 
         // Create a new div to display the guess
         if (guessYokai.name === Yokaimystere.name) {
