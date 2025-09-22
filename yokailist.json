@@ -1,13 +1,13 @@
 [
     {
-        "name": "Woko", 
+        "name": "Woko",
         "rank": "E",
         "tribu": "Vaillant",
         "element": "Feu",
         "rarity": "Commun",
         "role": "Combattant",
-        "nourriture": "Boules de riz"
-
+        "nourriture": "Boules de riz",
+        "image": "/images/yokai_images/Woko.png"
     },
     {
         "name": "Pagno",
@@ -16,7 +16,8 @@
         "element": "Feu",
         "rarity": "Commun",
         "role": "Combattant",
-        "nourriture": "Boules de riz"
+        "nourriture": "Boules de riz",
+        "image": "/images/yokai_images/Pagno.png"
     },
     {
         "name": "Alfoncéo",
@@ -25,7 +26,8 @@
         "element": "Terre",
         "rarity": "Rare",
         "role": "Combattant",
-        "nourriture": "Boules de riz"
+        "nourriture": "Boules de riz",
+        "image": "/images/yokai_images/Alfoncéo.png"
     },
     {
         "name": "Toumou",
@@ -34,7 +36,8 @@
         "element": "Vent",
         "rarity": "Commun",
         "role": "Combattant",
-        "nourriture": "Jus"
+        "nourriture": "Jus",
+        "image": "/images/yokai_images/Toumou.png"
     },
     {
         "name": "Lamlam'mou",
@@ -43,7 +46,8 @@
         "element": "Vent",
         "rarity": "Commun",
         "role": "Combattant",
-        "nourriture": "Jus"
+        "nourriture": "Jus",
+        "image": "/images/yokai_images/Lamlam'mou.png"
     },
     {
         "name": "Samoumourai",
@@ -52,7 +56,8 @@
         "element": "Glace",
         "rarity": "Rare",
         "role": "Combattant",
-        "nourriture": "Jus"
+        "nourriture": "Jus",
+        "image": "/images/yokai_images/Samoumourai.png"
     },
     {
         "name": "Sumochi",
@@ -61,7 +66,8 @@
         "element": "Terre",
         "rarity": "Commun",
         "role": "Combattant",
-        "nourriture": "Boules de riz"
+        "nourriture": "Boules de riz",
+        "image": "/images/yokai_images/Sumochi.png"
     },
     {
         "name": "Mochimacho",
@@ -70,7 +76,8 @@
         "element": "Feu",
         "rarity": "Commun",
         "role": "Combattant",
-        "nourriture": "Boules de riz"
+        "nourriture": "Boules de riz",
+        "image": "/images/yokai_images/Mochimacho.png"
     },
     {
         "name": "Heaumer",
@@ -79,7 +86,8 @@
         "element": "Foudre",
         "rarity": "Commun",
         "role": "Tank",
-        "nourriture": "Légumes"
+        "nourriture": "Légumes",
+        "image": "/images/yokai_images/Heaumer.png"
     },
     {
         "name": "Bushidos",
@@ -88,7 +96,8 @@
         "element": "Foudre",
         "rarity": "Commun",
         "role": "Tank",
-        "nourriture": "Légumes"
+        "nourriture": "Légumes",
+        "image": "/images/yokai_images/Bushidos.png"
     },
     {
         "name": "Amiral",
@@ -97,7 +106,8 @@
         "element": "Absorbtion",
         "rarity": "Rare",
         "role": "Combattant",
-        "nourriture": "Légumes"
+        "nourriture": "Légumes",
+        "image": "/images/yokai_images/Amiral.png"
     },
     {
         "name": "Feulion",
@@ -106,7 +116,8 @@
         "element": "Feu",
         "rarity": "Commun",
         "role": "Ranger",
-        "nourriture": "Viande"
+        "nourriture": "Viande",
+        "image": "/images/yokai_images/Feulion.png"
     },
     {
         "name": "Vibrilion",
@@ -115,7 +126,8 @@
         "element": "Terre",
         "rarity": "Commun",
         "role": "Combattant",
-        "nourriture": "Viande"
+        "nourriture": "Viande",
+        "image": "/images/yokai_images/Vibrilion.png"
     },
     {
         "name": "Siro",
@@ -124,7 +136,8 @@
         "element": "Foudre",
         "rarity": "Rare",
         "role": "Combattant",
-        "nourriture": "Viande"
+        "nourriture": "Viande",
+        "image": "/images/yokai_images/Siro.png"
     },
     {
         "name": "Bonneto",
@@ -133,7 +146,8 @@
         "element": "Feu",
         "rarity": "Commun",
         "role": "Ranger",
-        "nourriture": "Fruits de mer"
+        "nourriture": "Fruits de mer",
+        "image": "/images/yokai_images/Bonneto.png"
     },
     {
         "name": "Sabri",
@@ -142,7 +156,8 @@
         "element": "Vent",
         "rarity": "Commun",
         "role": "Ranger",
-        "nourriture": "Fruits de mer"
+        "nourriture": "Fruits de mer",
+        "image": "/images/yokai_images/Sabri.png"
     },
     {
         "name": "Padelou",
@@ -151,7 +166,8 @@
         "element": "Absorbtion",
         "rarity": "Commun",
         "role": "Combattant",
-        "nourriture": "Fruits de mer"
+        "nourriture": "Fruits de mer",
+        "image": "/images/yokai_images/Padelou.png"
     },
     {
         "name": "Orox",
@@ -160,1862 +176,2087 @@
         "element": "Foudre",
         "rarity": "Rare",
         "role": "Combattant",
-        "nourriture": "Fruits de mer"
+        "nourriture": "Fruits de mer",
+        "image": "/images/yokai_images/Orox.png"
     },
     {
-        "name": "Benkei", 
+        "name": "Benkei",
         "rank": "B",
         "tribu": "Vaillant",
         "element": "Glace",
         "rarity": "Commun",
         "role": "Tank",
-        "nourriture": "Nourriture Chinoise"
+        "nourriture": "Nourriture Chinoise",
+        "image": "/images/yokai_images/Benkei.png"
     },
     {
-        "name": "B3-NK1", 
+        "name": "B3-NK1",
         "rank": "B",
         "tribu": "Vaillant",
         "element": "Foudre",
         "rarity": "Commun",
         "role": "Tank",
-        "nourriture": "Nourriture Chinoise"
+        "nourriture": "Nourriture Chinoise",
+        "image": "/images/yokai_images/B3-NK1.png"
     },
     {
-        "name": "Sushiyama", 
+        "name": "Sushiyama",
         "rank": "B",
         "tribu": "Vaillant",
         "element": "Glace",
         "rarity": "Commun",
         "role": "Combattant",
-        "nourriture": "Boules de riz"
+        "nourriture": "Boules de riz",
+        "image": "/images/yokai_images/Sushiyama.png"
     },
     {
-        "name": "Kapunki", 
+        "name": "Kapunki",
         "rank": "A",
         "tribu": "Vaillant",
         "element": "Feu",
         "rarity": "Rare",
         "role": "Combattant",
-        "nourriture": "Boules de riz"
+        "nourriture": "Boules de riz",
+        "image": "/images/yokai_images/Kapunki.png"
     },
     {
-        "name": "Scatcheur", 
+        "name": "Scatcheur",
         "rank": "B",
         "tribu": "Vaillant",
         "element": "Terre",
         "rarity": "Commun",
         "role": "Combattant",
-        "nourriture": "Légumes"
+        "nourriture": "Légumes",
+        "image": "/images/yokai_images/Scatcheur.png"
     },
     {
-        "name": "Scarmouche", 
+        "name": "Scarmouche",
         "rank": "S",
         "tribu": "Vaillant",
         "element": "Glace",
         "rarity": "Commun",
         "role": "Combattant",
-        "nourriture": "Légumes"
+        "nourriture": "Légumes",
+        "image": "/images/yokai_images/Scarmouche.png"
     },
     {
-        "name": "Scarnage", 
+        "name": "Scarnage",
         "rank": "S",
         "tribu": "Vaillant",
         "element": "Foudre",
         "rarity": "Rare",
         "role": "Ranger",
-        "nourriture": "Légumes"
+        "nourriture": "Légumes",
+        "image": "/images/yokai_images/Scarnage.png"
     },
     {
-        "name": "Zerberker", 
+        "name": "Zerberker",
         "rank": "S",
         "tribu": "Vaillant",
         "element": "Feu",
         "rarity": "Commun",
         "role": "Combattant",
-        "nourriture": "Viande"
+        "nourriture": "Viande",
+        "image": "/images/yokai_images/Zerberker.png"
     },
     {
-        "name": "Fouétar", 
+        "name": "Fouétar",
         "rank": "S",
         "tribu": "Vaillant",
         "element": "Glace",
         "rarity": "Rare",
         "role": "Combattant",
-        "nourriture": "Viande"
+        "nourriture": "Viande",
+        "image": "/images/yokai_images/Fouétar.png"
     },
     {
         "name": "Morvobec",
         "rank": "E",
         "tribu": "Mysterieux",
-        "element":"Eau",
-        "rarity":"Commun",
-        "role":"Ranger",
-        "nourriture":"Fruits de mer"
+        "element": "Eau",
+        "rarity": "Commun",
+        "role": "Ranger",
+        "nourriture": "Fruits de mer",
+        "image": "/images/yokai_images/Morvobec.png"
     },
     {
         "name": "Matchou",
         "rank": "D",
         "tribu": "Mysterieux",
-        "element":"Glace",
-        "rarity":"Commun",
-        "role":"Ranger",
-        "nourriture":"Fruits de mer"
+        "element": "Glace",
+        "rarity": "Commun",
+        "role": "Ranger",
+        "nourriture": "Fruits de mer",
+        "image": "/images/yokai_images/Matchou.png"
     },
     {
         "name": "Chaipô",
         "rank": "E",
         "tribu": "Mysterieux",
-        "element":"Vent",
-        "rarity":"Commun",
-        "role":"Ranger",
-        "nourriture":"Bonbons"
-
+        "element": "Vent",
+        "rarity": "Commun",
+        "role": "Ranger",
+        "nourriture": "Bonbons",
+        "image": "/images/yokai_images/Chaipô.png"
     },
     {
         "name": "Gagalurin",
         "rank": "E",
         "tribu": "Mysterieux",
-        "element":"Foudre",
-        "rarity":"Commun",
-        "role":"Ranger",
-        "nourriture":"Bonbons"
+        "element": "Foudre",
+        "rarity": "Commun",
+        "role": "Ranger",
+        "nourriture": "Bonbons",
+        "image": "/images/yokai_images/Gagalurin.png"
     },
     {
         "name": "Papa Ress",
         "rank": "E",
         "tribu": "Mysterieux",
-        "element":"Restauration",
-        "rarity":"Commun",
-        "role":"Guérisseur",
-        "nourriture":"Hamburger"
+        "element": "Restauration",
+        "rarity": "Commun",
+        "role": "Guérisseur",
+        "nourriture": "Hamburger",
+        "image": "/images/yokai_images/Papa_Ress.png"
     },
     {
         "name": "Ralbouc",
         "rank": "C",
         "tribu": "Mysterieux",
-        "element":"Restauration",
-        "rarity":"Commun",
-        "role":"Guérisseur",
-        "nourriture":"Hamburger"
+        "element": "Restauration",
+        "rarity": "Commun",
+        "role": "Guérisseur",
+        "nourriture": "Hamburger",
+        "image": "/images/yokai_images/Ralbouc.png"
     },
     {
         "name": "Bastata",
         "rank": "C",
         "tribu": "Mysterieux",
-        "element":"Terre",
-        "rarity":"Rare",
-        "role":"Combattant",
-        "nourriture":"Hamburger"
+        "element": "Terre",
+        "rarity": "Rare",
+        "role": "Combattant",
+        "nourriture": "Hamburger",
+        "image": "/images/yokai_images/Bastata.png"
     },
     {
         "name": "Marra",
         "rank": "D",
         "tribu": "Mysterieux",
-        "element":"Absorbtion",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Hamburger"
+        "element": "Absorbtion",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Hamburger",
+        "image": "/images/yokai_images/Marra.png"
     },
     {
         "name": "Violette",
         "rank": "C",
         "tribu": "Mysterieux",
-        "element":"Absorbtion",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Hamburger"
+        "element": "Absorbtion",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Hamburger",
+        "image": "/images/yokai_images/Violette.png"
     },
     {
         "name": "Toutouïe",
         "rank": "D",
         "tribu": "Mysterieux",
-        "element":"Restauration",
-        "rarity":"Commun",
-        "role":"Guérisseur",
-        "nourriture":"Ramen"
+        "element": "Restauration",
+        "rarity": "Commun",
+        "role": "Guérisseur",
+        "nourriture": "Ramen",
+        "image": "/images/yokai_images/Toutouïe.png"
     },
     {
         "name": "Babalance",
         "rank": "B",
         "tribu": "Mysterieux",
-        "element":"Restauration",
-        "rarity":"Commun",
-        "role":"Guérisseur",
-        "nourriture":"Ramen"
+        "element": "Restauration",
+        "rarity": "Commun",
+        "role": "Guérisseur",
+        "nourriture": "Ramen",
+        "image": "/images/yokai_images/Babalance.png"
     },
     {
         "name": "Mémétal",
         "rank": "C",
         "tribu": "Mysterieux",
-        "element":"Restauration",
-        "rarity":"Rare",
-        "role":"Guérisseur",
-        "nourriture":"Ramen"
+        "element": "Restauration",
+        "rarity": "Rare",
+        "role": "Guérisseur",
+        "nourriture": "Ramen",
+        "image": "/images/yokai_images/Mémétal.png"
     },
     {
         "name": "Cupistol",
         "rank": "D",
         "tribu": "Mysterieux",
-        "element":"Vent",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Pain"
+        "element": "Vent",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Pain",
+        "image": "/images/yokai_images/Cupistol.png"
     },
     {
         "name": "Donjouant",
         "rank": "A",
         "tribu": "Mysterieux",
-        "element":"Vent",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Pain"
+        "element": "Vent",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Pain",
+        "image": "/images/yokai_images/Donjouant.png"
     },
     {
         "name": "Nonjuant",
         "rank": "A",
         "tribu": "Mysterieux",
-        "element":"Feu",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Pain"
+        "element": "Feu",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Pain",
+        "image": "/images/yokai_images/Nonjuant.png"
     },
     {
         "name": "Padrézo",
         "rank": "D",
         "tribu": "Mysterieux",
-        "element":"Foudre",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Boules de riz"
+        "element": "Foudre",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Boules de riz",
+        "image": "/images/yokai_images/Padrézo.png"
     },
     {
         "name": "Emmetor",
         "rank": "A",
         "tribu": "Mysterieux",
-        "element":"Foudre",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Boules de riz"
+        "element": "Foudre",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Boules de riz",
+        "image": "/images/yokai_images/Emmetor.png"
     },
     {
         "name": "Dynamo",
         "rank": "S",
         "tribu": "Mysterieux",
-        "element":"Foudre",
-        "rarity":"Rare",
-        "role":"Combattant",
-        "nourriture":"Boules de riz"
+        "element": "Foudre",
+        "rarity": "Rare",
+        "role": "Combattant",
+        "nourriture": "Boules de riz",
+        "image": "/images/yokai_images/Dynamo.png"
     },
     {
         "name": "Télémir",
         "rank": "C",
         "tribu": "Mysterieux",
-        "element":"Absorbtion",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Nourriture Chinoise"
+        "element": "Absorbtion",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Nourriture Chinoise",
+        "image": "/images/yokai_images/Télémir.png"
     },
     {
         "name": "Nuiroir",
         "rank": "A",
         "tribu": "Mysterieux",
-        "element":"Absorbtion",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Nourriture Chinoise"
+        "element": "Absorbtion",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Nourriture Chinoise",
+        "image": "/images/yokai_images/Nuiroir.png"
     },
     {
         "name": "Hiblusion",
         "rank": "C",
         "tribu": "Mysterieux",
-        "element":"Eau",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Nourriture Chinoise"
+        "element": "Eau",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Nourriture Chinoise",
+        "image": "/images/yokai_images/Hiblusion.png"
     },
     {
         "name": "Hibrouille",
         "rank": "C",
         "tribu": "Mysterieux",
-        "element":"Glace",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Nourriture Chinoise"
+        "element": "Glace",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Nourriture Chinoise",
+        "image": "/images/yokai_images/Hibrouille.png"
+    },
+    {
+        "name": "Hibourling",
+        "rank": "B",
+        "tribu": "Mysterieux",
+        "element": "Foudre",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Nourriture Chinoise",
+        "image": "/images/yokai_images/Hibourling.png"
     },
     {
         "name": "Espi",
         "rank": "B",
         "tribu": "Mysterieux",
-        "element":"Terre",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Légumes"
+        "element": "Terre",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Légumes",
+        "image": "/images/yokai_images/Espi.png"
     },
     {
         "name": "Etassivilia",
         "rank": "B",
         "tribu": "Mysterieux",
-        "element":"Absorbtion",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Légumes"
+        "element": "Absorbtion",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Légumes",
+        "image": "/images/yokai_images/Etassivilla.png"
     },
     {
         "name": "Tengu",
         "rank": "S",
         "tribu": "Mysterieux",
-        "element":"Vent",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Bonbons"
+        "element": "Vent",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Bonbons",
+        "image": "/images/yokai_images/Tengu.png"
     },
     {
         "name": "Tengurou",
         "rank": "S",
         "tribu": "Mysterieux",
-        "element":"Feu",
-        "rarity":"Rare",
-        "role":"Combattant",
-        "nourriture":"Légumes"
+        "element": "Feu",
+        "rarity": "Rare",
+        "role": "Combattant",
+        "nourriture": "Légumes",
+        "image": "/images/yokai_images/Tengurou.png"
     },
     {
         "name": "Kyubi",
         "rank": "S",
         "tribu": "Mysterieux",
-        "element":"Feu",
-        "rarity":"Combattant",
-        "role":"Combattant",
-        "nourriture":"Fruits de mer"
+        "element": "Feu",
+        "rarity": "Combattant",
+        "role": "Combattant",
+        "nourriture": "Fruits de mer",
+        "image": "/images/yokai_images/Kyubi.png"
     },
     {
         "name": "Barakabo",
         "rank": "S",
         "tribu": "Mysterieux",
-        "element":"Glace",
-        "rarity":"Rare",
-        "role":"Combattant",
-        "nourriture":"Fruits de mer"
+        "element": "Glace",
+        "rarity": "Rare",
+        "role": "Combattant",
+        "nourriture": "Fruits de mer",
+        "image": "/images/yokai_images/Barakabo.png"
     },
     {
         "name": "Darabajoie",
         "rank": "E",
         "tribu": "Costaud",
-        "element":"Terre",
-        "rarity":"Commun",
-        "role":"Tank",
-        "nourriture":"Pain"
+        "element": "Terre",
+        "rarity": "Commun",
+        "role": "Tank",
+        "nourriture": "Pain",
+        "image": "/images/yokai_images/Darabajoie.png"
     },
     {
         "name": "Darumacho",
         "rank": "B",
         "tribu": "Costaud",
-        "element":"Terre",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Pain"
+        "element": "Terre",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Pain",
+        "image": "/images/yokai_images/Darumacho.png"
     },
     {
         "name": "Goruma",
         "rank": "B",
         "tribu": "Costaud",
-        "element":"Vent",
-        "rarity":"Commun",
-        "role":"Tank",
-        "nourriture":"Pain"
+        "element": "Vent",
+        "rarity": "Commun",
+        "role": "Tank",
+        "nourriture": "Pain",
+        "image": "/images/yokai_images/Goruma.png"
     },
     {
         "name": "Nanpart",
         "rank": "E",
         "tribu": "Costaud",
-        "element":"Terre",
-        "rarity":"Commun",
-        "role":"Tank",
-        "nourriture":"Ramen"
+        "element": "Terre",
+        "rarity": "Commun",
+        "role": "Tank",
+        "nourriture": "Ramen",
+        "image": "/images/yokai_images/Nanpart.png"
     },
     {
         "name": "Passpa",
         "rank": "A",
         "tribu": "Costaud",
-        "element":"Terre",
-        "rarity":"Commun",
-        "role":"Tank",
-        "nourriture":"Ramen"
+        "element": "Terre",
+        "rarity": "Commun",
+        "role": "Tank",
+        "nourriture": "Ramen",
+        "image": "/images/yokai_images/Passpa.png"
     },
     {
         "name": "Granpart",
         "rank": "A",
         "tribu": "Costaud",
-        "element":"Terre",
-        "rarity":"Rare",
-        "role":"Tank",
-        "nourriture":"Ramen"
+        "element": "Terre",
+        "rarity": "Rare",
+        "role": "Tank",
+        "nourriture": "Ramen",
+        "image": "/images/yokai_images/Granpart.png"
     },
     {
         "name": "Hauber",
         "rank": "D",
         "tribu": "Costaud",
-        "element":"Glace",
-        "rarity":"Commun",
-        "role":"Tank",
-        "nourriture":"Légumes"
+        "element": "Glace",
+        "rarity": "Commun",
+        "role": "Tank",
+        "nourriture": "Légumes",
+        "image": "/images/yokai_images/Hauber.png"
     },
     {
         "name": "Pachycoul",
         "rank": "C",
         "tribu": "Costaud",
-        "element":"Eau",
-        "rarity":"Commun",
-        "role":"Tank",
-        "nourriture":"Boules de riz"
+        "element": "Eau",
+        "rarity": "Commun",
+        "role": "Tank",
+        "nourriture": "Boules de riz",
+        "image": "/images/yokai_images/Pachycoul.png"
     },
     {
         "name": "Persévéfant",
         "rank": "C",
         "tribu": "Costaud",
-        "element":"Eau",
-        "rarity":"Commun",
-        "role":"Tank",
-        "nourriture":"Boules de riz"
+        "element": "Eau",
+        "rarity": "Commun",
+        "role": "Tank",
+        "nourriture": "Boules de riz",
+        "image": "/images/yokai_images/Persévéfant.png"
     },
     {
         "name": "Boulapic",
         "rank": "D",
         "tribu": "Costaud",
-        "element":"Eau",
-        "rarity":"Commun",
-        "role":"Tank",
-        "nourriture":"Lait"
+        "element": "Eau",
+        "rarity": "Commun",
+        "role": "Tank",
+        "nourriture": "Lait",
+        "image": "/images/yokai_images/Boulapic.png"
     },
     {
         "name": "Bouldacier",
         "rank": "D",
         "tribu": "Costaud",
-        "element":"Eau",
-        "rarity":"Commun",
-        "role":"Tank",
-        "nourriture":"Lait"
+        "element": "Eau",
+        "rarity": "Commun",
+        "role": "Tank",
+        "nourriture": "Lait",
+        "image": "/images/yokai_images/Bouldacier.png"
     },
     {
         "name": "Lama Laya",
         "rank": "C",
         "tribu": "Costaud",
-        "element":"Glace",
-        "rarity":"Commun",
-        "role":"Tank",
-        "nourriture":"Boules de riz"
-
+        "element": "Glace",
+        "rarity": "Commun",
+        "role": "Tank",
+        "nourriture": "Boules de riz",
+        "image": "/images/yokai_images/Lama_Laya.png"
     },
     {
         "name": "Etna Magma",
         "rank": "B",
         "tribu": "Costaud",
-        "element":"Foudre",
-        "rarity":"Commun",
-        "role":"Tank",
-        "nourriture":"Boules de riz"
+        "element": "Foudre",
+        "rarity": "Commun",
+        "role": "Tank",
+        "nourriture": "Boules de riz",
+        "image": "/images/yokai_images/Etna_Magma.png"
     },
     {
         "name": "Loubarbare",
         "rank": "E",
         "tribu": "Costaud",
-        "element":"Terre",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Ramen"
+        "element": "Terre",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Ramen",
+        "image": "/images/yokai_images/Loubarbare.png"
     },
     {
         "name": "Racaïd",
         "rank": "B",
         "tribu": "Costaud",
-        "element":"Terre",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Ramen"
+        "element": "Terre",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Ramen",
+        "image": "/images/yokai_images/Racaïd.png"
     },
     {
         "name": "Frérosse",
         "rank": "A",
         "tribu": "Costaud",
-        "element":"Terre",
-        "rarity":"Rare",
-        "role":"Tank",
-        "nourriture":"Ramen"
+        "element": "Terre",
+        "rarity": "Rare",
+        "role": "Tank",
+        "nourriture": "Ramen",
+        "image": "/images/yokai_images/Frérosse.png"
     },
     {
         "name": "Coléroptère",
         "rank": "B",
         "tribu": "Costaud",
-        "element":"Terre",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Légumes"
+        "element": "Terre",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Légumes",
+        "image": "/images/yokai_images/Coléroptère.png"
     },
     {
         "name": "Rhinolimit",
         "rank": "S",
         "tribu": "Costaud",
-        "element":"Terre",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Légumes"
+        "element": "Terre",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Légumes",
+        "image": "/images/yokai_images/Rhinolimit.png"
     },
     {
         "name": "Corniaque",
         "rank": "S",
         "tribu": "Costaud",
-        "element":"Terre",
-        "rarity":"Rare",
-        "role":"Combattant",
-        "nourriture":"Légumes"
+        "element": "Terre",
+        "rarity": "Rare",
+        "role": "Combattant",
+        "nourriture": "Légumes",
+        "image": "/images/yokai_images/Corniaque.png"
     },
     {
         "name": "Castelius III",
         "rank": "C",
         "tribu": "Costaud",
-        "element":"Terre",
-        "rarity":"Commun",
-        "role":"Ranger",
-        "nourriture":"Lait"
+        "element": "Terre",
+        "rarity": "Commun",
+        "role": "Ranger",
+        "nourriture": "Lait",
+        "image": "/images/yokai_images/Castelius_III.png"
     },
     {
         "name": "Castelius II",
         "rank": "B",
         "tribu": "Costaud",
-        "element":"Glace",
-        "rarity":"Commun",
-        "role":"Tank",
-        "nourriture":"Lait"
+        "element": "Glace",
+        "rarity": "Commun",
+        "role": "Tank",
+        "nourriture": "Lait",
+        "image": "/images/yokai_images/Castelius_II.png"
     },
     {
         "name": "Castelius I",
         "rank": "A",
         "tribu": "Costaud",
-        "element":"Foudre",
-        "rarity":"Commun",
-        "role":"Ranger",
-        "nourriture":"Lait"
+        "element": "Foudre",
+        "rarity": "Commun",
+        "role": "Ranger",
+        "nourriture": "Lait",
+        "image": "/images/yokai_images/Castelius_I.png"
     },
     {
         "name": "Castelius Max",
         "rank": "S",
         "tribu": "Costaud",
-        "element":"Vent",
-        "rarity":"Rare",
-        "role":"Tank",
-        "nourriture":"Lait"
+        "element": "Vent",
+        "rarity": "Rare",
+        "role": "Tank",
+        "nourriture": "Lait",
+        "image": "/images/yokai_images/Castelius_Max.png"
     },
     {
         "name": "Robonyan",
         "rank": "A",
         "tribu": "Costaud",
-        "element":"Glace",
-        "rarity":"Commun",
-        "role":"Tank",
-        "nourriture":"Fruits de mer"
+        "element": "Glace",
+        "rarity": "Commun",
+        "role": "Tank",
+        "nourriture": "Fruits de mer",
+        "image": "/images/yokai_images/Robonyan.png"
     },
     {
         "name": "Oronyan",
         "rank": "S",
         "tribu": "Costaud",
-        "element":"Foudre",
-        "rarity":"Rare",
-        "role":"Tank",
-        "nourriture":"Fruits de mer"
+        "element": "Foudre",
+        "rarity": "Rare",
+        "role": "Tank",
+        "nourriture": "Fruits de mer",
+        "image": "/images/yokai_images/Oronyan.png"
     },
     {
         "name": "Misterre",
         "rank": "S",
         "tribu": "Costaud",
-        "element":"Terre",
-        "rarity":"Commun",
-        "role":"Tank",
-        "nourriture":"Légumes"
+        "element": "Terre",
+        "rarity": "Commun",
+        "role": "Tank",
+        "nourriture": "Légumes",
+        "image": "/images/yokai_images/Misterre.png"
     },
     {
         "name": "Ressak",
         "rank": "S",
         "tribu": "Costaud",
-        "element":"Eau",
-        "rarity":"Rare",
-        "role":"Tank",
-        "nourriture":"Légumes"
+        "element": "Eau",
+        "rarity": "Rare",
+        "role": "Tank",
+        "nourriture": "Légumes",
+        "image": "/images/yokai_images/Ressak.png"
     },
     {
         "name": "Squarlette",
         "rank": "E",
         "tribu": "Mignon",
-        "element":"Feu",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Hamburger"
+        "element": "Feu",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Hamburger",
+        "image": "/images/yokai_images/Squarlette.png"
     },
     {
         "name": "Margoth",
         "rank": "C",
         "tribu": "Mignon",
-        "element":"Feu",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Hamburger"
+        "element": "Feu",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Hamburger",
+        "image": "/images/yokai_images/Margoth.png"
     },
     {
-        "name": "Squlèbelle",
+        "name": "Squelèbelle",
         "rank": "B",
         "tribu": "Mignon",
-        "element":"Eau",
-        "rarity":"Rare",
-        "role":"Combattant",
-        "nourriture":"Hamburger"
+        "element": "Eau",
+        "rarity": "Rare",
+        "role": "Combattant",
+        "nourriture": "Hamburger",
+        "image": "/images/yokai_images/Squelèbelle.png"
     },
     {
         "name": "Cigalopin",
         "rank": "E",
         "tribu": "Mignon",
-        "element":"Vent",
-        "rarity":"Commun",
-        "role":"Ranger",
-        "nourriture":"Jus"
+        "element": "Vent",
+        "rarity": "Commun",
+        "role": "Ranger",
+        "nourriture": "Jus",
+        "image": "/images/yokai_images/Cigalopin.png"
     },
     {
         "name": "Cigaillard",
         "rank": "C",
         "tribu": "Mignon",
-        "element":"Vent",
-        "rarity":"Commun",
-        "role":"Ranger",
-        "nourriture":"Jus"
+        "element": "Vent",
+        "rarity": "Commun",
+        "role": "Ranger",
+        "nourriture": "Jus",
+        "image": "/images/yokai_images/Cigaillard.png"
     },
     {
         "name": "Cigazouille",
         "rank": "B",
         "tribu": "Mignon",
-        "element":"Feu",
-        "rarity":"Rare",
-        "role":"Ranger",
-        "nourriture":"Jus"
+        "element": "Feu",
+        "rarity": "Rare",
+        "role": "Ranger",
+        "nourriture": "Jus",
+        "image": "/images/yokai_images/Cigazouille.png"
     },
     {
         "name": "Chihuaglagla",
         "rank": "E",
         "tribu": "Mignon",
-        "element":"Glace",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Ramen"
+        "element": "Glace",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Ramen",
+        "image": "/images/yokai_images/Chihuaglagla.png"
     },
     {
         "name": "Froahuahua",
         "rank": "S",
         "tribu": "Mignon",
-        "element":"Glace",
-        "rarity":"Commun",
-        "role":"Ranger",
-        "nourriture":"Ramen"
+        "element": "Glace",
+        "rarity": "Commun",
+        "role": "Ranger",
+        "nourriture": "Ramen",
+        "image": "/images/yokai_images/Froahuahua.png"
     },
     {
         "name": "Cho-Cho",
         "rank": "S",
         "tribu": "Mignon",
-        "element":"Feu",
-        "rarity":"Rare",
-        "role":"Ranger",
-        "nourriture":"Ramen"
+        "element": "Feu",
+        "rarity": "Rare",
+        "role": "Ranger",
+        "nourriture": "Ramen",
+        "image": "/images/yokai_images/Cho-Cho.png"
     },
     {
         "name": "Jibanyan",
         "rank": "D",
         "tribu": "Mignon",
-        "element":"Feu",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Fruits de mer"
+        "element": "Feu",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Fruits de mer",
+        "image": "/images/yokai_images/Jibanyan.png"
     },
     {
         "name": "Epinyan",
         "rank": "B",
         "tribu": "Mignon",
-        "element":"Vent",
-        "rarity":"Commun",
-        "role":"Ranger",
-        "nourriture":"Fruits de mer"
+        "element": "Vent",
+        "rarity": "Commun",
+        "role": "Ranger",
+        "nourriture": "Fruits de mer",
+        "image": "/images/yokai_images/Epinyan.png"
     },
     {
         "name": "Bandinyan",
         "rank": "B",
         "tribu": "Mignon",
-        "element":"Feu",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Fruits de mer"
+        "element": "Feu",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Fruits de mer",
+        "image": "/images/yokai_images/Bandinyan.png"
     },
     {
         "name": "Kappakap",
         "rank": "D",
         "tribu": "Mignon",
-        "element":"Eau",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Légumes"
+        "element": "Eau",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Légumes",
+        "image": "/images/yokai_images/Kappakap.png"
     },
     {
         "name": "Appak",
         "rank": "A",
         "tribu": "Mignon",
-        "element":"Eau",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Légumes"
+        "element": "Eau",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Légumes",
+        "image": "/images/yokai_images/Appak.png"
     },
     {
         "name": "Kappaloha",
         "rank": "A",
         "tribu": "Mignon",
-        "element":"Eau",
-        "rarity":"Rare",
-        "role":"Ranger",
-        "nourriture":"Légumes"
+        "element": "Eau",
+        "rarity": "Rare",
+        "role": "Ranger",
+        "nourriture": "Légumes",
+        "image": "/images/yokai_images/Kappaloha.png"
     },
     {
         "name": "Komasan",
         "rank": "D",
         "tribu": "Mignon",
-        "element":"Feu",
-        "rarity":"Rare",
-        "role":"Combattant",
-        "nourriture":"Lait"
+        "element": "Feu",
+        "rarity": "Rare",
+        "role": "Combattant",
+        "nourriture": "Lait",
+        "image": "/images/yokai_images/Komasan.png"
     },
     {
         "name": "Komajiro",
         "rank": "D",
         "tribu": "Mignon",
-        "element":"Foudre",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Lait"
+        "element": "Foudre",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Lait",
+        "image": "/images/yokai_images/Komajiro.png"
     },
     {
-        "name": "Komaous",
+        "name": "Komaouss",
         "rank": "A",
         "tribu": "Mignon",
-        "element":"Feu",
-        "rarity":"Rare",
-        "role":"Combattant",
-        "nourriture":"Lait"
+        "element": "Feu",
+        "rarity": "Rare",
+        "role": "Combattant",
+        "nourriture": "Lait",
+        "image": "/images/yokai_images/Komaouss.png"
     },
     {
         "name": "Komistigri",
         "rank": "A",
         "tribu": "Mignon",
-        "element":"Foudre",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Lait"
+        "element": "Foudre",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Lait",
+        "image": "/images/yokai_images/Komistigri.png"
     },
     {
         "name": "Baku",
         "rank": "D",
         "tribu": "Mignon",
-        "element":"Absorbtion",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Jus"
+        "element": "Absorbtion",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Jus",
+        "image": "/images/yokai_images/Baku.png"
     },
     {
         "name": "Tapur",
         "rank": "C",
         "tribu": "Mignon",
-        "element":"Absorbtion",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Jus"
+        "element": "Absorbtion",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Jus",
+        "image": "/images/yokai_images/Tapur.png"
     },
     {
         "name": "Pitou",
         "rank": "C",
         "tribu": "Mignon",
-        "element":"Restauration",
-        "rarity":"Commun",
-        "role":"Guérisseur",
-        "nourriture":"Hamburger"
+        "element": "Restauration",
+        "rarity": "Commun",
+        "role": "Guérisseur",
+        "nourriture": "Hamburger",
+        "image": "/images/yokai_images/Pitou.png"
     },
     {
         "name": "Choubidou",
         "rank": "B",
         "tribu": "Mignon",
-        "element":"Restauration",
-        "rarity":"Commun",
-        "role":"Guérisseur",
-        "nourriture":"Hamburger"
+        "element": "Restauration",
+        "rarity": "Commun",
+        "role": "Guérisseur",
+        "nourriture": "Hamburger",
+        "image": "/images/yokai_images/Choubidou.png"
     },
     {
         "name": "Satandre",
         "rank": "A",
         "tribu": "Mignon",
-        "element":"Absorbtion",
-        "rarity":"Rare",
-        "role":"Combattant",
-        "nourriture":"Hamburger"
+        "element": "Absorbtion",
+        "rarity": "Rare",
+        "role": "Combattant",
+        "nourriture": "Hamburger",
+        "image": "/images/yokai_images/Satandre.png"
     },
     {
         "name": "Angélik",
         "rank": "B",
         "tribu": "Mignon",
-        "element":"Glace",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Bonbons"
+        "element": "Glace",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Bonbons",
+        "image": "/images/yokai_images/Angélik.png"
     },
     {
         "name": "Blizzaria",
         "rank": "S",
         "tribu": "Mignon",
-        "element":"Glace",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Bonbons"
+        "element": "Glace",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Bonbons",
+        "image": "/images/yokai_images/Blizzaria.png"
     },
     {
         "name": "Damona",
         "rank": "S",
         "tribu": "Mignon",
-        "element":"Glace",
-        "rarity":"Rare",
-        "role":"Combattant",
-        "nourriture":"Bonbons"
+        "element": "Glace",
+        "rarity": "Rare",
+        "role": "Combattant",
+        "nourriture": "Bonbons",
+        "image": "/images/yokai_images/Damona.png"
     },
     {
         "name": "Noripop",
         "rank": "E",
         "tribu": "Bienveillant",
-        "element":"Restauration",
-        "rarity":"Commun",
-        "role":"Guérisseur",
-        "nourriture":"Ramen"
+        "element": "Restauration",
+        "rarity": "Commun",
+        "role": "Guérisseur",
+        "nourriture": "Ramen",
+        "image": "/images/yokai_images/Noripop.png"
     },
     {
         "name": "Wakapoeira",
         "rank": "E",
         "tribu": "Bienveillant",
-        "element":"Restauration",
-        "rarity":"Commun",
-        "role":"Guérisseur",
-        "nourriture":"Ramen"
+        "element": "Restauration",
+        "rarity": "Commun",
+        "role": "Guérisseur",
+        "nourriture": "Ramen",
+        "image": "/images/yokai_images/Wakapoeira.png"
     },
     {
         "name": "Salsalga",
         "rank": "D",
         "tribu": "Bienveillant",
-        "element":"Restauration",
-        "rarity":"Commun",
-        "role":"Guérisseur",
-        "nourriture":"Ramen"
+        "element": "Restauration",
+        "rarity": "Commun",
+        "role": "Guérisseur",
+        "nourriture": "Ramen",
+        "image": "/images/yokai_images/Salsalga.png"
     },
     {
         "name": "Amoiz",
         "rank": "E",
         "tribu": "Bienveillant",
-        "element":"Foudre",
-        "rarity":"Commun",
-        "role":"Ranger",
-        "nourriture":"Ramen"
+        "element": "Foudre",
+        "rarity": "Commun",
+        "role": "Ranger",
+        "nourriture": "Ramen",
+        "image": "/images/yokai_images/Amoiz.png"
     },
     {
         "name": "Pikor",
         "rank": "D",
         "tribu": "Bienveillant",
-        "element":"Terre",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Ramen"
+        "element": "Terre",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Ramen",
+        "image": "/images/yokai_images/Pikor.png"
     },
     {
         "name": "Granpapéti",
         "rank": "E",
         "tribu": "Bienveillant",
-        "element":"Restauration",
-        "rarity":"Commun",
-        "role":"Guérisseur",
-        "nourriture":"Boules de riz"
+        "element": "Restauration",
+        "rarity": "Commun",
+        "role": "Guérisseur",
+        "nourriture": "Boules de riz",
+        "image": "/images/yokai_images/Granpapéti.png"
     },
     {
         "name": "Puissanfon",
         "rank": "B",
         "tribu": "Bienveillant",
-        "element":"Absorbtion",
-        "rarity":"Rare",
-        "role":"Combattant",
-        "nourriture":"Boules de riz"
+        "element": "Absorbtion",
+        "rarity": "Rare",
+        "role": "Combattant",
+        "nourriture": "Boules de riz",
+        "image": "/images/yokai_images/Puissanfon.png"
     },
     {
-        "name": "Grainpère", 
+        "name": "Grainpère",
         "rank": "B",
         "tribu": "Bienveillant",
-        "element":"Restauration",
-        "rarity":"Rare",
-        "role":"Guérisseur",
-        "nourriture":"Boules de riz"
+        "element": "Restauration",
+        "rarity": "Rare",
+        "role": "Guérisseur",
+        "nourriture": "Boules de riz",
+        "image": "/images/yokai_images/Grainpère.png"
     },
     {
-        "name": "Nomoné", 
+        "name": "Nomoné",
         "rank": "D",
         "tribu": "Bienveillant",
-        "element":"Vent",
-        "rarity":"Commun",
-        "role":"Ranger",
-        "nourriture":"Lait"
+        "element": "Vent",
+        "rarity": "Commun",
+        "role": "Ranger",
+        "nourriture": "Lait",
+        "image": "/images/yokai_images/Nomoné.png"
     },
     {
-        "name": "Noproblemo", 
+        "name": "Noproblemo",
         "rank": "C",
         "tribu": "Bienveillant",
-        "element":"Eau",
-        "rarity":"Commun",
-        "role":"Ranger",
-        "nourriture":"Lait"
+        "element": "Eau",
+        "rarity": "Commun",
+        "role": "Ranger",
+        "nourriture": "Lait",
+        "image": "/images/yokai_images/Noproblemo.png"
     },
     {
-        "name": "Papiltation", 
+        "name": "Papiltation",
         "rank": "D",
         "tribu": "Bienveillant",
-        "element":"Restauration",
-        "rarity":"Commun",
-        "role":"Guérisseur",
-        "nourriture":"Jus"
+        "element": "Restauration",
+        "rarity": "Commun",
+        "role": "Guérisseur",
+        "nourriture": "Jus",
+        "image": "/images/yokai_images/Papiltation.png"
     },
     {
-        "name": "Papiltension", 
+        "name": "Papiltension",
         "rank": "D",
         "tribu": "Bienveillant",
-        "element":"Absorbtion",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Jus"
+        "element": "Absorbtion",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Jus",
+        "image": "/images/yokai_images/Papiltension.png"
     },
     {
-        "name": "Hyprapillon", 
+        "name": "Hyprapillon",
         "rank": "A",
         "tribu": "Bienveillant",
-        "element":"Restauration",
-        "rarity":"Commun",
-        "role":"Guérisseur",
-        "nourriture":"Jus"
+        "element": "Restauration",
+        "rarity": "Commun",
+        "role": "Guérisseur",
+        "nourriture": "Jus",
+        "image": "/images/yokai_images/Hyprapillon.png"
     },
     {
-        "name": "Vitapillon", 
+        "name": "Vitapillon",
         "rank": "S",
         "tribu": "Bienveillant",
-        "element":"Restauration",
-        "rarity":"Commun",
-        "role":"Guérisseur",
-        "nourriture":"Jus"
+        "element": "Restauration",
+        "rarity": "Rare",
+        "role": "Guérisseur",
+        "nourriture": "Jus",
+        "image": "/images/yokai_images/Vitapillon.png"
     },
     {
-        "name": "Jojojoyeux", 
+        "name": "Jojojoyeux",
         "rank": "C",
         "tribu": "Bienveillant",
-        "element":"Restauration",
-        "rarity":"Commun",
-        "role":"Guérisseur",
-        "nourriture":"Pain"
+        "element": "Restauration",
+        "rarity": "Commun",
+        "role": "Guérisseur",
+        "nourriture": "Pain",
+        "image": "/images/yokai_images/Jojojoyeux.png"
     },
     {
-        "name": "Paradoxa", 
+        "name": "Paradoxa",
         "rank": "A",
         "tribu": "Bienveillant",
-        "element":"Restauration",
-        "rarity":"Commun",
-        "role":"Guérisseur",
-        "nourriture":"Pain"
+        "element": "Restauration",
+        "rarity": "Commun",
+        "role": "Guérisseur",
+        "nourriture": "Pain",
+        "image": "/images/yokai_images/Paradoxa.png"
     },
     {
-        "name": "Potaumorose", 
+        "name": "Potaumorose",
         "rank": "A",
         "tribu": "Bienveillant",
-        "element":"Vent",
-        "rarity":"Rare",
-        "role":"Combattant",
-        "nourriture":"Pain"
+        "element": "Vent",
+        "rarity": "Rare",
+        "role": "Combattant",
+        "nourriture": "Pain",
+        "image": "/images/yokai_images/Potaumorose.png"
     },
     {
-        "name": "Ratatam", 
+        "name": "Ratatam",
         "rank": "B",
         "tribu": "Bienveillant",
-        "element":"Restauration",
-        "rarity":"Commun",
-        "role":"Guérisseur",
-        "nourriture":"Lait"
+        "element": "Restauration",
+        "rarity": "Commun",
+        "role": "Guérisseur",
+        "nourriture": "Lait",
+        "image": "/images/yokai_images/Ratatam.png"
     },
     {
-        "name": "Supernoël", 
+        "name": "Supernoël",
         "rank": "B",
         "tribu": "Bienveillant",
-        "element":"Foudre",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Lait"
+        "element": "Foudre",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Lait",
+        "image": "/images/yokai_images/Supernoël.png"
     },
     {
-        "name": "Dédé", 
+        "name": "Dédé",
         "rank": "A",
         "tribu": "Bienveillant",
-        "element":"Restauration",
-        "rarity":"Commun",
-        "role":"Guérisseur",
-        "nourriture":"Bonbons"
+        "element": "Restauration",
+        "rarity": "Commun",
+        "role": "Guérisseur",
+        "nourriture": "Bonbons",
+        "image": "/images/yokai_images/Dédé.png"
     },
     {
-        "name": "Dédestin", 
+        "name": "Dédestin",
         "rank": "A",
         "tribu": "Bienveillant",
-        "element":"Eau",
-        "rarity":"Commun",
-        "role":"Ranger",
-        "nourriture":"Bonbons"
+        "element": "Eau",
+        "rarity": "Commun",
+        "role": "Ranger",
+        "nourriture": "Bonbons",
+        "image": "/images/yokai_images/Dédestin.png"
     },
     {
-        "name": "Tontonerre", 
+        "name": "Tontonerre",
         "rank": "A",
         "tribu": "Bienveillant",
-        "element":"Foudre",
-        "rarity":"Commun",
-        "role":"Tank",
-        "nourriture":"Viande"
+        "element": "Foudre",
+        "rarity": "Commun",
+        "role": "Tank",
+        "nourriture": "Viande",
+        "image": "/images/yokai_images/Tontonerre.png"
     },
     {
-        "name": "Omnitonton", 
+        "name": "Omnitonton",
         "rank": "S",
         "tribu": "Bienveillant",
-        "element":"Foudre",
-        "rarity":"Rare",
-        "role":"Combattant",
-        "nourriture":"Viande"
+        "element": "Foudre",
+        "rarity": "Rare",
+        "role": "Combattant",
+        "nourriture": "Viande",
+        "image": "/images/yokai_images/Omnitonton.png"
     },
     {
-        "name": "Tata Aura", 
+        "name": "Tata Aura",
         "rank": "S",
         "tribu": "Bienveillant",
-        "element":"Restauration",
-        "rarity":"Commun",
-        "role":"Guérisseur",
-        "nourriture":"Légumes"
+        "element": "Restauration",
+        "rarity": "Commun",
+        "role": "Guérisseur",
+        "nourriture": "Légumes",
+        "image": "/images/yokai_images/Tata_Aura.png"
     },
     {
-        "name": "Tata Câlin", 
+        "name": "Tata Câlin",
         "rank": "S",
         "tribu": "Bienveillant",
-        "element":"Restauration",
-        "rarity":"Rare",
-        "role":"Guérisseur",
-        "nourriture":"Légumes"
+        "element": "Restauration",
+        "rarity": "Rare",
+        "role": "Guérisseur",
+        "nourriture": "Légumes",
+        "image": "/images/yokai_images/Tata_Câlin.png"
     },
     {
-        "name": "Egaroni", 
+        "name": "Egaroni",
         "rank": "E",
         "tribu": "Sombre",
-        "element":"Glace",
-        "rarity":"Commun",
-        "role":"Ranger",
-        "nourriture":"Bonbons"
+        "element": "Glace",
+        "rarity": "Commun",
+        "role": "Ranger",
+        "nourriture": "Bonbons",
+        "image": "/images/yokai_images/Egaroni.png"
     },
     {
-        "name": "Onisoi", 
+        "name": "Onisoi",
         "rank": "D",
         "tribu": "Sombre",
-        "element":"Absorbtion",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Bonbons"
+        "element": "Absorbtion",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Bonbons",
+        "image": "/images/yokai_images/Onisoi.png"
     },
     {
-        "name": "Tortico", 
+        "name": "Tortico",
         "rank": "E",
         "tribu": "Sombre",
-        "element":"Terre",
-        "rarity":"Commun",
-        "role":"Ranger",
-        "nourriture":"Bonbons"
+        "element": "Terre",
+        "rarity": "Commun",
+        "role": "Ranger",
+        "nourriture": "Bonbons",
+        "image": "/images/yokai_images/Tortico.png"
     },
     {
-        "name": "Tendino", 
+        "name": "Tendino",
         "rank": "C",
         "tribu": "Sombre",
-        "element":"Terre",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Bonbons"
+        "element": "Terre",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Bonbons",
+        "image": "/images/yokai_images/Tendino.png"
     },
     {
-        "name": "Contracto", 
+        "name": "Contracto",
         "rank": "B",
         "tribu": "Sombre",
-        "element":"Terre",
-        "rarity":"Rare",
-        "role":"Combattant",
-        "nourriture":"Bonbons"
+        "element": "Terre",
+        "rarity": "Rare",
+        "role": "Combattant",
+        "nourriture": "Bonbons",
+        "image": "/images/yokai_images/Contracto.png"
     },
     {
-        "name": "Nihilistik", 
+        "name": "Nihilistik",
         "rank": "E",
         "tribu": "Sombre",
-        "element":"Absorbtion",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Jus"
+        "element": "Absorbtion",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Jus",
+        "image": "/images/yokai_images/Nihilistik.png"
     },
     {
-        "name": "Emoustik", 
+        "name": "Emoustik",
         "rank": "C",
         "tribu": "Sombre",
-        "element":"Absorbtion",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Jus"
+        "element": "Absorbtion",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Jus",
+        "image": "/images/yokai_images/Emoustik.png"
     },
     {
-        "name": "Grattoptère", 
+        "name": "Grattoptère",
         "rank": "A",
         "tribu": "Sombre",
-        "element":"Foudre",
-        "rarity":"Rare",
-        "role":"Combattant",
-        "nourriture":"Jus"
+        "element": "Foudre",
+        "rarity": "Rare",
+        "role": "Combattant",
+        "nourriture": "Jus",
+        "image": "/images/yokai_images/Grattoptère.png"
     },
     {
-        "name": "Marcognito", 
+        "name": "Marcognito",
         "rank": "E",
         "tribu": "Sombre",
-        "element":"Vent",
-        "rarity":"Commun",
-        "role":"Guérisseur",
-        "nourriture":"Boules de riz"
+        "element": "Vent",
+        "rarity": "Commun",
+        "role": "Guérisseur",
+        "nourriture": "Boules de riz",
+        "image": "/images/yokai_images/Marcognito.png"
     },
     {
-        "name": "Ninjamévu", 
+        "name": "Ninjamévu",
         "rank": "B",
         "tribu": "Sombre",
-        "element":"Vent",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Boules de riz"
+        "element": "Vent",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Boules de riz",
+        "image": "/images/yokai_images/Ninjamévu.png"
     },
     {
-        "name": "Nihilo", 
+        "name": "Nihilo",
         "rank": "A",
         "tribu": "Sombre",
-        "element":"Vent",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Boules de riz"
+        "element": "Vent",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Boules de riz",
+        "image": "/images/yokai_images/Nihilo.png"
     },
     {
-        "name": "Chauvekipeut", 
+        "name": "Chauvekipeut",
         "rank": "E",
         "tribu": "Sombre",
-        "element":"Vent",
-        "rarity":"Commun",
-        "role":"Ranger",
-        "nourriture":"Viande"
+        "element": "Vent",
+        "rarity": "Commun",
+        "role": "Ranger",
+        "nourriture": "Viande",
+        "image": "/images/yokai_images/Chauvekipeut.png"
     },
     {
-        "name": "Chauv'coucou", 
+        "name": "Chauv'coucou",
         "rank": "A",
         "tribu": "Sombre",
-        "element":"Vent",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Viande"
+        "element": "Vent",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Viande",
+        "image": "/images/yokai_images/Chauv'coucou.png"
     },
     {
-        "name": "Vampiloc", 
+        "name": "Vampiloc",
         "rank": "A",
         "tribu": "Sombre",
-        "element":"Vent",
-        "rarity":"Rare",
-        "role":"Combattant",
-        "nourriture":"Viande"
+        "element": "Vent",
+        "rarity": "Rare",
+        "role": "Combattant",
+        "nourriture": "Viande",
+        "image": "/images/yokai_images/Vampiloc.png"
     },
     {
-        "name": "Suspicioni", 
+        "name": "Suspicioni",
         "rank": "D",
         "tribu": "Sombre",
-        "element":"Eau",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Nourriture Chinoise"
+        "element": "Eau",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Nourriture Chinoise",
+        "image": "/images/yokai_images/Suspicioni.png"
     },
     {
-        "name": "Ragioni", 
+        "name": "Ragioni",
         "rank": "D",
         "tribu": "Sombre",
-        "element":"Feu",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Nourriture Chinoise"
+        "element": "Feu",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Nourriture Chinoise",
+        "image": "/images/yokai_images/Ragioni.png"
     },
     {
-        "name": "Contrarioni", 
+        "name": "Contrarioni",
         "rank": "B",
         "tribu": "Sombre",
-        "element":"Foudre",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Nourriture Chinoise"
+        "element": "Foudre",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Nourriture Chinoise",
+        "image": "/images/yokai_images/Contrarioni.png"
     },
     {
-        "name": "Tengubre", 
+        "name": "Tengubre",
         "rank": "C",
         "tribu": "Sombre",
-        "element":"Vent",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Légumes"
+        "element": "Vent",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Légumes",
+        "image": "/images/yokai_images/Tengubre.png"
     },
     {
-        "name": "Bibliotengu", 
+        "name": "Bibliotengu",
         "rank": "B",
         "tribu": "Sombre",
-        "element":"Vent",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Légumes"
+        "element": "Vent",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Légumes",
+        "image": "/images/yokai_images/Bibliotengu.png"
     },
     {
-        "name": "Nimpégase", 
+        "name": "Nimpégase",
         "rank": "A",
         "tribu": "Sombre",
-        "element":"Vent",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Légumes"
+        "element": "Vent",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Légumes",
+        "image": "/images/yokai_images/Nimpégase.png"
     },
     {
-        "name": "Hennimi", 
+        "name": "Hennimi",
         "rank": "A",
         "tribu": "Sombre",
-        "element":"Absorbtion",
-        "rarity":"Rare",
-        "role":"Combattant",
-        "nourriture":"Légumes"
+        "element": "Absorbtion",
+        "rarity": "Rare",
+        "role": "Combattant",
+        "nourriture": "Légumes",
+        "image": "/images/yokai_images/Hennimi.png"
     },
     {
-        "name": "Timidémon", 
+        "name": "Timidémon",
         "rank": "A",
         "tribu": "Sombre",
-        "element":"Feu",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Ramen"
+        "element": "Feu",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Ramen",
+        "image": "/images/yokai_images/Timidémon.png"
     },
     {
-        "name": "Belzel", 
+        "name": "Belzel",
         "rank": "S",
         "tribu": "Sombre",
-        "element":"Feu",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Ramen"
+        "element": "Feu",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Ramen",
+        "image": "/images/yokai_images/Belzel.png"
     },
     {
-        "name": "Vénaldo", 
+        "name": "Dente",
         "rank": "S",
         "tribu": "Sombre",
-        "element":"Feu",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Viande"
+        "element": "Feu",
+        "rarity": "Rare",
+        "role": "Combattant",
+        "nourriture": "Ramen",
+        "image": "/images/yokai_images/Dente.png"
     },
     {
-        "name": "Maltesse", 
+        "name": "Vénaldo",
         "rank": "S",
         "tribu": "Sombre",
-        "element":"Eau",
-        "rarity":"Rare",
-        "role":"Ranger",
-        "nourriture":"Viande"
+        "element": "Feu",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Viande",
+        "image":"/images/yokai_images/Vénaldo.png"
     },
     {
-        "name": "Malmidal", 
+        "name": "Maltesse",
+        "rank": "S",
+        "tribu": "Sombre",
+        "element": "Eau",
+        "rarity": "Rare",
+        "role": "Ranger",
+        "nourriture": "Viande",
+        "image":"/images/yokai_images/Maltesse.png"
+    },
+    {
+        "name": "Malmidal",
         "rank": "E",
         "tribu": "Sinistre",
-        "element":"Eau",
-        "rarity":"Commun",
-        "role":"Ranger",
-        "nourriture":"Pain"
+        "element": "Eau",
+        "rarity": "Commun",
+        "role": "Ranger",
+        "nourriture": "Pain",
+        "image":"/images/yokai_images/Malmidal.png"
     },
     {
         "name": "Ecchinose",
         "rank": "D",
         "tribu": "Sinistre",
-        "element":"Glace",
-        "rarity":"Commun",
-        "role":"Ranger",
-        "nourriture":"Pain"
+        "element": "Glace",
+        "rarity": "Commun",
+        "role": "Ranger",
+        "nourriture": "Pain",
+        "image":"/images/yokai_images/Ecchinose.png"
     },
     {
         "name": "Chiperpiou",
         "rank": "E",
         "tribu": "Sinistre",
-        "element":"Absorbtion",
-        "rarity":"Commun",
-        "role":"Ranger",
-        "nourriture":"Hamburger"
+        "element": "Absorbtion",
+        "rarity": "Commun",
+        "role": "Ranger",
+        "nourriture": "Hamburger",
+        "image":"/images/yokai_images/Chiperpiou.png"
     },
     {
         "name": "Pioubidou",
         "rank": "D",
         "tribu": "Sinistre",
-        "element":"Absorbtion",
-        "rarity":"Commun",
-        "role":"Ranger",
-        "nourriture":"Hamburger"
+        "element": "Absorbtion",
+        "rarity": "Commun",
+        "role": "Ranger",
+        "nourriture": "Hamburger",
+        "image":"/images/yokai_images/Pioubidou.png"
     },
     {
         "name": "Flamente",
         "rank": "E",
         "tribu": "Sinistre",
-        "element":"Vent",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Pain"
+        "element": "Vent",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Pain",
+        "image":"/images/yokai_images/Flamente.png"
     },
     {
         "name": "Volibrius",
         "rank": "C",
         "tribu": "Sinistre",
-        "element":"Vent",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Pain"
+        "element": "Vent",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Pain",
+        "image":"/images/yokai_images/Volibrius.png"
     },
     {
         "name": "Volatriste",
         "rank": "A",
         "tribu": "Sinistre",
-        "element":"Vent",
-        "rarity":"Rare",
-        "role":"Combattant",
-        "nourriture":"Pain"
+        "element": "Vent",
+        "rarity": "Rare",
+        "role": "Combattant",
+        "nourriture": "Pain",
+        "image":"/images/yokai_images/Volatriste.png"
     },
     {
-        "name": "Corniot", 
+        "name": "Corniot",
         "rank": "E",
         "tribu": "Sinistre",
-        "element":"Feu",
-        "rarity":"Commun",
-        "role":"Ranger",
-        "nourriture":"Nourriture Chinoise"
+        "element": "Feu",
+        "rarity": "Commun",
+        "role": "Ranger",
+        "nourriture": "Nourriture Chinoise",
+        "image":"/images/yokai_images/Corniot.png"
     },
     {
-        "name": "Bicorniot", 
+        "name": "Bicorniot",
         "rank": "B",
         "tribu": "Sinistre",
-        "element":"Feu",
-        "rarity":"Commun",
-        "role":"Ranger",
-        "nourriture":"Nourriture Chinoise"
+        "element": "Feu",
+        "rarity": "Commun",
+        "role": "Ranger",
+        "nourriture": "Nourriture Chinoise",
+        "image":"/images/yokai_images/Bicorniot.png"
     },
     {
-        "name": "Cerbébert", 
+        "name": "Cerbébert",
         "rank": "A",
         "tribu": "Sinistre",
-        "element":"Terre",
-        "rarity":"Rare",
-        "role":"Combattant",
-        "nourriture":"Nourriture Chinoise"
+        "element": "Terre",
+        "rarity": "Rare",
+        "role": "Combattant",
+        "nourriture": "Nourriture Chinoise",
+        "image":"/images/yokai_images/Cerbébert.png"
     },
     {
-        "name": "Humidon", 
+        "name": "Humidon",
         "rank": "E",
         "tribu": "Sinistre",
-        "element":"Eau",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Jus"
+        "element": "Eau",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Jus",
+        "image":"/images/yokai_images/Humidon.png"
     },
     {
-        "name": "Délujien", 
+        "name": "Délujien",
         "rank": "B",
         "tribu": "Sinistre",
-        "element":"Eau",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Jus"
+        "element": "Eau",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Jus",
+        "image":"/images/yokai_images/Délujien.png"
     },
     {
-        "name": "Fryzeur", 
+        "name": "Fryzeur",
         "rank": "E",
         "tribu": "Sinistre",
-        "element":"Glace",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Jus"
+        "element": "Glace",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Jus",
+        "image":"/images/yokai_images/Fryzeur.png"
     },
     {
-        "name": "Kongel", 
+        "name": "Kongel",
         "rank": "B",
         "tribu": "Sinistre",
-        "element":"Glace",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Jus"
+        "element": "Glace",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Jus",
+        "image":"/images/yokai_images/Kongel.png"
     },
     {
-        "name": "Hémorhino", 
+        "name": "Hémorhino",
         "rank": "B",
         "tribu": "Sinistre",
-        "element":"Feu",
-        "rarity":"Rare",
-        "role":"Combattant",
-        "nourriture":"Jus"
+        "element": "Feu",
+        "rarity": "Rare",
+        "role": "Combattant",
+        "nourriture": "Jus",
+        "image":"/images/yokai_images/Hémorhino.png"
     },
     {
-        "name": "Blablara", 
+        "name": "Blablara",
         "rank": "D",
         "tribu": "Sinistre",
-        "element":"Foudre",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Pain"
+        "element": "Foudre",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Pain",
+        "image":"/images/yokai_images/Blablara.png"
     },
     {
-        "name": "Umilie", 
+        "name": "Umilie",
         "rank": "C",
         "tribu": "Sinistre",
-        "element":"Absorbtion",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Pain"
+        "element": "Absorbtion",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Pain",
+        "image":"/images/yokai_images/Umilie.png"
     },
     {
-        "name": "Lulugubre", 
+        "name": "Lulugubre",
         "rank": "D",
         "tribu": "Sinistre",
-        "element":"Terre",
-        "rarity":"Commun",
-        "role":"Tank",
-        "nourriture":"Pain"
+        "element": "Terre",
+        "rarity": "Commun",
+        "role": "Tank",
+        "nourriture": "Pain",
+        "image":"/images/yokai_images/Lulugubre.png"
     },
     {
-        "name": "Pégaz", 
+        "name": "Pégaz",
         "rank": "C",
         "tribu": "Sinistre",
-        "element":"Glace",
-        "rarity":"Commun",
-        "role":"Ranger",
-        "nourriture":"Lait"
+        "element": "Glace",
+        "rarity": "Commun",
+        "role": "Ranger",
+        "nourriture": "Lait",
+        "image":"/images/yokai_images/Pégaz.png"
     },
     {
-        "name": "Méphito", 
+        "name": "Méphito",
         "rank": "A",
         "tribu": "Sinistre",
-        "element":"Glace",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Lait"
+        "element": "Glace",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Lait",
+        "image":"/images/yokai_images/Méphito.png"
     },
     {
-        "name": "Misterbide", 
+        "name": "Misterbide",
         "rank": "A",
         "tribu": "Sinistre",
-        "element":"Absorbtion",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Nourriture Chinoise"
+        "element": "Absorbtion",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Nourriture Chinoise",
+        "image":"/images/yokai_images/Misterbide.png"
     },
     {
-        "name": "Flopito", 
+        "name": "Flopito",
         "rank": "A",
         "tribu": "Sinistre",
-        "element":"Absorbtion",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Nourriture Chinoise"
+        "element": "Absorbtion",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Nourriture Chinoise",
+        "image":"/images/yokai_images/Flopito.png"
     },
     {
-        "name": "Cenridion", 
+        "name": "Cenridion",
         "rank": "B",
         "tribu": "Sinistre",
-        "element":"Absorbtion",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Lait"
+        "element": "Absorbtion",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Lait",
+        "image":"/images/yokai_images/Cenridion.png"
     },
     {
-        "name": "Jouvencia", 
+        "name": "Jouvencia",
         "rank": "S",
         "tribu": "Sinistre",
-        "element":"Absorbtion",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Lait"
+        "element": "Absorbtion",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Lait",
+        "image":"/images/yokai_images/Jouvencia.png"
     },
     {
-        "name": "Eterna", 
+        "name": "Eterna",
         "rank": "S",
         "tribu": "Sinistre",
-        "element":"Absorbtion",
-        "rarity":"Rare",
-        "role":"Combattant",
-        "nourriture":"Lait"
+        "element": "Absorbtion",
+        "rarity": "Rare",
+        "role": "Combattant",
+        "nourriture": "Lait",
+        "image":"/images/yokai_images/Eterna.png"
     },
     {
-        "name": "Insomnelle", 
+        "name": "Insomnelle",
         "rank": "S",
         "tribu": "Sinistre",
-        "element":"Glace",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Bonbons"
+        "element": "Glace",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Bonbons",
+        "image":"/images/yokai_images/Insomnelle.png"
     },
     {
-        "name": "Morféa", 
+        "name": "Morféa",
         "rank": "S",
         "tribu": "Sinistre",
-        "element":"Absorbtion",
-        "rarity":"Rare",
-        "role":"Combattant",
-        "nourriture":"Bonbons"
+        "element": "Absorbtion",
+        "rarity": "Rare",
+        "role": "Combattant",
+        "nourriture": "Bonbons",
+        "image":"/images/yokai_images/Morféa.png"
     },
     {
-        "name": "Noko", 
+        "name": "Noko",
         "rank": "E",
         "tribu": "Inssaisissable",
-        "element":"Terre",
-        "rarity":"Rare",
-        "role":"Guérisseur",
-        "nourriture":"Hamburger"
+        "element": "Terre",
+        "rarity": "Rare",
+        "role": "Guérisseur",
+        "nourriture": "Hamburger",
+        "image":"/images/yokai_images/Noko.png"
     },
     {
-        "name": "Nénunoko", 
+        "name": "Nénunoko",
         "rank": "A",
         "tribu": "Inssaisissable",
-        "element":"Terre",
-        "rarity":"Rare",
-        "role":"Combattant",
-        "nourriture":"Hamburger"
+        "element": "Terre",
+        "rarity": "Rare",
+        "role": "Combattant",
+        "nourriture": "Hamburger",
+        "image":"/images/yokai_images/Nénunoko.png"
     },
     {
-        "name": "Pandanoko", 
+        "name": "Pandanoko",
         "rank": "A",
         "tribu": "Inssaisissable",
-        "element":"Glace",
-        "rarity":"Rare",
-        "role":"Combattant",
-        "nourriture":"Hamburger"
+        "element": "Glace",
+        "rarity": "Rare",
+        "role": "Combattant",
+        "nourriture": "Hamburger",
+        "image":"/images/yokai_images/Pandanoko.png"
     },
     {
-        "name": "Anghihihille", 
+        "name": "Anghihihille",
         "rank": "D",
         "tribu": "Inssaisissable",
-        "element":"Restauration",
-        "rarity":"Commun",
-        "role":"Guérisseur",
-        "nourriture":"Viande"
+        "element": "Restauration",
+        "rarity": "Commun",
+        "role": "Guérisseur",
+        "nourriture": "Viande",
+        "image":"/images/yokai_images/Anghihihille.png"
     },
     {
-        "name": "Méroubadour", 
+        "name": "Méroubadour",
         "rank": "C",
         "tribu": "Inssaisissable",
-        "element":"Absorbtion",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Viande"
+        "element": "Absorbtion",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Viande",
+        "image":"/images/yokai_images/Méroubadour.png"
     },
     {
-        "name": "Urnaconda", 
+        "name": "Urnaconda",
         "rank": "C",
         "tribu": "Inssaisissable",
-        "element":"Restauration",
-        "rarity":"Commun",
-        "role":"Guérisseur",
-        "nourriture":"Viande"
+        "element": "Restauration",
+        "rarity": "Commun",
+        "role": "Guérisseur",
+        "nourriture": "Viande",
+        "image":"/images/yokai_images/Urnaconda.png"
     },
     {
-        "name": "Murhaine", 
+        "name": "Murhaine",
         "rank": "D",
         "tribu": "Inssaisissable",
-        "element":"Foudre",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Viande"
+        "element": "Foudre",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Viande",
+        "image":"/images/yokai_images/Murhaine.png"
     },
     {
-        "name": "Saumhonni", 
+        "name": "Saumhonni",
         "rank": "B",
         "tribu": "Inssaisissable",
-        "element":"Foudre",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Viande"
+        "element": "Foudre",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Viande",
+        "image":"/images/yokai_images/Saumhonni.png"
     },
     {
-        "name": "Vexturgeon", 
+        "name": "Vexturgeon",
         "rank": "A",
         "tribu": "Inssaisissable",
-        "element":"Feu",
-        "rarity":"Rare",
-        "role":"Combattant",
-        "nourriture":"Viande"
+        "element": "Feu",
+        "rarity": "Rare",
+        "role": "Combattant",
+        "nourriture": "Viande",
+        "image":"/images/yokai_images/Vexturgeon.png"
     },
     {
-        "name": "Dracounet", 
+        "name": "Dracounet",
         "rank": "D",
         "tribu": "Inssaisissable",
-        "element":"Terre",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Nourriture Chinoise"
+        "element": "Terre",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Nourriture Chinoise",
+        "image":"/images/yokai_images/Dracounet.png"
     },
     {
-        "name": "Sire Dragon", 
+        "name": "Sire Dragon",
         "rank": "S",
         "tribu": "Inssaisissable",
-        "element":"Terre",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Nourriture Chinoise"
+        "element": "Terre",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Nourriture Chinoise",
+        "image":"/images/yokai_images/Sire_Dragon.png"
     },
     {
-        "name": "Dragô", 
+        "name": "Dragô",
         "rank": "S",
         "tribu": "Inssaisissable",
-        "element":"Eau",
-        "rarity":"Rare",
-        "role":"Combattant",
-        "nourriture":"Nourriture Chinoise"
+        "element": "Eau",
+        "rarity": "Rare",
+        "role": "Combattant",
+        "nourriture": "Nourriture Chinoise",
+        "image":"/images/yokai_images/Dragô.png"
     },
     {
-        "name": "Bababou", 
+        "name": "Bababou",
         "rank": "C",
         "tribu": "Inssaisissable",
-        "element":"Absorbtion",
-        "rarity":"Commun",
-        "role":"Ranger",
-        "nourriture":"Bonbons"
+        "element": "Absorbtion",
+        "rarity": "Commun",
+        "role": "Ranger",
+        "nourriture": "Bonbons",
+        "image":"/images/yokai_images/Bababou.png"
     },
     {
-        "name": "Tourneboul", 
+        "name": "Tourneboul",
         "rank": "B",
         "tribu": "Inssaisissable",
-        "element":"Absorbtion",
-        "rarity":"Commun",
-        "role":"Ranger",
-        "nourriture":"Bonbons"
+        "element": "Absorbtion",
+        "rarity": "Commun",
+        "role": "Ranger",
+        "nourriture": "Bonbons",
+        "image":"/images/yokai_images/Tourneboul.png"
     },
     {
-        "name": "Croquin", 
+        "name": "Croquin",
         "rank": "C",
         "tribu": "Inssaisissable",
-        "element":"Eau",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Légumes"
+        "element": "Eau",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Légumes",
+        "image":"/images/yokai_images/Croquin.png"
     },
     {
-        "name": "Inisquale", 
+        "name": "Inisquale",
         "rank": "B",
         "tribu": "Inssaisissable",
-        "element":"Eau",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Légumes"
+        "element": "Eau",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Légumes",
+        "image":"/images/yokai_images/Inisquale.png"
     },
     {
-        "name": "Claquille", 
+        "name": "Claquille",
         "rank": "C",
         "tribu": "Inssaisissable",
-        "element":"Vent",
-        "rarity":"Commun",
-        "role":"Tank",
-        "nourriture":"Pain"
+        "element": "Vent",
+        "rarity": "Commun",
+        "role": "Tank",
+        "nourriture": "Pain",
+        "image":"/images/yokai_images/Claquille.png"
     },
     {
-        "name": "Cocpille", 
+        "name": "Cocpille",
         "rank": "B",
         "tribu": "Inssaisissable",
-        "element":"Eau",
-        "rarity":"Rare",
-        "role":"Tank",
-        "nourriture":"Pain"
+        "element": "Eau",
+        "rarity": "Rare",
+        "role": "Tank",
+        "nourriture": "Pain",
+        "image":"/images/yokai_images/Cocpille.png"
     },
     {
-        "name": "Jacquasseur", 
+        "name": "Jacquasseur",
         "rank": "C",
         "tribu": "Inssaisissable",
-        "element":"Eau",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Bonbons"
+        "element": "Eau",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Bonbons",
+        "image":"/images/yokai_images/Jacquasseur.png"
     },
     {
-        "name": "Bananar", 
+        "name": "Bananar",
         "rank": "A",
         "tribu": "Inssaisissable",
-        "element":"Eau",
-        "rarity":"Rare",
-        "role":"Combattant",
-        "nourriture":"Bonbons"
+        "element": "Eau",
+        "rarity": "Rare",
+        "role": "Combattant",
+        "nourriture": "Bonbons",
+        "image":"/images/yokai_images/Bananar.png"
     },
     {
-        "name": "Vipètesec", 
+        "name": "Vipètesec",
         "rank": "B",
         "tribu": "Inssaisissable",
-        "element":"Feu",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Fruits de mer"
+        "element": "Feu",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Fruits de mer",
+        "image":"/images/yokai_images/Vipètesec.png"
     },
     {
-        "name": "Vipérâle", 
+        "name": "Vipérâle",
         "rank": "B",
         "tribu": "Inssaisissable",
-        "element":"Eau",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Fruits de mer"
+        "element": "Eau",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Fruits de mer",
+        "image":"/images/yokai_images/Vipérâle.png"
     },
     {
-        "name": "Vipairflay", 
+        "name": "Vipairflay",
         "rank": "A",
         "tribu": "Inssaisissable",
-        "element":"Foudre",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Fruits de mer"
+        "element": "Foudre",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Fruits de mer",
+        "image":"/images/yokai_images/Vipairflay.png"
     },
     {
-        "name": "Octorgone", 
+        "name": "Octorgone",
         "rank": "S",
         "tribu": "Inssaisissable",
-        "element":"Foudre",
-        "rarity":"Commun",
-        "role":"Combattant",
-        "nourriture":"Fruits de mer"
+        "element": "Foudre",
+        "rarity": "Commun",
+        "role": "Combattant",
+        "nourriture": "Fruits de mer",
+        "image":"/images/yokai_images/Octorgone.png"
     },
     {
-        "name": "Octorgombre", 
+        "name": "Octorgombre",
         "rank": "S",
         "tribu": "Inssaisissable",
-        "element":"Restauration",
-        "rarity":"Rare",
-        "role":"Guérisseur",
-        "nourriture":"Fruits de mer"
+        "element": "Restauration",
+        "rarity": "Rare",
+        "role": "Guérisseur",
+        "nourriture": "Fruits de mer",
+        "image":"/images/yokai_images/Octorgombre.png"
     },
     {
-        "name": "Shogunyan", 
+        "name": "Shogunyan",
         "rank": "S",
         "tribu": "Vaillant",
-        "element":"Vent",
-        "rarity":"Légendaire",
-        "role":"Combattant",
-        "nourriture":"Fruits de mer"
+        "element": "Vent",
+        "rarity": "Légendaire",
+        "role": "Combattant",
+        "nourriture": "Fruits de mer",
+        "image":"/images/yokai_images/Shogunyan.png"
     },
     {
-        "name": "Komashura", 
+        "name": "Komashura",
         "rank": "S",
         "tribu": "Mysterieux",
-        "element":"Feu",
-        "rarity":"Légendaire",
-        "role":"Combattant",
-        "nourriture":"Lait"
+        "element": "Feu",
+        "rarity": "Légendaire",
+        "role": "Combattant",
+        "nourriture": "Lait",
+        "image":"/images/yokai_images/Komashura.png"
     },
     {
         "name": "Cabotin",
         "rank": "S",
         "tribu": "Sinistre",
-        "element":"Restauration",
-        "rarity":"Légendaire",
-        "role":"Guérisseur",
-        "nourriture":"Nourriture Chinoise"
+        "element": "Restauration",
+        "rarity": "Légendaire",
+        "role": "Guérisseur",
+        "nourriture": "Nourriture Chinoise",
+        "image":"/images/yokai_images/Cabotin.png"
     },
     {
         "name": "Camaïeul",
         "rank": "S",
         "tribu": "Bienveillant",
-        "element":"Restauration",
-        "rarity":"Légendaire",
-        "role":"Guérisseur",
-        "nourriture":"Boules de riz"
+        "element": "Restauration",
+        "rarity": "Légendaire",
+        "role": "Guérisseur",
+        "nourriture": "Boules de riz",
+        "image":"/images/yokai_images/Camaïeul.png"
     },
     {
         "name": "Gorgouille",
         "rank": "S",
         "tribu": "Costaud",
-        "element":"Foudre",
-        "rarity":"Légendaire",
-        "role":"Combattant",
-        "nourriture":"Viande"
+        "element": "Foudre",
+        "rarity": "Légendaire",
+        "role": "Combattant",
+        "nourriture": "Viande",
+        "image":"/images/yokai_images/Gorgouille.png"
     },
     {
-        "name": "Saphinyan", 
+        "name": "Saphinyan",
         "rank": "A",
         "tribu": "Mignon",
-        "element":"Eau",
-        "rarity":"Rare",
-        "role":"Combattant",
-        "nourriture":"Fruits de mer"
+        "element": "Eau",
+        "rarity": "Rare",
+        "role": "Combattant",
+        "nourriture": "Fruits de mer",
+        "image":"/images/yokai_images/Saphinyan.png"
     },
     {
-        "name": "Emeranyan", 
+        "name": "Emeranyan",
         "rank": "A",
         "tribu": "Mignon",
-        "element":"Restauration",
-        "rarity":"Rare",
-        "role":"Guérisseur",
-        "nourriture":"Fruits de mer"
+        "element": "Restauration",
+        "rarity": "Rare",
+        "role": "Guérisseur",
+        "nourriture": "Fruits de mer",
+        "image":"/images/yokai_images/Emeranyan.png"
     },
     {
-        "name": "Rubinyan", 
+        "name": "Rubinyan",
         "rank": "A",
         "tribu": "Mignon",
-        "element":"Feu",
-        "rarity":"Rare",
-        "role":"Combattant",
-        "nourriture":"Fruits de mer"
+        "element": "Feu",
+        "rarity": "Rare",
+        "role": "Combattant",
+        "nourriture": "Fruits de mer",
+        "image":"/images/yokai_images/Rubinyan.png"
     },
     {
-        "name": "Topanyan", 
+        "name": "Topanyan",
         "rank": "A",
         "tribu": "Mignon",
-        "element":"Foudre",
-        "rarity":"Rare",
-        "role":"Combattant",
-        "nourriture":"Fruits de mer"
+        "element": "Foudre",
+        "rarity": "Rare",
+        "role": "Combattant",
+        "nourriture": "Fruits de mer",
+        "image":"/images/yokai_images/Topanyan.png"
     },
     {
-        "name": "Diamanyan", 
+        "name": "Diamanyan",
         "rank": "A",
         "tribu": "Mignon",
-        "element":"Glace",
-        "rarity":"Rare",
-        "role":"Combattant",
-        "nourriture":"Fruits de mer"
+        "element": "Glace",
+        "rarity": "Rare",
+        "role": "Combattant",
+        "nourriture": "Fruits de mer",
+        "image":"/images/yokai_images/Diamanyan.png"
     },
     {
         "name": "Gargaros",
         "rank": "S",
         "tribu": "Costaud",
-        "element":"Feu",
-        "rarity":"Rare",
-        "role":"Combattant",
-        "nourriture":"Viande"
+        "element": "Feu",
+        "rarity": "Rare",
+        "role": "Combattant",
+        "nourriture": "Viande",
+        "image":"/images/yokai_images/Gargaros.png"
     },
     {
         "name": "Ogralos",
         "rank": "S",
         "tribu": "Costaud",
-        "element":"Eau",
-        "rarity":"Rare",
-        "role":"Combattant",
-        "nourriture":"Viande"
+        "element": "Eau",
+        "rarity": "Rare",
+        "role": "Combattant",
+        "nourriture": "Viande",
+        "image":"/images/yokai_images/Ogralos.png"
     },
     {
-        "name": "Orcanos",
+        "name": "Orqanos",
         "rank": "S",
         "tribu": "Costaud",
-        "element":"Absorbtion",
-        "rarity":"Rare",
-        "role":"Combattant",
-        "nourriture":"Viande"
+        "element": "Absorbtion",
+        "rarity": "Rare",
+        "role": "Combattant",
+        "nourriture": "Viande",
+        "image":"/images/yokai_images/Orqanos.png"
     }
 ]

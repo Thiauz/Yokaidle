@@ -63,7 +63,9 @@
                 : "bg-red-600";
         }
         div.innerHTML = `
-        <div class="${getColor('name')} aspect-square h-24 w-24 max-md:h-16 max-md:w-16 max-sm:w-10 max-sm:h-10 flex justify-center items-center text-base max-md:text-sm text-center break-words whitespace-normal overflow-hidden max-sm:text-[0.625rem]">${guessYokai.name}</div>
+        <div class="${getColor('name')} aspect-square h-24 w-24 max-md:h-16 max-md:w-16 max-sm:w-10 max-sm:h-10 flex justify-center items-center overflow-hidden">
+    <img src="${guessYokai.image}" alt="${guessYokai.name}" class="w-full h-full object-contain">
+</div>
         <div class="${getColor('rank')} aspect-square h-24 w-24 max-md:h-16 max-md:w-16 max-sm:w-10 max-sm:h-10 flex justify-center items-center text-base max-md:text-sm text-center break-words whitespace-normal overflow-hidden max-sm:text-[0.625rem]">${guessYokai.rank}</div>
         <div class="${getColor('tribu')} aspect-square w-24 h-24 max-md:h-16 max-md:w-16 max-sm:w-10 max-sm:h-10 flex justify-center items-center text-base max-md:text-sm text-center break-words whitespace-normal overflow-hidden max-sm:text-[0.625rem]">${guessYokai.tribu}</div>
         <div class="${getColor('element')} aspect-square w-24 h-24 max-md:h-16 max-md:w-16 max-sm:w-10 max-sm:h-10 flex justify-center items-center text-base max-md:text-sm text-center break-words whitespace-normal overflow-hidden max-sm:text-[0.625rem]">${guessYokai.element}</div>
@@ -91,13 +93,13 @@
 
         if (!guess || !guessYokai) return
 
-        
 
-        
+
+
 
         addGuessDiv(guessYokai)
         guessInput.value = ""
-        
+
         guessInput.blur()
         populateYokaiNames("")
 

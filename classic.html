@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="fr">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,19 +8,22 @@
     <script src="guesseur.js" defer></script>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
+
 <body class="bg-gray-200 dark:bg-gray-800 text-gray-900 dark:text-gray-100 flex">
-    
+
     <div class="justify-center items-center w-full">
         <div class="flex justify-center items-center w-full">
             <img src="images/logo.png" class="h-40 w-19.2" onclick="location.reload()">
         </div>
         <div class="justify-center items-center flex mb-20 mt-3">
-            <input list="yokai-names" type="text" id="guessInput" placeholder="Entrez le nom du Yokai" class="dark: text-black mr-4 px-0.5 border-gray-400 rounded border-solid border-2 py-2 w-1/3">
+            <input list="yokai-names" type="text" id="guessInput" placeholder="Entrez le nom du Yokai"
+                class="dark: text-black mr-4 px-0.5 border-gray-400 rounded border-solid border-2 py-2 w-1/3">
             <datalist id="yokai-names"></datalist>
-            <button class="bg-blue-400 border-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700" onclick="checkGuess()">Valider</button>
+            <button class="bg-blue-400 border-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700"
+                onclick="checkGuess()">Valider</button>
         </div>
         <div id="guess-container" class="flex flex-wrap gap-4 mt-4 h-80 overflow-y-auto">
-            
+
         </div>
         <div class="flex justify-center items-center w-full">
             <div id="result" class="bg-green-600 justify-center hidden mt-3 aspect-square w-24">
@@ -31,4 +35,5 @@
 
 
 </body>
+
 </html>
