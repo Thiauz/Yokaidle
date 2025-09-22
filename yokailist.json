@@ -27,7 +27,7 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Boules de riz",
-        "image": "/images/yokai_images/alfonceo.png"
+        "image": "images/yokai_images/alfonceo.png"
     },
     {
         "name": "Toumou",
@@ -2261,4 +2261,5 @@
     }
 
 ]
+
 
