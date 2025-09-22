@@ -7,7 +7,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Boules de riz",
-        "image": "/images/yokai_images/Woko.png"
+        "image": "Yokaidle/images/yokai_images/Woko.png"
     },
     {
         "name": "Pagno",
@@ -27,7 +27,7 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Boules de riz",
-        "image": "images/yokai_images/alfonceo.png"
+        "image": "/images/yokai_images/alfonceo.png"
     },
     {
         "name": "Toumou",
@@ -2261,5 +2261,6 @@
     }
 
 ]
+
 
 
