@@ -66,8 +66,10 @@
         <div class="${getColor('name')} aspect-square h-24 w-24 max-md:h-16 max-md:w-16 max-sm:w-10 max-sm:h-10 flex justify-center items-center overflow-hidden">
     <img src="${guessYokai.image}" alt="${guessYokai.name}" class="w-full h-full object-contain">
 </div>
-        <div class="${getColor('rank')} aspect-square h-24 w-24 max-md:h-16 max-md:w-16 max-sm:w-10 max-sm:h-10 flex justify-center items-center text-base max-md:text-sm text-center break-words whitespace-normal overflow-hidden max-sm:text-[0.625rem]">${guessYokai.rank}</div>
-        <div class="${getColor('tribu')} aspect-square w-24 h-24 max-md:h-16 max-md:w-16 max-sm:w-10 max-sm:h-10 flex justify-center items-center text-base max-md:text-sm text-center break-words whitespace-normal overflow-hidden max-sm:text-[0.625rem]">${guessYokai.tribu}</div>
+        <div class="${getColor('rank')} aspect-square w-24 h-24 max-md:h-16 max-md:w-16 max-sm:w-10 max-sm:h-10 flex justify-center items-center text-base max-md:text-sm text-center break-words whitespace-normal overflow-hidden max-sm:text-[0.625rem]">
+        <img src="${guessYokai.rankimage}" alt="${guessYokai.rank}" class="w-12 h-12 object-contain"></div>
+        <div class="${getColor('tribu')} aspect-square w-24 h-24 max-md:h-16 max-md:w-16 max-sm:w-10 max-sm:h-10 flex justify-center items-center text-base max-md:text-sm text-center break-words whitespace-normal overflow-hidden max-sm:text-[0.625rem]">
+        <img src="${guessYokai.tribuimage}" alt="${guessYokai.tribu}" class="w-full h-full object-contain"></div>
         <div class="${getColor('element')} aspect-square w-24 h-24 max-md:h-16 max-md:w-16 max-sm:w-10 max-sm:h-10 flex justify-center items-center text-base max-md:text-sm text-center break-words whitespace-normal overflow-hidden max-sm:text-[0.625rem]">${guessYokai.element}</div>
         <div class="${getColor('role')} aspect-square w-24 flex h-24 max-md:h-16 max-md:w-16 max-sm:w-10 max-sm:h-10 justify-center items-center text-base max-md:text-sm text-center break-words whitespace-normal overflow-hidden max-sm:text-[0.625rem]">${guessYokai.role}</div>
         <div class="${getColor('nourriture')} aspect-square w-24 h-24 max-md:h-16 max-md:w-16 max-sm:w-10 max-sm:h-10 flex justify-center items-center text-base max-md:text-sm text-center break-words whitespace-normal overflow-hidden max-sm:text-[0.625rem]">${guessYokai.nourriture}</div>
