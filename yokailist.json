@@ -8,8 +8,8 @@
         "role": "Combattant",
         "nourriture": "Boules de riz",
         "image": "Yokaidle/images/yokai_images/Woko.png",
-        "tribuimage":"Yokaidle/images/tribu/Vaillant.png",
-        "rankimage":"Yokaidle/images/rank/E.png"
+        "tribuimage":"/images/tribu/Vaillant.png",
+        "rankimage":"/images/rank/E.png"
         
     },
     {
