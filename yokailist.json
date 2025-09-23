@@ -9,7 +9,8 @@
         "nourriture": "Boules de riz",
         "image": "images/yokai_images/Woko.png",
         "tribuimage":"images/tribu/Vaillant.png",
-        "rankimage":"images/rank/E.png"
+        "rankimage":"images/rank/E.png",
+        "elementimage":"images/element/Feu.png"
         
     },
     {
@@ -22,7 +23,8 @@
         "nourriture": "Boules de riz",
         "image": "images/yokai_images/Pagno.png",
         "tribuimage":"images/tribu/Vaillant.png",
-        "rankimage":"images/rank/C.png"
+        "rankimage":"images/rank/C.png",
+        "elementimage":"images/element/Feu.png"
     },
     {
         "name": "Alfoncéo",
@@ -34,7 +36,8 @@
         "nourriture": "Boules de riz",
         "image": "images/yokai_images/Alfoncéo.png",
         "tribuimage":"images/tribu/Vaillant.png",
-        "rankimage":"images/rank/B.png"
+        "rankimage":"images/rank/B.png",
+        "elementimage":"images/element/Terre.png"
     },
     {
         "name": "Toumou",
@@ -46,7 +49,8 @@
         "nourriture": "Jus",
         "image": "images/yokai_images/Toumou.png",
         "tribuimage":"images/tribu/Vaillant.png",
-        "rankimage":"images/rank/E.png"
+        "rankimage":"images/rank/E.png",
+        "elementimage":"images/element/Vent.png"
     },
     {
         "name": "Lamlam'mou",
@@ -58,7 +62,8 @@
         "nourriture": "Jus",
         "image": "images/yokai_images/Lamlam'mou.png",
         "tribuimage":"images/tribu/Vaillant.png",
-        "rankimage":"images/rank/C.png"
+        "rankimage":"images/rank/C.png",
+        "elementimage":"images/element/Vent.png"
     },
     {
         "name": "Samoumourai",
@@ -70,7 +75,8 @@
         "nourriture": "Jus",
         "image": "images/yokai_images/Samoumourai.png",
         "tribuimage":"images/tribu/Vaillant.png",
-        "rankimage":"images/rank/B.png"
+        "rankimage":"images/rank/B.png",
+        "elementimage":"images/element/Glace.png"
     },
     {
         "name": "Sumochi",
@@ -82,7 +88,8 @@
         "nourriture": "Boules de riz",
         "image": "images/yokai_images/Sumochi.png",
         "tribuimage":"images/tribu/Vaillant.png",
-        "rankimage":"images/rank/D.png"
+        "rankimage":"images/rank/D.png",
+        "elementimage":"images/element/Terre.png"
     },
     {
         "name": "Mochimacho",
@@ -94,7 +101,8 @@
         "nourriture": "Boules de riz",
         "image": "images/yokai_images/Mochimacho.png",
         "tribuimage":"images/tribu/Vaillant.png",
-        "rankimage":"images/rank/D.png"
+        "rankimage":"images/rank/D.png",
+        "elementimage":"images/element/Feu.png"
     },
     {
         "name": "Heaumer",
@@ -106,7 +114,8 @@
         "nourriture": "Légumes",
         "image": "images/yokai_images/Heaumer.png",
         "tribuimage":"images/tribu/Vaillant.png",
-        "rankimage":"images/rank/D.png"
+        "rankimage":"images/rank/D.png",
+        "elementimage":"images/element/Foudre.png"
     },
     {
         "name": "Bushidos",
@@ -118,7 +127,8 @@
         "nourriture": "Légumes",
         "image": "images/yokai_images/Bushidos.png",
         "tribuimage":"images/tribu/Vaillant.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Foudre.png"
     },
     {
         "name": "Amiral",
@@ -130,7 +140,8 @@
         "nourriture": "Légumes",
         "image": "images/yokai_images/Amiral.png",
         "tribuimage":"images/tribu/Vaillant.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Absorbtion.png"
     },
     {
         "name": "Feulion",
@@ -142,7 +153,8 @@
         "nourriture": "Viande",
         "image": "images/yokai_images/Feulion.png",
         "tribuimage":"images/tribu/Vaillant.png",
-        "rankimage":"images/rank/C.png"
+        "rankimage":"images/rank/C.png",
+        "elementimage":"images/element/Feu.png"
     },
     {
         "name": "Vibrilion",
@@ -154,7 +166,8 @@
         "nourriture": "Viande",
         "image": "images/yokai_images/Vibrilion.png",
         "tribuimage":"images/tribu/Vaillant.png",
-        "rankimage":"images/rank/B.png"
+        "rankimage":"images/rank/B.png",
+        "elementimage":"images/element/Terre.png"
     },
     {
         "name": "Siro",
@@ -166,7 +179,8 @@
         "nourriture": "Viande",
         "image": "images/yokai_images/Siro.png",
         "tribuimage":"images/tribu/Vaillant.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Foudre.png"
     },
     {
         "name": "Bonneto",
@@ -178,7 +192,8 @@
         "nourriture": "Fruits de mer",
         "image": "images/yokai_images/Bonneto.png",
         "tribuimage":"images/tribu/Vaillant.png",
-        "rankimage":"images/rank/C.png"
+        "rankimage":"images/rank/C.png",
+        "elementimage":"images/element/Feu.png"
     },
     {
         "name": "Sabri",
@@ -190,7 +205,8 @@
         "nourriture": "Fruits de mer",
         "image": "images/yokai_images/Sabri.png",
         "tribuimage":"images/tribu/Vaillant.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Vent.png"
     },
     {
         "name": "Padelou",
@@ -202,7 +218,8 @@
         "nourriture": "Fruits de mer",
         "image": "images/yokai_images/Padelou.png",
         "tribuimage":"images/tribu/Vaillant.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Absorbtion.png"
     },
     {
         "name": "Orox",
@@ -214,7 +231,8 @@
         "nourriture": "Fruits de mer",
         "image": "images/yokai_images/Orox.png",
         "tribuimage":"images/tribu/Vaillant.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Foudre.png"
     },
     {
         "name": "Benkei",
@@ -226,7 +244,8 @@
         "nourriture": "Nourriture Chinoise",
         "image": "images/yokai_images/Benkei.png",
         "tribuimage":"images/tribu/Vaillant.png",
-        "rankimage":"images/rank/B.png"
+        "rankimage":"images/rank/B.png",
+        "elementimage":"images/element/Glace.png"
     },
     {
         "name": "B3-NK1",
@@ -238,7 +257,8 @@
         "nourriture": "Nourriture Chinoise",
         "image": "images/yokai_images/B3-NK1.png",
         "tribuimage":"images/tribu/Vaillant.png",
-        "rankimage":"images/rank/B.png"
+        "rankimage":"images/rank/B.png",
+        "elementimage":"images/element/Foudre.png"
     },
     {
         "name": "Sushiyama",
@@ -250,7 +270,8 @@
         "nourriture": "Boules de riz",
         "image": "images/yokai_images/Sushiyama.png",
         "tribuimage":"images/tribu/Vaillant.png",
-        "rankimage":"images/rank/B.png"
+        "rankimage":"images/rank/B.png",
+        "elementimage":"images/element/Glace.png"
     },
     {
         "name": "Kapunki",
@@ -262,7 +283,8 @@
         "nourriture": "Boules de riz",
         "image": "images/yokai_images/Kapunki.png",
         "tribuimage":"images/tribu/Vaillant.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Feu.png"
     },
     {
         "name": "Scatcheur",
@@ -274,7 +296,8 @@
         "nourriture": "Légumes",
         "image": "images/yokai_images/Scatcheur.png",
         "tribuimage":"images/tribu/Vaillant.png",
-        "rankimage":"images/rank/B.png"
+        "rankimage":"images/rank/B.png",
+        "elementimage":"images/element/Terre.png"
     },
     {
         "name": "Scarmouche",
@@ -286,7 +309,8 @@
         "nourriture": "Légumes",
         "image": "images/yokai_images/Scarmouche.png",
         "tribuimage":"images/tribu/Vaillant.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Glace.png"
     },
     {
         "name": "Scarnage",
@@ -298,7 +322,8 @@
         "nourriture": "Légumes",
         "image": "images/yokai_images/Scarnage.png",
         "tribuimage":"images/tribu/Vaillant.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Foudre.png"
     },
     {
         "name": "Zerberker",
@@ -310,7 +335,8 @@
         "nourriture": "Viande",
         "image": "images/yokai_images/Zerberker.png",
         "tribuimage":"images/tribu/Vaillant.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Feu.png"
     },
     {
         "name": "Fouétar",
@@ -322,7 +348,8 @@
         "nourriture": "Viande",
         "image": "images/yokai_images/Fouétar.png",
         "tribuimage":"images/tribu/Vaillant.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Glace.png"
     },
     {
         "name": "Morvobec",
@@ -334,7 +361,8 @@
         "nourriture": "Fruits de mer",
         "image": "images/yokai_images/Morvobec.png",
         "tribuimage":"images/tribu/Mysterieux.png",
-        "rankimage":"images/rank/E.png"
+        "rankimage":"images/rank/E.png",
+        "elementimage":"images/element/Eau.png"
     },
     {
         "name": "Matchou",
@@ -346,7 +374,8 @@
         "nourriture": "Fruits de mer",
         "image": "images/yokai_images/Matchou.png",
         "tribuimage":"images/tribu/Mysterieux.png",
-        "rankimage":"images/rank/D.png"
+        "rankimage":"images/rank/D.png",
+        "elementimage":"images/element/Glace.png"
     },
     {
         "name": "Chaipô",
@@ -358,7 +387,8 @@
         "nourriture": "Bonbons",
         "image": "images/yokai_images/Chaipô.png",
         "tribuimage":"images/tribu/Mysterieux.png",
-        "rankimage":"images/rank/E.png"
+        "rankimage":"images/rank/E.png",
+        "elementimage":"images/element/Vent.png"
     },
     {
         "name": "Gagalurin",
@@ -370,7 +400,8 @@
         "nourriture": "Bonbons",
         "image": "images/yokai_images/Gagalurin.png",
         "tribuimage":"images/tribu/Mysterieux.png",
-        "rankimage":"images/rank/E.png"
+        "rankimage":"images/rank/E.png",
+        "elementimage":"images/element/Foudre.png"
     },
     {
         "name": "Papa Ress",
@@ -382,7 +413,8 @@
         "nourriture": "Hamburger",
         "image": "images/yokai_images/Papa_Ress.png",
         "tribuimage":"images/tribu/Mysterieux.png",
-        "rankimage":"images/rank/E.png"
+        "rankimage":"images/rank/E.png",
+        "elementimage":"images/element/Restauration.png"
     },
     {
         "name": "Ralbouc",
@@ -394,7 +426,8 @@
         "nourriture": "Hamburger",
         "image": "images/yokai_images/Ralbouc.png",
         "tribuimage":"images/tribu/Mysterieux.png",
-        "rankimage":"images/rank/C.png"
+        "rankimage":"images/rank/C.png",
+        "elementimage":"images/element/Restauration.png"
     },
     {
         "name": "Bastata",
@@ -406,7 +439,8 @@
         "nourriture": "Hamburger",
         "image": "images/yokai_images/Bastata.png",
         "tribuimage":"images/tribu/Mysterieux.png",
-        "rankimage":"images/rank/C.png"
+        "rankimage":"images/rank/C.png",
+        "elementimage":"images/element/Terre.png"
     },
     {
         "name": "Marra",
@@ -418,7 +452,8 @@
         "nourriture": "Hamburger",
         "image": "images/yokai_images/Marra.png",
         "tribuimage":"images/tribu/Mysterieux.png",
-        "rankimage":"images/rank/D.png"
+        "rankimage":"images/rank/D.png",
+        "elementimage":"images/element/Absorbtion.png"
     },
     {
         "name": "Violette",
@@ -430,7 +465,8 @@
         "nourriture": "Hamburger",
         "image": "images/yokai_images/Violette.png",
         "tribuimage":"images/tribu/Mysterieux.png",
-        "rankimage":"images/rank/C.png"
+        "rankimage":"images/rank/C.png",
+        "elementimage":"images/element/Absorbtion.png"
     },
     {
         "name": "Toutouïe",
@@ -442,7 +478,8 @@
         "nourriture": "Ramen",
         "image": "images/yokai_images/Toutouïe.png",
         "tribuimage":"images/tribu/Mysterieux.png",
-        "rankimage":"images/rank/D.png"
+        "rankimage":"images/rank/D.png",
+        "elementimage":"images/element/Restauration.png"
     },
     {
         "name": "Babalance",
@@ -454,7 +491,8 @@
         "nourriture": "Ramen",
         "image": "images/yokai_images/Babalance.png",
         "tribuimage":"images/tribu/Mysterieux.png",
-        "rankimage":"images/rank/B.png"
+        "rankimage":"images/rank/B.png",
+        "elementimage":"images/element/Restauration.png"
     },
     {
         "name": "Mémétal",
@@ -466,7 +504,8 @@
         "nourriture": "Ramen",
         "image": "images/yokai_images/Mémétal.png",
         "tribuimage":"images/tribu/Mysterieux.png",
-        "rankimage":"images/rank/C.png"
+        "rankimage":"images/rank/C.png",
+        "elementimage":"images/element/Restauration.png"
     },
     {
         "name": "Cupistol",
@@ -478,7 +517,8 @@
         "nourriture": "Pain",
         "image": "images/yokai_images/Cupistol.png",
         "tribuimage":"images/tribu/Mysterieux.png",
-        "rankimage":"images/rank/D.png"
+        "rankimage":"images/rank/D.png",
+        "elementimage":"images/element/Vent.png"
     },
     {
         "name": "Donjouant",
@@ -490,7 +530,8 @@
         "nourriture": "Pain",
         "image": "images/yokai_images/Donjouant.png",
         "tribuimage":"images/tribu/Mysterieux.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Vent.png"
     },
     {
         "name": "Nonjuant",
@@ -502,7 +543,8 @@
         "nourriture": "Pain",
         "image": "images/yokai_images/Nonjuant.png",
         "tribuimage":"images/tribu/Mysterieux.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Feu.png"
     },
     {
         "name": "Padrézo",
@@ -514,7 +556,8 @@
         "nourriture": "Boules de riz",
         "image": "images/yokai_images/Padrézo.png",
         "tribuimage":"images/tribu/Mysterieux.png",
-        "rankimage":"images/rank/D.png"
+        "rankimage":"images/rank/D.png",
+        "elementimage":"images/element/Foudre.png"
     },
     {
         "name": "Emmetor",
@@ -526,7 +569,8 @@
         "nourriture": "Boules de riz",
         "image": "images/yokai_images/Emmetor.png",
         "tribuimage":"images/tribu/Mysterieux.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Foudre.png"
     },
     {
         "name": "Dynamo",
@@ -538,7 +582,8 @@
         "nourriture": "Boules de riz",
         "image": "images/yokai_images/Dynamo.png",
         "tribuimage":"images/tribu/Mysterieux.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Foudre.png"
     },
     {
         "name": "Télémir",
@@ -550,7 +595,8 @@
         "nourriture": "Nourriture Chinoise",
         "image": "images/yokai_images/Télémir.png",
         "tribuimage":"images/tribu/Mysterieux.png",
-        "rankimage":"images/rank/C.png"
+        "rankimage":"images/rank/C.png",
+        "elementimage":"images/element/Absorbtion.png"
     },
     {
         "name": "Nuiroir",
@@ -562,7 +608,8 @@
         "nourriture": "Nourriture Chinoise",
         "image": "images/yokai_images/Nuiroir.png",
         "tribuimage":"images/tribu/Mysterieux.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Absorbtion.png"
     },
     {
         "name": "Hiblusion",
@@ -574,7 +621,8 @@
         "nourriture": "Nourriture Chinoise",
         "image": "images/yokai_images/Hiblusion.png",
         "tribuimage":"images/tribu/Mysterieux.png",
-        "rankimage":"images/rank/C.png"
+        "rankimage":"images/rank/C.png",
+        "elementimage":"images/element/Eau.png"
     },
     {
         "name": "Hibrouille",
@@ -586,7 +634,8 @@
         "nourriture": "Nourriture Chinoise",
         "image": "images/yokai_images/Hibrouille.png",
         "tribuimage":"images/tribu/Mysterieux.png",
-        "rankimage":"images/rank/C.png"
+        "rankimage":"images/rank/C.png",
+        "elementimage":"images/element/Glace.png"
     },
     {
         "name": "Hibourling",
@@ -598,7 +647,8 @@
         "nourriture": "Nourriture Chinoise",
         "image": "images/yokai_images/Hibourling.png",
         "tribuimage":"images/tribu/Mysterieux.png",
-        "rankimage":"images/rank/B.png"
+        "rankimage":"images/rank/B.png",
+        "elementimage":"images/element/Foudre.png"
     },
     {
         "name": "Espi",
@@ -610,7 +660,8 @@
         "nourriture": "Légumes",
         "image": "images/yokai_images/Espi.png",
         "tribuimage":"images/tribu/Mysterieux.png",
-        "rankimage":"images/rank/B.png"
+        "rankimage":"images/rank/B.png",
+        "elementimage":"images/element/Terre.png"
     },
     {
         "name": "Etassivilia",
@@ -622,7 +673,8 @@
         "nourriture": "Légumes",
         "image": "images/yokai_images/Etassivilla.png",
         "tribuimage":"images/tribu/Mysterieux.png",
-        "rankimage":"images/rank/B.png"
+        "rankimage":"images/rank/B.png",
+        "elementimage":"images/element/Absorbtion.png"
     },
     {
         "name": "Tengu",
@@ -634,7 +686,8 @@
         "nourriture": "Bonbons",
         "image": "images/yokai_images/Tengu.png",
         "tribuimage":"images/tribu/Mysterieux.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Vent.png"
     },
     {
         "name": "Tengurou",
@@ -646,7 +699,8 @@
         "nourriture": "Légumes",
         "image": "images/yokai_images/Tengurou.png",
         "tribuimage":"images/tribu/Mysterieux.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Feu.png"
     },
     {
         "name": "Kyubi",
@@ -658,7 +712,8 @@
         "nourriture": "Fruits de mer",
         "image": "images/yokai_images/Kyubi.png",
         "tribuimage":"images/tribu/Mysterieux.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Feu.png"
     },
     {
         "name": "Barakabo",
@@ -670,7 +725,8 @@
         "nourriture": "Fruits de mer",
         "image": "images/yokai_images/Barakabo.png",
         "tribuimage":"images/tribu/Mysterieux.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Glace.png"
     },
     {
         "name": "Darabajoie",
@@ -682,7 +738,8 @@
         "nourriture": "Pain",
         "image": "images/yokai_images/Darabajoie.png",
         "tribuimage":"images/tribu/Costaud.png",
-        "rankimage":"images/rank/E.png"
+        "rankimage":"images/rank/E.png",
+        "elementimage":"images/element/Terre.png"
     },
     {
         "name": "Darumacho",
@@ -694,7 +751,8 @@
         "nourriture": "Pain",
         "image": "images/yokai_images/Darumacho.png",
         "tribuimage":"images/tribu/Costaud.png",
-        "rankimage":"images/rank/B.png"
+        "rankimage":"images/rank/B.png",
+        "elementimage":"images/element/Terre.png"
     },
     {
         "name": "Goruma",
@@ -706,7 +764,8 @@
         "nourriture": "Pain",
         "image": "images/yokai_images/Goruma.png",
         "tribuimage":"images/tribu/Costaud.png",
-        "rankimage":"images/rank/B.png"
+        "rankimage":"images/rank/B.png",
+        "elementimage":"images/element/Vent.png"
     },
     {
         "name": "Nanpart",
@@ -718,7 +777,8 @@
         "nourriture": "Ramen",
         "image": "images/yokai_images/Nanpart.png",
         "tribuimage":"images/tribu/Costaud.png",
-        "rankimage":"images/rank/E.png"
+        "rankimage":"images/rank/E.png",
+        "elementimage":"images/element/Terre.png"
     },
     {
         "name": "Passpa",
@@ -730,7 +790,8 @@
         "nourriture": "Ramen",
         "image": "images/yokai_images/Passpa.png",
         "tribuimage":"images/tribu/Costaud.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Terre.png"
     },
     {
         "name": "Granpart",
@@ -742,7 +803,8 @@
         "nourriture": "Ramen",
         "image": "images/yokai_images/Granpart.png",
         "tribuimage":"images/tribu/Costaud.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Terre.png"
     },
     {
         "name": "Hauber",
@@ -754,7 +816,8 @@
         "nourriture": "Légumes",
         "image": "images/yokai_images/Hauber.png",
         "tribuimage":"images/tribu/Costaud.png",
-        "rankimage":"images/rank/D.png"
+        "rankimage":"images/rank/D.png",
+        "elementimage":"images/element/Glace.png"
     },
     {
         "name": "Pachycoul",
@@ -766,7 +829,8 @@
         "nourriture": "Boules de riz",
         "image": "images/yokai_images/Pachycoul.png",
         "tribuimage":"images/tribu/Costaud.png",
-        "rankimage":"images/rank/C.png"
+        "rankimage":"images/rank/C.png",
+        "elementimage":"images/element/Eau.png"
     },
     {
         "name": "Persévéfant",
@@ -778,7 +842,8 @@
         "nourriture": "Boules de riz",
         "image": "images/yokai_images/Persévéfant.png",
         "tribuimage":"images/tribu/Costaud.png",
-        "rankimage":"images/rank/C.png"
+        "rankimage":"images/rank/C.png",
+        "elementimage":"images/element/Eau.png"
     },
     {
         "name": "Boulapic",
@@ -790,7 +855,8 @@
         "nourriture": "Lait",
         "image": "images/yokai_images/Boulapic.png",
         "tribuimage":"images/tribu/Costaud.png",
-        "rankimage":"images/rank/D.png"
+        "rankimage":"images/rank/D.png",
+        "elementimage":"images/element/Eau.png"
     },
     {
         "name": "Bouldacier",
@@ -802,7 +868,8 @@
         "nourriture": "Lait",
         "image": "images/yokai_images/Bouldacier.png",
         "tribuimage":"images/tribu/Costaud.png",
-        "rankimage":"images/rank/D.png"
+        "rankimage":"images/rank/D.png",
+        "elementimage":"images/element/Eau.png"
     },
     {
         "name": "Lama Laya",
@@ -814,7 +881,8 @@
         "nourriture": "Boules de riz",
         "image": "images/yokai_images/Lama_Laya.png",
         "tribuimage":"images/tribu/Costaud.png",
-        "rankimage":"images/rank/C.png"
+        "rankimage":"images/rank/C.png",
+        "elementimage":"images/element/Glace.png"
     },
     {
         "name": "Etna Magma",
@@ -826,7 +894,8 @@
         "nourriture": "Boules de riz",
         "image": "images/yokai_images/Etna_Magma.png",
         "tribuimage":"images/tribu/Costaud.png",
-        "rankimage":"images/rank/B.png"
+        "rankimage":"images/rank/B.png",
+        "elementimage":"images/element/Foudre.png"
     },
     {
         "name": "Loubarbare",
@@ -838,7 +907,8 @@
         "nourriture": "Ramen",
         "image": "images/yokai_images/Loubarbare.png",
         "tribuimage":"images/tribu/Costaud.png",
-        "rankimage":"images/rank/E.png"
+        "rankimage":"images/rank/E.png",
+        "elementimage":"images/element/Terre.png"
     },
     {
         "name": "Racaïd",
@@ -850,7 +920,8 @@
         "nourriture": "Ramen",
         "image": "images/yokai_images/Racaïd.png",
         "tribuimage":"images/tribu/Costaud.png",
-        "rankimage":"images/rank/B.png"
+        "rankimage":"images/rank/B.png",
+        "elementimage":"images/element/Terre.png"
     },
     {
         "name": "Frérosse",
@@ -862,7 +933,8 @@
         "nourriture": "Ramen",
         "image": "images/yokai_images/Frérosse.png",
         "tribuimage":"images/tribu/Costaud.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Terre.png"
     },
     {
         "name": "Coléroptère",
@@ -874,7 +946,8 @@
         "nourriture": "Légumes",
         "image": "images/yokai_images/Coléroptère.png",
         "tribuimage":"images/tribu/Costaud.png",
-        "rankimage":"images/rank/B.png"
+        "rankimage":"images/rank/B.png",
+        "elementimage":"images/element/Terre.png"
     },
     {
         "name": "Rhinolimit",
@@ -886,7 +959,8 @@
         "nourriture": "Légumes",
         "image": "images/yokai_images/Rhinolimit.png",
         "tribuimage":"images/tribu/Costaud.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Terre.png"
     },
     {
         "name": "Corniaque",
@@ -898,7 +972,8 @@
         "nourriture": "Légumes",
         "image": "images/yokai_images/Corniaque.png",
         "tribuimage":"images/tribu/Costaud.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Terre.png"
     },
     {
         "name": "Castelius III",
@@ -910,7 +985,8 @@
         "nourriture": "Lait",
         "image": "images/yokai_images/Castelius_III.png",
         "tribuimage":"images/tribu/Costaud.png",
-        "rankimage":"images/rank/C.png"
+        "rankimage":"images/rank/C.png",
+        "elementimage":"images/element/Terre.png"
     },
     {
         "name": "Castelius II",
@@ -922,7 +998,8 @@
         "nourriture": "Lait",
         "image": "images/yokai_images/Castelius_II.png",
         "tribuimage":"images/tribu/Costaud.png",
-        "rankimage":"images/rank/B.png"
+        "rankimage":"images/rank/B.png",
+        "elementimage":"images/element/Glace.png"
     },
     {
         "name": "Castelius I",
@@ -934,7 +1011,8 @@
         "nourriture": "Lait",
         "image": "images/yokai_images/Castelius_I.png",
         "tribuimage":"images/tribu/Costaud.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Foudre.png"
     },
     {
         "name": "Castelius Max",
@@ -946,7 +1024,8 @@
         "nourriture": "Lait",
         "image": "images/yokai_images/Castelius_Max.png",
         "tribuimage":"images/tribu/Costaud.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Vent.png"
     },
     {
         "name": "Robonyan",
@@ -958,7 +1037,8 @@
         "nourriture": "Fruits de mer",
         "image": "images/yokai_images/Robonyan.png",
         "tribuimage":"images/tribu/Costaud.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Glace.png"
     },
     {
         "name": "Oronyan",
@@ -970,7 +1050,8 @@
         "nourriture": "Fruits de mer",
         "image": "images/yokai_images/Oronyan.png",
         "tribuimage":"images/tribu/Costaud.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Foudre.png"
     },
     {
         "name": "Misterre",
@@ -982,7 +1063,8 @@
         "nourriture": "Légumes",
         "image": "images/yokai_images/Misterre.png",
         "tribuimage":"images/tribu/Costaud.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Terre.png"
     },
     {
         "name": "Ressak",
@@ -994,7 +1076,8 @@
         "nourriture": "Légumes",
         "image": "images/yokai_images/Ressak.png",
         "tribuimage":"images/tribu/Costaud.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Eau.png"
     },
     {
         "name": "Squarlette",
@@ -1006,7 +1089,8 @@
         "nourriture": "Hamburger",
         "image": "images/yokai_images/Squarlette.png",
         "tribuimage":"images/tribu/Mignon.png",
-        "rankimage":"images/rank/E.png"
+        "rankimage":"images/rank/E.png",
+        "elementimage":"images/element/Feu.png"
 
     },
     {
@@ -1019,7 +1103,8 @@
         "nourriture": "Hamburger",
         "image": "images/yokai_images/Margoth.png",
         "tribuimage":"images/tribu/Mignon.png",
-        "rankimage":"images/rank/C.png"
+        "rankimage":"images/rank/C.png",
+        "elementimage":"images/element/Feu.png"
 
     },
     {
@@ -1032,7 +1117,8 @@
         "nourriture": "Hamburger",
         "image": "images/yokai_images/Squelèbelle.png",
         "tribuimage":"images/tribu/Mignon.png",
-        "rankimage":"images/rank/B.png"
+        "rankimage":"images/rank/B.png",
+        "elementimage":"images/element/Eau.png"
 
     },
     {
@@ -1045,7 +1131,8 @@
         "nourriture": "Jus",
         "image": "images/yokai_images/Cigalopin.png",
         "tribuimage":"images/tribu/Mignon.png",
-        "rankimage":"images/rank/E.png"
+        "rankimage":"images/rank/E.png",
+        "elementimage":"images/element/Vent.png"
 
     },
     {
@@ -1058,7 +1145,8 @@
         "nourriture": "Jus",
         "image": "images/yokai_images/Cigaillard.png",
         "tribuimage":"images/tribu/Mignon.png",
-        "rankimage":"images/rank/C.png"
+        "rankimage":"images/rank/C.png",
+        "elementimage":"images/element/Vent.png"
 
     },
     {
@@ -1071,7 +1159,8 @@
         "nourriture": "Jus",
         "image": "images/yokai_images/Cigazouille.png",
         "tribuimage":"images/tribu/Mignon.png",
-        "rankimage":"images/rank/B.png"
+        "rankimage":"images/rank/B.png",
+        "elementimage":"images/element/Feu.png"
 
     },
     {
@@ -1084,7 +1173,8 @@
         "nourriture": "Ramen",
         "image": "images/yokai_images/Chihuaglagla.png",
         "tribuimage":"images/tribu/Mignon.png",
-        "rankimage":"images/rank/E.png"
+        "rankimage":"images/rank/E.png",
+        "elementimage":"images/element/Glace.png"
 
     },
     {
@@ -1097,7 +1187,8 @@
         "nourriture": "Ramen",
         "image": "images/yokai_images/Froahuahua.png",
         "tribuimage":"images/tribu/Mignon.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Glace.png"
 
     },
     {
@@ -1110,7 +1201,8 @@
         "nourriture": "Ramen",
         "image": "images/yokai_images/Cho-Cho.png",
         "tribuimage":"images/tribu/Mignon.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Feu.png"
 
     },
     {
@@ -1123,7 +1215,8 @@
         "nourriture": "Fruits de mer",
         "image": "images/yokai_images/Jibanyan.png",
         "tribuimage":"images/tribu/Mignon.png",
-        "rankimage":"images/rank/D.png"
+        "rankimage":"images/rank/D.png",
+        "elementimage":"images/element/Feu.png"
 
     },
     {
@@ -1136,7 +1229,8 @@
         "nourriture": "Fruits de mer",
         "image": "images/yokai_images/Epinyan.png",
         "tribuimage":"images/tribu/Mignon.png",
-        "rankimage":"images/rank/B.png"
+        "rankimage":"images/rank/B.png",
+        "elementimage":"images/element/Vent.png"
 
     },
     {
@@ -1149,7 +1243,8 @@
         "nourriture": "Fruits de mer",
         "image": "images/yokai_images/Bandinyan.png",
         "tribuimage":"images/tribu/Mignon.png",
-        "rankimage":"images/rank/B.png"
+        "rankimage":"images/rank/B.png",
+        "elementimage":"images/element/Feu.png"
 
     },
     {
@@ -1162,7 +1257,8 @@
         "nourriture": "Légumes",
         "image": "images/yokai_images/Kappakap.png",
         "tribuimage":"images/tribu/Mignon.png",
-        "rankimage":"images/rank/D.png"
+        "rankimage":"images/rank/D.png",
+        "elementimage":"images/element/Eau.png"
 
     },
     {
@@ -1175,7 +1271,8 @@
         "nourriture": "Légumes",
         "image": "images/yokai_images/Appak.png",
         "tribuimage":"images/tribu/Mignon.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Eau.png"
 
     },
     {
@@ -1188,7 +1285,8 @@
         "nourriture": "Légumes",
         "image": "images/yokai_images/Kappaloha.png",
         "tribuimage":"images/tribu/Mignon.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Eau.png"
 
     },
     {
@@ -1201,7 +1299,8 @@
         "nourriture": "Lait",
         "image": "images/yokai_images/Komasan.png",
         "tribuimage":"images/tribu/Mignon.png",
-        "rankimage":"images/rank/D.png"
+        "rankimage":"images/rank/D.png",
+        "elementimage":"images/element/Feu.png"
 
     },
     {
@@ -1214,7 +1313,8 @@
         "nourriture": "Lait",
         "image": "images/yokai_images/Komajiro.png",
         "tribuimage":"images/tribu/Mignon.png",
-        "rankimage":"images/rank/D.png"
+        "rankimage":"images/rank/D.png",
+        "elementimage":"images/element/Foudre.png"
 
     },
     {
@@ -1227,7 +1327,8 @@
         "nourriture": "Lait",
         "image": "images/yokai_images/Komaouss.png",
         "tribuimage":"images/tribu/Mignon.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Feu.png"
 
     },
     {
@@ -1240,7 +1341,8 @@
         "nourriture": "Lait",
         "image": "images/yokai_images/Komistigri.png",
         "tribuimage":"images/tribu/Mignon.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Foudre.png"
 
     },
     {
@@ -1253,7 +1355,8 @@
         "nourriture": "Jus",
         "image": "images/yokai_images/Baku.png",
         "tribuimage":"images/tribu/Mignon.png",
-        "rankimage":"images/rank/D.png"
+        "rankimage":"images/rank/D.png",
+        "elementimage":"images/element/Absorbtion.png"
 
     },
     {
@@ -1266,7 +1369,8 @@
         "nourriture": "Jus",
         "image": "images/yokai_images/Tapur.png",
         "tribuimage":"images/tribu/Mignon.png",
-        "rankimage":"images/rank/C.png"
+        "rankimage":"images/rank/C.png",
+        "elementimage":"images/element/Absorbtion.png"
 
     },
     {
@@ -1279,7 +1383,8 @@
         "nourriture": "Hamburger",
         "image": "images/yokai_images/Pitou.png",
         "tribuimage":"images/tribu/Mignon.png",
-        "rankimage":"images/rank/C.png"
+        "rankimage":"images/rank/C.png",
+        "elementimage":"images/element/Restauration.png"
 
     },
     {
@@ -1292,7 +1397,8 @@
         "nourriture": "Hamburger",
         "image": "images/yokai_images/Choubidou.png",
         "tribuimage":"images/tribu/Mignon.png",
-        "rankimage":"images/rank/B.png"
+        "rankimage":"images/rank/B.png",
+        "elementimage":"images/element/Restauration.png"
 
     },
     {
@@ -1305,7 +1411,8 @@
         "nourriture": "Hamburger",
         "image": "images/yokai_images/Satandre.png",
         "tribuimage":"images/tribu/Mignon.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Absorbtion.png"
 
     },
     {
@@ -1318,7 +1425,8 @@
         "nourriture": "Bonbons",
         "image": "images/yokai_images/Angélik.png",
         "tribuimage":"images/tribu/Mignon.png",
-        "rankimage":"images/rank/B.png"
+        "rankimage":"images/rank/B.png",
+        "elementimage":"images/element/Glace.png"
 
     },
     {
@@ -1331,7 +1439,8 @@
         "nourriture": "Bonbons",
         "image": "images/yokai_images/Blizzaria.png",
         "tribuimage":"images/tribu/Mignon.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Glace.png"
 
     },
     {
@@ -1344,7 +1453,8 @@
         "nourriture": "Bonbons",
         "image": "images/yokai_images/Damona.png",
         "tribuimage":"images/tribu/Mignon.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Glace.png"
 
     },
     {
@@ -1357,7 +1467,8 @@
         "nourriture": "Ramen",
         "image": "images/yokai_images/Noripop.png",
         "tribuimage":"images/tribu/Bienveillant.png",
-        "rankimage":"images/rank/E.png"
+        "rankimage":"images/rank/E.png",
+        "elementimage":"images/element/Restauration.png"
     },
     {
         "name": "Wakapoeira",
@@ -1369,7 +1480,8 @@
         "nourriture": "Ramen",
         "image": "images/yokai_images/Wakapoeira.png",
         "tribuimage":"images/tribu/Bienveillant.png",
-        "rankimage":"images/rank/E.png"
+        "rankimage":"images/rank/E.png",
+        "elementimage":"images/element/Restauration.png"
     },
     {
         "name": "Salsalga",
@@ -1381,7 +1493,8 @@
         "nourriture": "Ramen",
         "image": "images/yokai_images/Salsalga.png",
         "tribuimage":"images/tribu/Bienveillant.png",
-        "rankimage":"images/rank/D.png"
+        "rankimage":"images/rank/D.png",
+        "elementimage":"images/element/Restauration.png"
     },
     {
         "name": "Amoiz",
@@ -1393,7 +1506,8 @@
         "nourriture": "Ramen",
         "image": "images/yokai_images/Amoiz.png",
         "tribuimage":"images/tribu/Bienveillant.png",
-        "rankimage":"images/rank/E.png"
+        "rankimage":"images/rank/E.png",
+        "elementimage":"images/element/Foudre.png"
     },
     {
         "name": "Pikor",
@@ -1405,7 +1519,8 @@
         "nourriture": "Ramen",
         "image": "images/yokai_images/Pikor.png",
         "tribuimage":"images/tribu/Bienveillant.png",
-        "rankimage":"images/rank/D.png"
+        "rankimage":"images/rank/D.png",
+        "elementimage":"images/element/Terre.png"
     },
     {
         "name": "Granpapéti",
@@ -1417,7 +1532,8 @@
         "nourriture": "Boules de riz",
         "image": "images/yokai_images/Granpapéti.png",
         "tribuimage":"images/tribu/Bienveillant.png",
-        "rankimage":"images/rank/E.png"
+        "rankimage":"images/rank/E.png",
+        "elementimage":"images/element/Restauration.png"
     },
     {
         "name": "Puissanfon",
@@ -1429,7 +1545,8 @@
         "nourriture": "Boules de riz",
         "image": "images/yokai_images/Puissanfon.png",
         "tribuimage":"images/tribu/Bienveillant.png",
-        "rankimage":"images/rank/B.png"
+        "rankimage":"images/rank/B.png",
+        "elementimage":"images/element/Absorbtion.png"
     },
     {
         "name": "Grainpère",
@@ -1441,7 +1558,8 @@
         "nourriture": "Boules de riz",
         "image": "images/yokai_images/Grainpère.png",
         "tribuimage":"images/tribu/Bienveillant.png",
-        "rankimage":"images/rank/B.png"
+        "rankimage":"images/rank/B.png",
+        "elementimage":"images/element/Restauration.png"
     },
     {
         "name": "Nomoné",
@@ -1453,7 +1571,8 @@
         "nourriture": "Lait",
         "image": "images/yokai_images/Nomoné.png",
         "tribuimage":"images/tribu/Bienveillant.png",
-        "rankimage":"images/rank/D.png"
+        "rankimage":"images/rank/D.png",
+        "elementimage":"images/element/Vent.png"
     },
     {
         "name": "Noproblemo",
@@ -1465,7 +1584,8 @@
         "nourriture": "Lait",
         "image": "images/yokai_images/Noproblemo.png",
         "tribuimage":"images/tribu/Bienveillant.png",
-        "rankimage":"images/rank/C.png"
+        "rankimage":"images/rank/C.png",
+        "elementimage":"images/element/Eau.png"
     },
     {
         "name": "Papiltation",
@@ -1477,7 +1597,8 @@
         "nourriture": "Jus",
         "image": "images/yokai_images/Papiltation.png",
         "tribuimage":"images/tribu/Bienveillant.png",
-        "rankimage":"images/rank/D.png"
+        "rankimage":"images/rank/D.png",
+        "elementimage":"images/element/Restauration.png"
     },
     {
         "name": "Papiltension",
@@ -1489,7 +1610,8 @@
         "nourriture": "Jus",
         "image": "images/yokai_images/Papiltension.png",
         "tribuimage":"images/tribu/Bienveillant.png",
-        "rankimage":"images/rank/D.png"
+        "rankimage":"images/rank/D.png",
+        "elementimage":"images/element/Absorbtion.png"
     },
     {
         "name": "Hyprapillon",
@@ -1501,7 +1623,8 @@
         "nourriture": "Jus",
         "image": "images/yokai_images/Hyprapillon.png",
         "tribuimage":"images/tribu/Bienveillant.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Restauration.png"
     },
     {
         "name": "Vitapillon",
@@ -1513,7 +1636,8 @@
         "nourriture": "Jus",
         "image": "images/yokai_images/Vitapillon.png",
         "tribuimage":"images/tribu/Bienveillant.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Restauration.png"
     },
     {
         "name": "Jojojoyeux",
@@ -1525,7 +1649,8 @@
         "nourriture": "Pain",
         "image": "images/yokai_images/Jojojoyeux.png",
         "tribuimage":"images/tribu/Bienveillant.png",
-        "rankimage":"images/rank/C.png"
+        "rankimage":"images/rank/C.png",
+        "elementimage":"images/element/Restauration.png"
     },
     {
         "name": "Paradoxa",
@@ -1537,7 +1662,8 @@
         "nourriture": "Pain",
         "image": "images/yokai_images/Paradoxa.png",
         "tribuimage":"images/tribu/Bienveillant.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Restauration.png"
     },
     {
         "name": "Potaumorose",
@@ -1549,7 +1675,8 @@
         "nourriture": "Pain",
         "image": "images/yokai_images/Potaumorose.png",
         "tribuimage":"images/tribu/Bienveillant.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Vent.png"
     },
     {
         "name": "Ratatam",
@@ -1561,7 +1688,8 @@
         "nourriture": "Lait",
         "image": "images/yokai_images/Ratatam.png",
         "tribuimage":"images/tribu/Bienveillant.png",
-        "rankimage":"images/rank/B.png"
+        "rankimage":"images/rank/B.png",
+        "elementimage":"images/element/Restauration.png"
     },
     {
         "name": "Supernoël",
@@ -1573,7 +1701,8 @@
         "nourriture": "Lait",
         "image": "images/yokai_images/Supernoël.png",
         "tribuimage":"images/tribu/Bienveillant.png",
-        "rankimage":"images/rank/B.png"
+        "rankimage":"images/rank/B.png",
+        "elementimage":"images/element/Foudre.png"
     },
     {
         "name": "Dédé",
@@ -1585,7 +1714,8 @@
         "nourriture": "Bonbons",
         "image": "images/yokai_images/Dédé.png",
         "tribuimage":"images/tribu/Bienveillant.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Restauration.png"
     },
     {
         "name": "Dédestin",
@@ -1597,7 +1727,8 @@
         "nourriture": "Bonbons",
         "image": "images/yokai_images/Dédestin.png",
         "tribuimage":"images/tribu/Bienveillant.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Eau.png"
     },
     {
         "name": "Tontonerre",
@@ -1609,7 +1740,8 @@
         "nourriture": "Viande",
         "image": "images/yokai_images/Tontonerre.png",
         "tribuimage":"images/tribu/Bienveillant.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Foudre.png"
     },
     {
         "name": "Omnitonton",
@@ -1621,7 +1753,8 @@
         "nourriture": "Viande",
         "image": "images/yokai_images/Omnitonton.png",
         "tribuimage":"images/tribu/Bienveillant.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Foudre.png"
     },
     {
         "name": "Tata Aura",
@@ -1633,7 +1766,8 @@
         "nourriture": "Légumes",
         "image": "images/yokai_images/Tata_Aura.png",
         "tribuimage":"images/tribu/Bienveillant.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Restauration.png"
     },
     {
         "name": "Tata Câlin",
@@ -1645,7 +1779,8 @@
         "nourriture": "Légumes",
         "image": "images/yokai_images/Tata_Câlin.png",
         "tribuimage":"images/tribu/Bienveillant.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Restauration.png"
     },
     {
         "name": "Egaroni",
@@ -1657,7 +1792,8 @@
         "nourriture": "Bonbons",
         "image": "images/yokai_images/Egaroni.png",
         "tribuimage":"images/tribu/Sombre.png",
-        "rankimage":"images/rank/E.png"
+        "rankimage":"images/rank/E.png",
+        "elementimage":"images/element/Glace.png"
     },
     {
         "name": "Onisoi",
@@ -1669,7 +1805,8 @@
         "nourriture": "Bonbons",
         "image": "images/yokai_images/Onisoi.png",
         "tribuimage":"images/tribu/Sombre.png",
-        "rankimage":"images/rank/D.png"
+        "rankimage":"images/rank/D.png",
+        "elementimage":"images/element/Absorbtion.png"
     },
     {
         "name": "Tortico",
@@ -1681,7 +1818,8 @@
         "nourriture": "Bonbons",
         "image": "images/yokai_images/Tortico.png",
         "tribuimage":"images/tribu/Sombre.png",
-        "rankimage":"images/rank/E.png"
+        "rankimage":"images/rank/E.png",
+        "elementimage":"images/element/Terre.png"
     },
     {
         "name": "Tendino",
@@ -1693,7 +1831,8 @@
         "nourriture": "Bonbons",
         "image": "images/yokai_images/Tendino.png",
         "tribuimage":"images/tribu/Sombre.png",
-        "rankimage":"images/rank/C.png"
+        "rankimage":"images/rank/C.png",
+        "elementimage":"images/element/Terre.png"
     },
     {
         "name": "Contracto",
@@ -1705,7 +1844,8 @@
         "nourriture": "Bonbons",
         "image": "images/yokai_images/Contracto.png",
         "tribuimage":"images/tribu/Sombre.png",
-        "rankimage":"images/rank/B.png"
+        "rankimage":"images/rank/B.png",
+        "elementimage":"images/element/Terre.png"
     },
     {
         "name": "Nihilistik",
@@ -1717,7 +1857,8 @@
         "nourriture": "Jus",
         "image": "images/yokai_images/Nihilistik.png",
         "tribuimage":"images/tribu/Sombre.png",
-        "rankimage":"images/rank/E.png"
+        "rankimage":"images/rank/E.png",
+        "elementimage":"images/element/Absorbtion.png"
     },
     {
         "name": "Emoustik",
@@ -1729,7 +1870,8 @@
         "nourriture": "Jus",
         "image": "images/yokai_images/Emoustik.png",
         "tribuimage":"images/tribu/Sombre.png",
-        "rankimage":"images/rank/C.png"
+        "rankimage":"images/rank/C.png",
+        "elementimage":"images/element/Absorbtion.png"
     },
     {
         "name": "Grattoptère",
@@ -1741,7 +1883,8 @@
         "nourriture": "Jus",
         "image": "images/yokai_images/Grattoptère.png",
         "tribuimage":"images/tribu/Sombre.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Foudre.png"
     },
     {
         "name": "Marcognito",
@@ -1753,7 +1896,8 @@
         "nourriture": "Boules de riz",
         "image": "images/yokai_images/Marcognito.png",
         "tribuimage":"images/tribu/Sombre.png",
-        "rankimage":"images/rank/E.png"
+        "rankimage":"images/rank/E.png",
+        "elementimage":"images/element/Vent.png"
     },
     {
         "name": "Ninjamévu",
@@ -1765,7 +1909,8 @@
         "nourriture": "Boules de riz",
         "image": "images/yokai_images/Ninjamévu.png",
         "tribuimage":"images/tribu/Sombre.png",
-        "rankimage":"images/rank/B.png"
+        "rankimage":"images/rank/B.png",
+        "elementimage":"images/element/Vent.png"
     },
     {
         "name": "Nihilo",
@@ -1777,7 +1922,8 @@
         "nourriture": "Boules de riz",
         "image": "images/yokai_images/Nihilo.png",
         "tribuimage":"images/tribu/Sombre.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Vent.png"
     },
     {
         "name": "Chauvekipeut",
@@ -1789,7 +1935,8 @@
         "nourriture": "Viande",
         "image": "images/yokai_images/Chauvekipeut.png",
         "tribuimage":"images/tribu/Sombre.png",
-        "rankimage":"images/rank/E.png"
+        "rankimage":"images/rank/E.png",
+        "elementimage":"images/element/Vent.png"
     },
     {
         "name": "Chauv'coucou",
@@ -1801,7 +1948,8 @@
         "nourriture": "Viande",
         "image": "images/yokai_images/Chauv'coucou.png",
         "tribuimage":"images/tribu/Sombre.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Vent.png"
     },
     {
         "name": "Vampiloc",
@@ -1813,7 +1961,8 @@
         "nourriture": "Viande",
         "image": "images/yokai_images/Vampiloc.png",
         "tribuimage":"images/tribu/Sombre.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Vent.png"
     },
     {
         "name": "Suspicioni",
@@ -1825,7 +1974,8 @@
         "nourriture": "Nourriture Chinoise",
         "image": "images/yokai_images/Suspicioni.png",
         "tribuimage":"images/tribu/Sombre.png",
-        "rankimage":"images/rank/D.png"
+        "rankimage":"images/rank/D.png",
+        "elementimage":"images/element/Eau.png"
     },
     {
         "name": "Ragioni",
@@ -1837,7 +1987,8 @@
         "nourriture": "Nourriture Chinoise",
         "image": "images/yokai_images/Ragioni.png",
         "tribuimage":"images/tribu/Sombre.png",
-        "rankimage":"images/rank/D.png"
+        "rankimage":"images/rank/D.png",
+        "elementimage":"images/element/Feu.png"
     },
     {
         "name": "Contrarioni",
@@ -1849,7 +2000,8 @@
         "nourriture": "Nourriture Chinoise",
         "image": "images/yokai_images/Contrarioni.png",
         "tribuimage":"images/tribu/Sombre.png",
-        "rankimage":"images/rank/B.png"
+        "rankimage":"images/rank/B.png",
+        "elementimage":"images/element/Foudre.png"
     },
     {
         "name": "Tengubre",
@@ -1861,7 +2013,8 @@
         "nourriture": "Légumes",
         "image": "images/yokai_images/Tengubre.png",
         "tribuimage":"images/tribu/Sombre.png",
-        "rankimage":"images/rank/C.png"
+        "rankimage":"images/rank/C.png",
+        "elementimage":"images/element/Vent.png"
     },
     {
         "name": "Bibliotengu",
@@ -1873,7 +2026,8 @@
         "nourriture": "Légumes",
         "image": "images/yokai_images/Bibliotengu.png",
         "tribuimage":"images/tribu/Sombre.png",
-        "rankimage":"images/rank/B.png"
+        "rankimage":"images/rank/B.png",
+        "elementimage":"images/element/Vent.png"
     },
     {
         "name": "Nimpégase",
@@ -1885,7 +2039,8 @@
         "nourriture": "Légumes",
         "image": "images/yokai_images/Nimpégase.png",
         "tribuimage":"images/tribu/Sombre.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Vent.png"
     },
     {
         "name": "Hennimi",
@@ -1897,7 +2052,8 @@
         "nourriture": "Légumes",
         "image": "images/yokai_images/Hennimi.png",
         "tribuimage":"images/tribu/Sombre.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Absorbtion.png"
     },
     {
         "name": "Timidémon",
@@ -1909,7 +2065,8 @@
         "nourriture": "Ramen",
         "image": "images/yokai_images/Timidémon.png",
         "tribuimage":"images/tribu/Sombre.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Feu.png"
     },
     {
         "name": "Belzel",
@@ -1921,7 +2078,8 @@
         "nourriture": "Ramen",
         "image": "images/yokai_images/Belzel.png",
         "tribuimage":"images/tribu/Sombre.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Feu.png"
     },
     {
         "name": "Dente",
@@ -1933,7 +2091,8 @@
         "nourriture": "Ramen",
         "image": "images/yokai_images/Dente.png",
         "tribuimage":"images/tribu/Sombre.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Feu.png"
     },
     {
         "name": "Vénaldo",
@@ -1943,9 +2102,10 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Viande",
-        "image":"/mages/yokai_images/Vénaldo.png",
+        "image":"images/yokai_images/Vénaldo.png",
         "tribuimage":"images/tribu/Sombre.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Feu.png"
     },
     {
         "name": "Maltesse",
@@ -1955,9 +2115,10 @@
         "rarity": "Rare",
         "role": "Ranger",
         "nourriture": "Viande",
-        "image":"/mages/yokai_images/Maltesse.png",
+        "image":"images/yokai_images/Maltesse.png",
         "tribuimage":"images/tribu/Sombre.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Eau.png"
     },
     {
         "name": "Malmidal",
@@ -1967,9 +2128,10 @@
         "rarity": "Commun",
         "role": "Ranger",
         "nourriture": "Pain",
-        "image":"/mages/yokai_images/Malmidal.png",
+        "image":"images/yokai_images/Malmidal.png",
         "tribuimage":"images/tribu/Sinistre.png",
-        "rankimage":"images/rank/E.png"
+        "rankimage":"images/rank/E.png",
+        "elementimage":"images/element/Eau.png"
     },
     {
         "name": "Ecchinose",
@@ -1979,9 +2141,10 @@
         "rarity": "Commun",
         "role": "Ranger",
         "nourriture": "Pain",
-        "image":"/mages/yokai_images/Ecchinose.png",
+        "image":"images/yokai_images/Ecchinose.png",
         "tribuimage":"images/tribu/Sinistre.png",
-        "rankimage":"images/rank/D.png"
+        "rankimage":"images/rank/D.png",
+        "elementimage":"images/element/Glace.png"
     },
     {
         "name": "Chiperpiou",
@@ -1991,9 +2154,10 @@
         "rarity": "Commun",
         "role": "Ranger",
         "nourriture": "Hamburger",
-        "image":"/mages/yokai_images/Chiperpiou.png",
+        "image":"images/yokai_images/Chiperpiou.png",
         "tribuimage":"images/tribu/Sinistre.png",
-        "rankimage":"images/rank/E.png"
+        "rankimage":"images/rank/E.png",
+        "elementimage":"images/element/Absorbtion.png"
     },
     {
         "name": "Pioubidou",
@@ -2003,9 +2167,10 @@
         "rarity": "Commun",
         "role": "Ranger",
         "nourriture": "Hamburger",
-        "image":"/mages/yokai_images/Pioubidou.png",
+        "image":"images/yokai_images/Pioubidou.png",
         "tribuimage":"images/tribu/Sinistre.png",
-        "rankimage":"images/rank/D.png"
+        "rankimage":"images/rank/D.png",
+        "elementimage":"images/element/Absorbtion.png"
     },
     {
         "name": "Flamente",
@@ -2015,9 +2180,10 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Pain",
-        "image":"/mages/yokai_images/Flamente.png",
+        "image":"images/yokai_images/Flamente.png",
         "tribuimage":"images/tribu/Sinistre.png",
-        "rankimage":"images/rank/E.png"
+        "rankimage":"images/rank/E.png",
+        "elementimage":"images/element/Vent.png"
     },
     {
         "name": "Volibrius",
@@ -2027,9 +2193,10 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Pain",
-        "image":"/mages/yokai_images/Volibrius.png",
+        "image":"images/yokai_images/Volibrius.png",
         "tribuimage":"images/tribu/Sinistre.png",
-        "rankimage":"images/rank/C.png"
+        "rankimage":"images/rank/C.png",
+        "elementimage":"images/element/Vent.png"
     },
     {
         "name": "Volatriste",
@@ -2039,9 +2206,10 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Pain",
-        "image":"/mages/yokai_images/Volatriste.png",
+        "image":"images/yokai_images/Volatriste.png",
         "tribuimage":"images/tribu/Sinistre.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Vent.png"
     },
     {
         "name": "Corniot",
@@ -2051,9 +2219,10 @@
         "rarity": "Commun",
         "role": "Ranger",
         "nourriture": "Nourriture Chinoise",
-        "image":"/mages/yokai_images/Corniot.png",
+        "image":"images/yokai_images/Corniot.png",
         "tribuimage":"images/tribu/Sinistre.png",
-        "rankimage":"images/rank/E.png"
+        "rankimage":"images/rank/E.png",
+        "elementimage":"images/element/Feu.png"
     },
     {
         "name": "Bicorniot",
@@ -2063,9 +2232,10 @@
         "rarity": "Commun",
         "role": "Ranger",
         "nourriture": "Nourriture Chinoise",
-        "image":"/mages/yokai_images/Bicorniot.png",
+        "image":"images/yokai_images/Bicorniot.png",
         "tribuimage":"images/tribu/Sinistre.png",
-        "rankimage":"images/rank/B.png"
+        "rankimage":"images/rank/B.png",
+        "elementimage":"images/element/Feu.png"
     },
     {
         "name": "Cerbébert",
@@ -2075,9 +2245,10 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Nourriture Chinoise",
-        "image":"/mages/yokai_images/Cerbébert.png",
+        "image":"images/yokai_images/Cerbébert.png",
         "tribuimage":"images/tribu/Sinistre.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Terre.png"
     },
     {
         "name": "Humidon",
@@ -2087,9 +2258,10 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Jus",
-        "image":"/mages/yokai_images/Humidon.png",
+        "image":"images/yokai_images/Humidon.png",
         "tribuimage":"images/tribu/Sinistre.png",
-        "rankimage":"images/rank/E.png"
+        "rankimage":"images/rank/E.png",
+        "elementimage":"images/element/Eau.png"
     },
     {
         "name": "Délujien",
@@ -2099,9 +2271,10 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Jus",
-        "image":"/mages/yokai_images/Délujien.png",
+        "image":"images/yokai_images/Délujien.png",
         "tribuimage":"images/tribu/Sinistre.png",
-        "rankimage":"images/rank/B.png"
+        "rankimage":"images/rank/B.png",
+        "elementimage":"images/element/Eau.png"
     },
     {
         "name": "Fryzeur",
@@ -2111,9 +2284,10 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Jus",
-        "image":"/mages/yokai_images/Fryzeur.png",
+        "image":"images/yokai_images/Fryzeur.png",
         "tribuimage":"images/tribu/Sinistre.png",
-        "rankimage":"images/rank/E.png"
+        "rankimage":"images/rank/E.png",
+        "elementimage":"images/element/Glace.png"
     },
     {
         "name": "Kongel",
@@ -2123,9 +2297,10 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Jus",
-        "image":"/mages/yokai_images/Kongel.png",
+        "image":"images/yokai_images/Kongel.png",
         "tribuimage":"images/tribu/Sinistre.png",
-        "rankimage":"images/rank/B.png"
+        "rankimage":"images/rank/B.png",
+        "elementimage":"images/element/Glace.png"
     },
     {
         "name": "Hémorhino",
@@ -2135,9 +2310,10 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Jus",
-        "image":"/mages/yokai_images/Hémorhino.png",
+        "image":"images/yokai_images/Hémorhino.png",
         "tribuimage":"images/tribu/Sinistre.png",
-        "rankimage":"images/rank/B.png"
+        "rankimage":"images/rank/B.png",
+        "elementimage":"images/element/Feu.png"
     },
     {
         "name": "Blablara",
@@ -2147,9 +2323,10 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Pain",
-        "image":"/mages/yokai_images/Blablara.png",
+        "image":"images/yokai_images/Blablara.png",
         "tribuimage":"images/tribu/Sinistre.png",
-        "rankimage":"images/rank/D.png"
+        "rankimage":"images/rank/D.png",
+        "elementimage":"images/element/Foudre.png"
     },
     {
         "name": "Umilie",
@@ -2159,9 +2336,10 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Pain",
-        "image":"/mages/yokai_images/Umilie.png",
+        "image":"images/yokai_images/Umilie.png",
         "tribuimage":"images/tribu/Sinistre.png",
-        "rankimage":"images/rank/C.png"
+        "rankimage":"images/rank/C.png",
+        "elementimage":"images/element/Absorbtion.png"
     },
     {
         "name": "Lulugubre",
@@ -2171,9 +2349,10 @@
         "rarity": "Commun",
         "role": "Tank",
         "nourriture": "Pain",
-        "image":"/mages/yokai_images/Lulugubre.png",
+        "image":"images/yokai_images/Lulugubre.png",
         "tribuimage":"images/tribu/Sinistre.png",
-        "rankimage":"images/rank/D.png"
+        "rankimage":"images/rank/D.png",
+        "elementimage":"images/element/Terre.png"
     },
     {
         "name": "Pégaz",
@@ -2183,9 +2362,10 @@
         "rarity": "Commun",
         "role": "Ranger",
         "nourriture": "Lait",
-        "image":"/mages/yokai_images/Pégaz.png",
+        "image":"images/yokai_images/Pégaz.png",
         "tribuimage":"images/tribu/Sinistre.png",
-        "rankimage":"images/rank/C.png"
+        "rankimage":"images/rank/C.png",
+        "elementimage":"images/element/Glace.png"
     },
     {
         "name": "Méphito",
@@ -2195,9 +2375,10 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Lait",
-        "image":"/mages/yokai_images/Méphito.png",
+        "image":"images/yokai_images/Méphito.png",
         "tribuimage":"images/tribu/Sinistre.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Glace.png"
     },
     {
         "name": "Misterbide",
@@ -2207,9 +2388,10 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Nourriture Chinoise",
-        "image":"/mages/yokai_images/Misterbide.png",
+        "image":"images/yokai_images/Misterbide.png",
         "tribuimage":"images/tribu/Sinistre.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Absorbtion.png"
     },
     {
         "name": "Flopito",
@@ -2219,9 +2401,10 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Nourriture Chinoise",
-        "image":"/mages/yokai_images/Flopito.png",
+        "image":"images/yokai_images/Flopito.png",
         "tribuimage":"images/tribu/Sinistre.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Absorbtion.png"
     },
     {
         "name": "Cenridion",
@@ -2231,9 +2414,10 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Lait",
-        "image":"/mages/yokai_images/Cenridion.png",
+        "image":"images/yokai_images/Cenridion.png",
         "tribuimage":"images/tribu/Sinistre.png",
-        "rankimage":"images/rank/B.png"
+        "rankimage":"images/rank/B.png",
+        "elementimage":"images/element/Absorbtion.png"
     },
     {
         "name": "Jouvencia",
@@ -2243,9 +2427,10 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Lait",
-        "image":"/mages/yokai_images/Jouvencia.png",
+        "image":"images/yokai_images/Jouvencia.png",
         "tribuimage":"images/tribu/Sinistre.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Absorbtion.png"
     },
     {
         "name": "Eterna",
@@ -2255,9 +2440,10 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Lait",
-        "image":"/mages/yokai_images/Eterna.png",
+        "image":"images/yokai_images/Eterna.png",
         "tribuimage":"images/tribu/Sinistre.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Absorbtion.png"
     },
     {
         "name": "Insomnelle",
@@ -2267,9 +2453,10 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Bonbons",
-        "image":"/mages/yokai_images/Insomnelle.png",
+        "image":"images/yokai_images/Insomnelle.png",
         "tribuimage":"images/tribu/Sinistre.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Glace.png"
     },
     {
         "name": "Morféa",
@@ -2279,9 +2466,10 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Bonbons",
-        "image":"/mages/yokai_images/Morféa.png",
+        "image":"images/yokai_images/Morféa.png",
         "tribuimage":"images/tribu/Sinistre.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Absorbtion.png"
     },
     {
         "name": "Noko",
@@ -2291,9 +2479,10 @@
         "rarity": "Rare",
         "role": "Guérisseur",
         "nourriture": "Hamburger",
-        "image":"/mages/yokai_images/Noko.png",
+        "image":"images/yokai_images/Noko.png",
         "tribuimage":"images/tribu/Insaisissable.png",
-        "rankimage":"images/rank/E.png"
+        "rankimage":"images/rank/E.png",
+        "elementimage":"images/element/Terre.png"
     },
     {
         "name": "Nénunoko",
@@ -2303,9 +2492,10 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Hamburger",
-        "image":"/mages/yokai_images/Nénunoko.png",
+        "image":"images/yokai_images/Nénunoko.png",
         "tribuimage":"images/tribu/Insaisissable.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Terre.png"
     },
     {
         "name": "Pandanoko",
@@ -2315,9 +2505,10 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Hamburger",
-        "image":"/mages/yokai_images/Pandanoko.png",
+        "image":"images/yokai_images/Pandanoko.png",
         "tribuimage":"images/tribu/Insaisissable.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Glace.png"
     },
     {
         "name": "Anghihihille",
@@ -2327,9 +2518,10 @@
         "rarity": "Commun",
         "role": "Guérisseur",
         "nourriture": "Viande",
-        "image":"/mages/yokai_images/Anghihihille.png",
+        "image":"images/yokai_images/Anghihihille.png",
         "tribuimage":"images/tribu/Insaisissable.png",
-        "rankimage":"images/rank/D.png"
+        "rankimage":"images/rank/D.png",
+        "elementimage":"images/element/Restauration.png"
     },
     {
         "name": "Méroubadour",
@@ -2339,9 +2531,10 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Viande",
-        "image":"/mages/yokai_images/Méroubadour.png",
+        "image":"images/yokai_images/Méroubadour.png",
         "tribuimage":"images/tribu/Insaisissable.png",
-        "rankimage":"images/rank/C.png"
+        "rankimage":"images/rank/C.png",
+        "elementimage":"images/element/Absorbtion.png"
     },
     {
         "name": "Urnaconda",
@@ -2351,9 +2544,10 @@
         "rarity": "Commun",
         "role": "Guérisseur",
         "nourriture": "Viande",
-        "image":"/mages/yokai_images/Urnaconda.png",
+        "image":"images/yokai_images/Urnaconda.png",
         "tribuimage":"images/tribu/Insaisissable.png",
-        "rankimage":"images/rank/C.png"
+        "rankimage":"images/rank/C.png",
+        "elementimage":"images/element/Restauration.png"
     },
     {
         "name": "Murhaine",
@@ -2363,9 +2557,10 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Viande",
-        "image":"/mages/yokai_images/Murhaine.png",
+        "image":"images/yokai_images/Murhaine.png",
         "tribuimage":"images/tribu/Insaisissable.png",
-        "rankimage":"images/rank/D.png"
+        "rankimage":"images/rank/D.png",
+        "elementimage":"images/element/Foudre.png"
     },
     {
         "name": "Saumhonni",
@@ -2375,9 +2570,10 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Viande",
-        "image":"/mages/yokai_images/Saumhonni.png",
+        "image":"images/yokai_images/Saumhonni.png",
         "tribuimage":"images/tribu/Insaisissable.png",
-        "rankimage":"images/rank/B.png"
+        "rankimage":"images/rank/B.png",
+        "elementimage":"images/element/Foudre.png"
     },
     {
         "name": "Vexturgeon",
@@ -2387,9 +2583,10 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Viande",
-        "image":"/mages/yokai_images/Vexturgeon.png",
+        "image":"images/yokai_images/Vexturgeon.png",
         "tribuimage":"images/tribu/Insaisissable.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Feu.png"
     },
     {
         "name": "Dracounet",
@@ -2399,9 +2596,10 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Nourriture Chinoise",
-        "image":"/mages/yokai_images/Dracounet.png",
+        "image":"images/yokai_images/Dracounet.png",
         "tribuimage":"images/tribu/Insaisissable.png",
-        "rankimage":"images/rank/D.png"
+        "rankimage":"images/rank/D.png",
+        "elementimage":"images/element/Terre.png"
     },
     {
         "name": "Sire Dragon",
@@ -2411,9 +2609,10 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Nourriture Chinoise",
-        "image":"/mages/yokai_images/Sire_Dragon.png",
+        "image":"images/yokai_images/Sire_Dragon.png",
         "tribuimage":"images/tribu/Insaisissable.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Terre.png"
     },
     {
         "name": "Dragô",
@@ -2423,9 +2622,10 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Nourriture Chinoise",
-        "image":"/mages/yokai_images/Dragô.png",
+        "image":"images/yokai_images/Dragô.png",
         "tribuimage":"images/tribu/Insaisissable.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Eau.png"
     },
     {
         "name": "Bababou",
@@ -2435,9 +2635,10 @@
         "rarity": "Commun",
         "role": "Ranger",
         "nourriture": "Bonbons",
-        "image":"/mages/yokai_images/Bababou.png",
+        "image":"images/yokai_images/Bababou.png",
         "tribuimage":"images/tribu/Insaisissable.png",
-        "rankimage":"images/rank/C.png"
+        "rankimage":"images/rank/C.png",
+        "elementimage":"images/element/Absorbtion.png"
     },
     {
         "name": "Tourneboul",
@@ -2447,9 +2648,10 @@
         "rarity": "Commun",
         "role": "Ranger",
         "nourriture": "Bonbons",
-        "image":"/mages/yokai_images/Tourneboul.png",
+        "image":"images/yokai_images/Tourneboul.png",
         "tribuimage":"images/tribu/Insaisissable.png",
-        "rankimage":"images/rank/B.png"
+        "rankimage":"images/rank/B.png",
+        "elementimage":"images/element/Absorbtion.png"
     },
     {
         "name": "Croquin",
@@ -2459,9 +2661,10 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Légumes",
-        "image":"/mages/yokai_images/Croquin.png",
+        "image":"images/yokai_images/Croquin.png",
         "tribuimage":"images/tribu/Insaisissable.png",
-        "rankimage":"images/rank/C.png"
+        "rankimage":"images/rank/C.png",
+        "elementimage":"images/element/Eau.png"
     },
     {
         "name": "Inisquale",
@@ -2471,9 +2674,10 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Légumes",
-        "image":"/mages/yokai_images/Inisquale.png",
+        "image":"images/yokai_images/Inisquale.png",
         "tribuimage":"images/tribu/Insaisissable.png",
-        "rankimage":"images/rank/B.png"
+        "rankimage":"images/rank/B.png",
+        "elementimage":"images/element/Eau.png"
     },
     {
         "name": "Claquille",
@@ -2483,9 +2687,10 @@
         "rarity": "Commun",
         "role": "Tank",
         "nourriture": "Pain",
-        "image":"/mages/yokai_images/Claquille.png",
+        "image":"images/yokai_images/Claquille.png",
         "tribuimage":"images/tribu/Insaisissable.png",
-        "rankimage":"images/rank/C.png"
+        "rankimage":"images/rank/C.png",
+        "elementimage":"images/element/Vent.png"
     },
     {
         "name": "Cocpille",
@@ -2495,9 +2700,10 @@
         "rarity": "Rare",
         "role": "Tank",
         "nourriture": "Pain",
-        "image":"/mages/yokai_images/Cocpille.png",
+        "image":"images/yokai_images/Cocpille.png",
         "tribuimage":"images/tribu/Insaisissable.png",
-        "rankimage":"images/rank/B.png"
+        "rankimage":"images/rank/B.png",
+        "elementimage":"images/element/Eau.png"
     },
     {
         "name": "Jacquasseur",
@@ -2507,9 +2713,10 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Bonbons",
-        "image":"/mages/yokai_images/Jacquasseur.png",
+        "image":"images/yokai_images/Jacquasseur.png",
         "tribuimage":"images/tribu/Insaisissable.png",
-        "rankimage":"images/rank/C.png"
+        "rankimage":"images/rank/C.png",
+        "elementimage":"images/element/Eau.png"
     },
     {
         "name": "Bananar",
@@ -2519,9 +2726,10 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Bonbons",
-        "image":"/mages/yokai_images/Bananar.png",
+        "image":"images/yokai_images/Bananar.png",
         "tribuimage":"images/tribu/Insaisissable.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Eau.png"
     },
     {
         "name": "Vipètesec",
@@ -2531,9 +2739,10 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Fruits de mer",
-        "image":"/mages/yokai_images/Vipètesec.png",
+        "image":"images/yokai_images/Vipètesec.png",
         "tribuimage":"images/tribu/Insaisissable.png",
-        "rankimage":"images/rank/B.png"
+        "rankimage":"images/rank/B.png",
+        "elementimage":"images/element/Feu.png"
     },
     {
         "name": "Vipérâle",
@@ -2543,9 +2752,10 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Fruits de mer",
-        "image":"/mages/yokai_images/Vipérâle.png",
+        "image":"images/yokai_images/Vipérâle.png",
         "tribuimage":"images/tribu/Insaisissable.png",
-        "rankimage":"images/rank/B.png"
+        "rankimage":"images/rank/B.png",
+        "elementimage":"images/element/Eau.png"
     },
     {
         "name": "Vipairflay",
@@ -2555,9 +2765,10 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Fruits de mer",
-        "image":"/mages/yokai_images/Vipairflay.png",
+        "image":"images/yokai_images/Vipairflay.png",
         "tribuimage":"images/tribu/Insaisissable.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Foudre.png"
     },
     {
         "name": "Octorgone",
@@ -2567,9 +2778,10 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Fruits de mer",
-        "image":"/mages/yokai_images/Octorgone.png",
+        "image":"images/yokai_images/Octorgone.png",
         "tribuimage":"images/tribu/Insaisissable.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Foudre.png"
     },
     {
         "name": "Octorgombre",
@@ -2579,9 +2791,10 @@
         "rarity": "Rare",
         "role": "Guérisseur",
         "nourriture": "Fruits de mer",
-        "image":"/mages/yokai_images/Octorgombre.png",
+        "image":"images/yokai_images/Octorgombre.png",
         "tribuimage":"images/tribu/Insaisissable.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Restauration.png"
     },
     {
         "name": "Shogunyan",
@@ -2591,9 +2804,10 @@
         "rarity": "Légendaire",
         "role": "Combattant",
         "nourriture": "Fruits de mer",
-        "image":"/mages/yokai_images/Shogunyan.png",
+        "image":"images/yokai_images/Shogunyan.png",
         "tribuimage":"images/tribu/Vaillant.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Vent.png"
     },
     {
         "name": "Komashura",
@@ -2603,9 +2817,10 @@
         "rarity": "Légendaire",
         "role": "Combattant",
         "nourriture": "Lait",
-        "image":"/mages/yokai_images/Komashura.png",
+        "image":"images/yokai_images/Komashura.png",
         "tribuimage":"images/tribu/Mysterieux.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Feu.png"
     },
     {
         "name": "Cabotin",
@@ -2615,9 +2830,10 @@
         "rarity": "Légendaire",
         "role": "Guérisseur",
         "nourriture": "Nourriture Chinoise",
-        "image":"/mages/yokai_images/Cabotin.png",
+        "image":"images/yokai_images/Cabotin.png",
         "tribuimage":"images/tribu/Sinistre.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Restauration.png"
     },
     {
         "name": "Camaïeul",
@@ -2627,9 +2843,10 @@
         "rarity": "Légendaire",
         "role": "Guérisseur",
         "nourriture": "Boules de riz",
-        "image":"/mages/yokai_images/Camaïeul.png",
+        "image":"images/yokai_images/Camaïeul.png",
         "tribuimage":"images/tribu/Bienveillant.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Restauration.png"
     },
     {
         "name": "Gorgouille",
@@ -2639,9 +2856,10 @@
         "rarity": "Légendaire",
         "role": "Combattant",
         "nourriture": "Viande",
-        "image":"/mages/yokai_images/Gorgouille.png",
+        "image":"images/yokai_images/Gorgouille.png",
         "tribuimage":"images/tribu/Costaud.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Foudre.png"
     },
     {
         "name": "Saphinyan",
@@ -2651,9 +2869,10 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Fruits de mer",
-        "image":"/mages/yokai_images/Saphinyan.png",
+        "image":"images/yokai_images/Saphinyan.png",
         "tribuimage":"images/tribu/Mignon.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Eau.png"
 
     },
     {
@@ -2664,9 +2883,10 @@
         "rarity": "Rare",
         "role": "Guérisseur",
         "nourriture": "Fruits de mer",
-        "image":"/mages/yokai_images/Emeranyan.png",
+        "image":"images/yokai_images/Emeranyan.png",
         "tribuimage":"images/tribu/Mignon.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Restauration.png"
 
     },
     {
@@ -2677,9 +2897,10 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Fruits de mer",
-        "image":"/mages/yokai_images/Rubinyan.png",
+        "image":"images/yokai_images/Rubinyan.png",
         "tribuimage":"images/tribu/Mignon.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Feu.png"
 
     },
     {
@@ -2690,9 +2911,10 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Fruits de mer",
-        "image":"/mages/yokai_images/Topanyan.png",
+        "image":"images/yokai_images/Topanyan.png",
         "tribuimage":"images/tribu/Mignon.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Foudre.png"
 
     },
     {
@@ -2703,9 +2925,10 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Fruits de mer",
-        "image":"/mages/yokai_images/Diamanyan.png",
+        "image":"images/yokai_images/Diamanyan.png",
         "tribuimage":"images/tribu/Mignon.png",
-        "rankimage":"images/rank/A.png"
+        "rankimage":"images/rank/A.png",
+        "elementimage":"images/element/Glace.png"
 
     },
     {
@@ -2716,9 +2939,10 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Viande",
-        "image":"/mages/yokai_images/Gargaros.png",
+        "image":"images/yokai_images/Gargaros.png",
         "tribuimage":"images/tribu/Costaud.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Feu.png"
     },
     {
         "name": "Ogralos",
@@ -2728,9 +2952,10 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Viande",
-        "image":"/mages/yokai_images/Ogralos.png",
+        "image":"images/yokai_images/Ogralos.png",
         "tribuimage":"images/tribu/Costaud.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Eau.png"
     },
     {
         "name": "Orqanos",
@@ -2740,8 +2965,9 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Viande",
-        "image":"/mages/yokai_images/Orqanos.png",
+        "image":"images/yokai_images/Orqanos.png",
         "tribuimage":"images/tribu/Costaud.png",
-        "rankimage":"images/rank/S.png"
+        "rankimage":"images/rank/S.png",
+        "elementimage":"images/element/Absorbtion.png"
     }
 ]
