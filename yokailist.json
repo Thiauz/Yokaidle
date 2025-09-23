@@ -32,7 +32,7 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Boules de riz",
-        "image": "Yokaidle/images/yokai_images/Alfoncéo.png",
+        "image": "images/yokai_images/Alfoncéo.png",
         "tribuimage":"images/tribu/Vaillant.png",
         "rankimage":"images/rank/B.png"
     },
@@ -44,7 +44,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Jus",
-        "image": "Yokaidle/images/yokai_images/Toumou.png",
+        "image": "images/yokai_images/Toumou.png",
         "tribuimage":"images/tribu/Vaillant.png",
         "rankimage":"images/rank/E.png"
     },
@@ -56,7 +56,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Jus",
-        "image": "Yokaidle/images/yokai_images/Lamlam'mou.png",
+        "image": "images/yokai_images/Lamlam'mou.png",
         "tribuimage":"images/tribu/Vaillant.png",
         "rankimage":"images/rank/C.png"
     },
@@ -68,7 +68,7 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Jus",
-        "image": "Yokaidle/images/yokai_images/Samoumourai.png",
+        "image": "images/yokai_images/Samoumourai.png",
         "tribuimage":"images/tribu/Vaillant.png",
         "rankimage":"images/rank/B.png"
     },
@@ -80,7 +80,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Boules de riz",
-        "image": "Yokaidle/images/yokai_images/Sumochi.png",
+        "image": "images/yokai_images/Sumochi.png",
         "tribuimage":"images/tribu/Vaillant.png",
         "rankimage":"images/rank/D.png"
     },
@@ -92,7 +92,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Boules de riz",
-        "image": "Yokaidle/images/yokai_images/Mochimacho.png",
+        "image": "images/yokai_images/Mochimacho.png",
         "tribuimage":"images/tribu/Vaillant.png",
         "rankimage":"images/rank/D.png"
     },
@@ -104,7 +104,7 @@
         "rarity": "Commun",
         "role": "Tank",
         "nourriture": "Légumes",
-        "image": "Yokaidle/images/yokai_images/Heaumer.png",
+        "image": "images/yokai_images/Heaumer.png",
         "tribuimage":"images/tribu/Vaillant.png",
         "rankimage":"images/rank/D.png"
     },
@@ -116,7 +116,7 @@
         "rarity": "Commun",
         "role": "Tank",
         "nourriture": "Légumes",
-        "image": "Yokaidle/images/yokai_images/Bushidos.png",
+        "image": "images/yokai_images/Bushidos.png",
         "tribuimage":"images/tribu/Vaillant.png",
         "rankimage":"images/rank/A.png"
     },
@@ -128,7 +128,7 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Légumes",
-        "image": "Yokaidle/images/yokai_images/Amiral.png",
+        "image": "images/yokai_images/Amiral.png",
         "tribuimage":"images/tribu/Vaillant.png",
         "rankimage":"images/rank/S.png"
     },
@@ -140,7 +140,7 @@
         "rarity": "Commun",
         "role": "Ranger",
         "nourriture": "Viande",
-        "image": "Yokaidle/images/yokai_images/Feulion.png",
+        "image": "images/yokai_images/Feulion.png",
         "tribuimage":"images/tribu/Vaillant.png",
         "rankimage":"images/rank/C.png"
     },
@@ -152,7 +152,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Viande",
-        "image": "Yokaidle/images/yokai_images/Vibrilion.png",
+        "image": "images/yokai_images/Vibrilion.png",
         "tribuimage":"images/tribu/Vaillant.png",
         "rankimage":"images/rank/B.png"
     },
@@ -164,7 +164,7 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Viande",
-        "image": "Yokaidle/images/yokai_images/Siro.png",
+        "image": "images/yokai_images/Siro.png",
         "tribuimage":"images/tribu/Vaillant.png",
         "rankimage":"images/rank/A.png"
     },
@@ -176,7 +176,7 @@
         "rarity": "Commun",
         "role": "Ranger",
         "nourriture": "Fruits de mer",
-        "image": "Yokaidle/images/yokai_images/Bonneto.png",
+        "image": "images/yokai_images/Bonneto.png",
         "tribuimage":"images/tribu/Vaillant.png",
         "rankimage":"images/rank/C.png"
     },
@@ -188,7 +188,7 @@
         "rarity": "Commun",
         "role": "Ranger",
         "nourriture": "Fruits de mer",
-        "image": "Yokaidle/images/yokai_images/Sabri.png",
+        "image": "images/yokai_images/Sabri.png",
         "tribuimage":"images/tribu/Vaillant.png",
         "rankimage":"images/rank/A.png"
     },
@@ -200,7 +200,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Fruits de mer",
-        "image": "Yokaidle/images/yokai_images/Padelou.png",
+        "image": "images/yokai_images/Padelou.png",
         "tribuimage":"images/tribu/Vaillant.png",
         "rankimage":"images/rank/A.png"
     },
@@ -212,7 +212,7 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Fruits de mer",
-        "image": "Yokaidle/images/yokai_images/Orox.png",
+        "image": "images/yokai_images/Orox.png",
         "tribuimage":"images/tribu/Vaillant.png",
         "rankimage":"images/rank/S.png"
     },
@@ -224,7 +224,7 @@
         "rarity": "Commun",
         "role": "Tank",
         "nourriture": "Nourriture Chinoise",
-        "image": "Yokaidle/images/yokai_images/Benkei.png",
+        "image": "images/yokai_images/Benkei.png",
         "tribuimage":"images/tribu/Vaillant.png",
         "rankimage":"images/rank/B.png"
     },
@@ -236,7 +236,7 @@
         "rarity": "Commun",
         "role": "Tank",
         "nourriture": "Nourriture Chinoise",
-        "image": "Yokaidle/images/yokai_images/B3-NK1.png",
+        "image": "images/yokai_images/B3-NK1.png",
         "tribuimage":"images/tribu/Vaillant.png",
         "rankimage":"images/rank/B.png"
     },
@@ -248,7 +248,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Boules de riz",
-        "image": "Yokaidle/images/yokai_images/Sushiyama.png",
+        "image": "images/yokai_images/Sushiyama.png",
         "tribuimage":"images/tribu/Vaillant.png",
         "rankimage":"images/rank/B.png"
     },
@@ -260,7 +260,7 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Boules de riz",
-        "image": "Yokaidle/images/yokai_images/Kapunki.png",
+        "image": "images/yokai_images/Kapunki.png",
         "tribuimage":"images/tribu/Vaillant.png",
         "rankimage":"images/rank/A.png"
     },
@@ -272,7 +272,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Légumes",
-        "image": "Yokaidle/images/yokai_images/Scatcheur.png",
+        "image": "images/yokai_images/Scatcheur.png",
         "tribuimage":"images/tribu/Vaillant.png",
         "rankimage":"images/rank/B.png"
     },
@@ -284,7 +284,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Légumes",
-        "image": "Yokaidle/images/yokai_images/Scarmouche.png",
+        "image": "images/yokai_images/Scarmouche.png",
         "tribuimage":"images/tribu/Vaillant.png",
         "rankimage":"images/rank/S.png"
     },
@@ -296,7 +296,7 @@
         "rarity": "Rare",
         "role": "Ranger",
         "nourriture": "Légumes",
-        "image": "Yokaidle/images/yokai_images/Scarnage.png",
+        "image": "images/yokai_images/Scarnage.png",
         "tribuimage":"images/tribu/Vaillant.png",
         "rankimage":"images/rank/S.png"
     },
@@ -308,7 +308,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Viande",
-        "image": "Yokaidle/images/yokai_images/Zerberker.png",
+        "image": "images/yokai_images/Zerberker.png",
         "tribuimage":"images/tribu/Vaillant.png",
         "rankimage":"images/rank/S.png"
     },
@@ -320,7 +320,7 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Viande",
-        "image": "Yokaidle/images/yokai_images/Fouétar.png",
+        "image": "images/yokai_images/Fouétar.png",
         "tribuimage":"images/tribu/Vaillant.png",
         "rankimage":"images/rank/S.png"
     },
@@ -332,7 +332,7 @@
         "rarity": "Commun",
         "role": "Ranger",
         "nourriture": "Fruits de mer",
-        "image": "Yokaidle/images/yokai_images/Morvobec.png",
+        "image": "images/yokai_images/Morvobec.png",
         "tribuimage":"images/tribu/Mysterieux.png",
         "rankimage":"images/rank/E.png"
     },
@@ -344,7 +344,7 @@
         "rarity": "Commun",
         "role": "Ranger",
         "nourriture": "Fruits de mer",
-        "image": "Yokaidle/images/yokai_images/Matchou.png",
+        "image": "images/yokai_images/Matchou.png",
         "tribuimage":"images/tribu/Mysterieux.png",
         "rankimage":"images/rank/D.png"
     },
@@ -356,7 +356,7 @@
         "rarity": "Commun",
         "role": "Ranger",
         "nourriture": "Bonbons",
-        "image": "Yokaidle/images/yokai_images/Chaipô.png",
+        "image": "images/yokai_images/Chaipô.png",
         "tribuimage":"images/tribu/Mysterieux.png",
         "rankimage":"images/rank/E.png"
     },
@@ -368,7 +368,7 @@
         "rarity": "Commun",
         "role": "Ranger",
         "nourriture": "Bonbons",
-        "image": "Yokaidle/images/yokai_images/Gagalurin.png",
+        "image": "images/yokai_images/Gagalurin.png",
         "tribuimage":"images/tribu/Mysterieux.png",
         "rankimage":"images/rank/E.png"
     },
@@ -380,7 +380,7 @@
         "rarity": "Commun",
         "role": "Guérisseur",
         "nourriture": "Hamburger",
-        "image": "Yokaidle/images/yokai_images/Papa_Ress.png",
+        "image": "images/yokai_images/Papa_Ress.png",
         "tribuimage":"images/tribu/Mysterieux.png",
         "rankimage":"images/rank/E.png"
     },
@@ -392,7 +392,7 @@
         "rarity": "Commun",
         "role": "Guérisseur",
         "nourriture": "Hamburger",
-        "image": "Yokaidle/images/yokai_images/Ralbouc.png",
+        "image": "images/yokai_images/Ralbouc.png",
         "tribuimage":"images/tribu/Mysterieux.png",
         "rankimage":"images/rank/C.png"
     },
@@ -404,7 +404,7 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Hamburger",
-        "image": "Yokaidle/images/yokai_images/Bastata.png",
+        "image": "images/yokai_images/Bastata.png",
         "tribuimage":"images/tribu/Mysterieux.png",
         "rankimage":"images/rank/C.png"
     },
@@ -416,7 +416,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Hamburger",
-        "image": "Yokaidle/images/yokai_images/Marra.png",
+        "image": "images/yokai_images/Marra.png",
         "tribuimage":"images/tribu/Mysterieux.png",
         "rankimage":"images/rank/D.png"
     },
@@ -428,7 +428,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Hamburger",
-        "image": "Yokaidle/images/yokai_images/Violette.png",
+        "image": "images/yokai_images/Violette.png",
         "tribuimage":"images/tribu/Mysterieux.png",
         "rankimage":"images/rank/C.png"
     },
@@ -440,7 +440,7 @@
         "rarity": "Commun",
         "role": "Guérisseur",
         "nourriture": "Ramen",
-        "image": "Yokaidle/images/yokai_images/Toutouïe.png",
+        "image": "images/yokai_images/Toutouïe.png",
         "tribuimage":"images/tribu/Mysterieux.png",
         "rankimage":"images/rank/D.png"
     },
@@ -452,7 +452,7 @@
         "rarity": "Commun",
         "role": "Guérisseur",
         "nourriture": "Ramen",
-        "image": "Yokaidle/images/yokai_images/Babalance.png",
+        "image": "images/yokai_images/Babalance.png",
         "tribuimage":"images/tribu/Mysterieux.png",
         "rankimage":"images/rank/B.png"
     },
@@ -464,7 +464,7 @@
         "rarity": "Rare",
         "role": "Guérisseur",
         "nourriture": "Ramen",
-        "image": "Yokaidle/images/yokai_images/Mémétal.png",
+        "image": "images/yokai_images/Mémétal.png",
         "tribuimage":"images/tribu/Mysterieux.png",
         "rankimage":"images/rank/C.png"
     },
@@ -476,7 +476,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Pain",
-        "image": "Yokaidle/images/yokai_images/Cupistol.png",
+        "image": "images/yokai_images/Cupistol.png",
         "tribuimage":"images/tribu/Mysterieux.png",
         "rankimage":"images/rank/D.png"
     },
@@ -488,7 +488,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Pain",
-        "image": "Yokaidle/images/yokai_images/Donjouant.png",
+        "image": "images/yokai_images/Donjouant.png",
         "tribuimage":"images/tribu/Mysterieux.png",
         "rankimage":"images/rank/A.png"
     },
@@ -500,7 +500,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Pain",
-        "image": "Yokaidle/images/yokai_images/Nonjuant.png",
+        "image": "images/yokai_images/Nonjuant.png",
         "tribuimage":"images/tribu/Mysterieux.png",
         "rankimage":"images/rank/A.png"
     },
@@ -512,7 +512,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Boules de riz",
-        "image": "Yokaidle/images/yokai_images/Padrézo.png",
+        "image": "images/yokai_images/Padrézo.png",
         "tribuimage":"images/tribu/Mysterieux.png",
         "rankimage":"images/rank/D.png"
     },
@@ -524,7 +524,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Boules de riz",
-        "image": "Yokaidle/images/yokai_images/Emmetor.png",
+        "image": "images/yokai_images/Emmetor.png",
         "tribuimage":"images/tribu/Mysterieux.png",
         "rankimage":"images/rank/A.png"
     },
@@ -536,7 +536,7 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Boules de riz",
-        "image": "Yokaidle/images/yokai_images/Dynamo.png",
+        "image": "images/yokai_images/Dynamo.png",
         "tribuimage":"images/tribu/Mysterieux.png",
         "rankimage":"images/rank/S.png"
     },
@@ -548,7 +548,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Nourriture Chinoise",
-        "image": "Yokaidle/images/yokai_images/Télémir.png",
+        "image": "images/yokai_images/Télémir.png",
         "tribuimage":"images/tribu/Mysterieux.png",
         "rankimage":"images/rank/C.png"
     },
@@ -560,7 +560,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Nourriture Chinoise",
-        "image": "Yokaidle/images/yokai_images/Nuiroir.png",
+        "image": "images/yokai_images/Nuiroir.png",
         "tribuimage":"images/tribu/Mysterieux.png",
         "rankimage":"images/rank/A.png"
     },
@@ -572,7 +572,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Nourriture Chinoise",
-        "image": "Yokaidle/images/yokai_images/Hiblusion.png",
+        "image": "images/yokai_images/Hiblusion.png",
         "tribuimage":"images/tribu/Mysterieux.png",
         "rankimage":"images/rank/C.png"
     },
@@ -584,7 +584,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Nourriture Chinoise",
-        "image": "Yokaidle/images/yokai_images/Hibrouille.png",
+        "image": "images/yokai_images/Hibrouille.png",
         "tribuimage":"images/tribu/Mysterieux.png",
         "rankimage":"images/rank/C.png"
     },
@@ -596,7 +596,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Nourriture Chinoise",
-        "image": "Yokaidle/images/yokai_images/Hibourling.png",
+        "image": "images/yokai_images/Hibourling.png",
         "tribuimage":"images/tribu/Mysterieux.png",
         "rankimage":"images/rank/B.png"
     },
@@ -608,7 +608,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Légumes",
-        "image": "Yokaidle/images/yokai_images/Espi.png",
+        "image": "images/yokai_images/Espi.png",
         "tribuimage":"images/tribu/Mysterieux.png",
         "rankimage":"images/rank/B.png"
     },
@@ -620,7 +620,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Légumes",
-        "image": "Yokaidle/images/yokai_images/Etassivilla.png",
+        "image": "images/yokai_images/Etassivilla.png",
         "tribuimage":"images/tribu/Mysterieux.png",
         "rankimage":"images/rank/B.png"
     },
@@ -632,7 +632,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Bonbons",
-        "image": "Yokaidle/images/yokai_images/Tengu.png",
+        "image": "images/yokai_images/Tengu.png",
         "tribuimage":"images/tribu/Mysterieux.png",
         "rankimage":"images/rank/S.png"
     },
@@ -644,7 +644,7 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Légumes",
-        "image": "Yokaidle/images/yokai_images/Tengurou.png",
+        "image": "images/yokai_images/Tengurou.png",
         "tribuimage":"images/tribu/Mysterieux.png",
         "rankimage":"images/rank/S.png"
     },
@@ -656,7 +656,7 @@
         "rarity": "Combattant",
         "role": "Combattant",
         "nourriture": "Fruits de mer",
-        "image": "Yokaidle/images/yokai_images/Kyubi.png",
+        "image": "images/yokai_images/Kyubi.png",
         "tribuimage":"images/tribu/Mysterieux.png",
         "rankimage":"images/rank/S.png"
     },
@@ -668,7 +668,7 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Fruits de mer",
-        "image": "Yokaidle/images/yokai_images/Barakabo.png",
+        "image": "images/yokai_images/Barakabo.png",
         "tribuimage":"images/tribu/Mysterieux.png",
         "rankimage":"images/rank/S.png"
     },
@@ -680,7 +680,7 @@
         "rarity": "Commun",
         "role": "Tank",
         "nourriture": "Pain",
-        "image": "Yokaidle/images/yokai_images/Darabajoie.png",
+        "image": "images/yokai_images/Darabajoie.png",
         "tribuimage":"images/tribu/Costaud.png",
         "rankimage":"images/rank/E.png"
     },
@@ -692,7 +692,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Pain",
-        "image": "Yokaidle/images/yokai_images/Darumacho.png",
+        "image": "images/yokai_images/Darumacho.png",
         "tribuimage":"images/tribu/Costaud.png",
         "rankimage":"images/rank/B.png"
     },
@@ -704,7 +704,7 @@
         "rarity": "Commun",
         "role": "Tank",
         "nourriture": "Pain",
-        "image": "Yokaidle/images/yokai_images/Goruma.png",
+        "image": "images/yokai_images/Goruma.png",
         "tribuimage":"images/tribu/Costaud.png",
         "rankimage":"images/rank/B.png"
     },
@@ -716,7 +716,7 @@
         "rarity": "Commun",
         "role": "Tank",
         "nourriture": "Ramen",
-        "image": "Yokaidle/images/yokai_images/Nanpart.png",
+        "image": "images/yokai_images/Nanpart.png",
         "tribuimage":"images/tribu/Costaud.png",
         "rankimage":"images/rank/E.png"
     },
@@ -728,7 +728,7 @@
         "rarity": "Commun",
         "role": "Tank",
         "nourriture": "Ramen",
-        "image": "Yokaidle/images/yokai_images/Passpa.png",
+        "image": "images/yokai_images/Passpa.png",
         "tribuimage":"images/tribu/Costaud.png",
         "rankimage":"images/rank/A.png"
     },
@@ -740,7 +740,7 @@
         "rarity": "Rare",
         "role": "Tank",
         "nourriture": "Ramen",
-        "image": "Yokaidle/images/yokai_images/Granpart.png",
+        "image": "images/yokai_images/Granpart.png",
         "tribuimage":"images/tribu/Costaud.png",
         "rankimage":"images/rank/A.png"
     },
@@ -752,7 +752,7 @@
         "rarity": "Commun",
         "role": "Tank",
         "nourriture": "Légumes",
-        "image": "Yokaidle/images/yokai_images/Hauber.png",
+        "image": "images/yokai_images/Hauber.png",
         "tribuimage":"images/tribu/Costaud.png",
         "rankimage":"images/rank/D.png"
     },
@@ -764,7 +764,7 @@
         "rarity": "Commun",
         "role": "Tank",
         "nourriture": "Boules de riz",
-        "image": "Yokaidle/images/yokai_images/Pachycoul.png",
+        "image": "images/yokai_images/Pachycoul.png",
         "tribuimage":"images/tribu/Costaud.png",
         "rankimage":"images/rank/C.png"
     },
@@ -776,7 +776,7 @@
         "rarity": "Commun",
         "role": "Tank",
         "nourriture": "Boules de riz",
-        "image": "Yokaidle/images/yokai_images/Persévéfant.png",
+        "image": "images/yokai_images/Persévéfant.png",
         "tribuimage":"images/tribu/Costaud.png",
         "rankimage":"images/rank/C.png"
     },
@@ -788,7 +788,7 @@
         "rarity": "Commun",
         "role": "Tank",
         "nourriture": "Lait",
-        "image": "Yokaidle/images/yokai_images/Boulapic.png",
+        "image": "images/yokai_images/Boulapic.png",
         "tribuimage":"images/tribu/Costaud.png",
         "rankimage":"images/rank/D.png"
     },
@@ -800,7 +800,7 @@
         "rarity": "Commun",
         "role": "Tank",
         "nourriture": "Lait",
-        "image": "Yokaidle/images/yokai_images/Bouldacier.png",
+        "image": "images/yokai_images/Bouldacier.png",
         "tribuimage":"images/tribu/Costaud.png",
         "rankimage":"images/rank/D.png"
     },
@@ -812,7 +812,7 @@
         "rarity": "Commun",
         "role": "Tank",
         "nourriture": "Boules de riz",
-        "image": "Yokaidle/images/yokai_images/Lama_Laya.png",
+        "image": "images/yokai_images/Lama_Laya.png",
         "tribuimage":"images/tribu/Costaud.png",
         "rankimage":"images/rank/C.png"
     },
@@ -824,7 +824,7 @@
         "rarity": "Commun",
         "role": "Tank",
         "nourriture": "Boules de riz",
-        "image": "Yokaidle/images/yokai_images/Etna_Magma.png",
+        "image": "images/yokai_images/Etna_Magma.png",
         "tribuimage":"images/tribu/Costaud.png",
         "rankimage":"images/rank/B.png"
     },
@@ -836,7 +836,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Ramen",
-        "image": "Yokaidle/images/yokai_images/Loubarbare.png",
+        "image": "images/yokai_images/Loubarbare.png",
         "tribuimage":"images/tribu/Costaud.png",
         "rankimage":"images/rank/E.png"
     },
@@ -848,7 +848,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Ramen",
-        "image": "Yokaidle/images/yokai_images/Racaïd.png",
+        "image": "images/yokai_images/Racaïd.png",
         "tribuimage":"images/tribu/Costaud.png",
         "rankimage":"images/rank/B.png"
     },
@@ -860,7 +860,7 @@
         "rarity": "Rare",
         "role": "Tank",
         "nourriture": "Ramen",
-        "image": "Yokaidle/images/yokai_images/Frérosse.png",
+        "image": "images/yokai_images/Frérosse.png",
         "tribuimage":"images/tribu/Costaud.png",
         "rankimage":"images/rank/A.png"
     },
@@ -872,7 +872,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Légumes",
-        "image": "Yokaidle/images/yokai_images/Coléroptère.png",
+        "image": "images/yokai_images/Coléroptère.png",
         "tribuimage":"images/tribu/Costaud.png",
         "rankimage":"images/rank/B.png"
     },
@@ -884,7 +884,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Légumes",
-        "image": "Yokaidle/images/yokai_images/Rhinolimit.png",
+        "image": "images/yokai_images/Rhinolimit.png",
         "tribuimage":"images/tribu/Costaud.png",
         "rankimage":"images/rank/S.png"
     },
@@ -896,7 +896,7 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Légumes",
-        "image": "Yokaidle/images/yokai_images/Corniaque.png",
+        "image": "images/yokai_images/Corniaque.png",
         "tribuimage":"images/tribu/Costaud.png",
         "rankimage":"images/rank/S.png"
     },
@@ -908,7 +908,7 @@
         "rarity": "Commun",
         "role": "Ranger",
         "nourriture": "Lait",
-        "image": "Yokaidle/images/yokai_images/Castelius_III.png",
+        "image": "images/yokai_images/Castelius_III.png",
         "tribuimage":"images/tribu/Costaud.png",
         "rankimage":"images/rank/C.png"
     },
@@ -920,7 +920,7 @@
         "rarity": "Commun",
         "role": "Tank",
         "nourriture": "Lait",
-        "image": "Yokaidle/images/yokai_images/Castelius_II.png",
+        "image": "images/yokai_images/Castelius_II.png",
         "tribuimage":"images/tribu/Costaud.png",
         "rankimage":"images/rank/B.png"
     },
@@ -932,7 +932,7 @@
         "rarity": "Commun",
         "role": "Ranger",
         "nourriture": "Lait",
-        "image": "Yokaidle/images/yokai_images/Castelius_I.png",
+        "image": "images/yokai_images/Castelius_I.png",
         "tribuimage":"images/tribu/Costaud.png",
         "rankimage":"images/rank/A.png"
     },
@@ -944,7 +944,7 @@
         "rarity": "Rare",
         "role": "Tank",
         "nourriture": "Lait",
-        "image": "Yokaidle/images/yokai_images/Castelius_Max.png",
+        "image": "images/yokai_images/Castelius_Max.png",
         "tribuimage":"images/tribu/Costaud.png",
         "rankimage":"images/rank/S.png"
     },
@@ -956,7 +956,7 @@
         "rarity": "Commun",
         "role": "Tank",
         "nourriture": "Fruits de mer",
-        "image": "Yokaidle/images/yokai_images/Robonyan.png",
+        "image": "images/yokai_images/Robonyan.png",
         "tribuimage":"images/tribu/Costaud.png",
         "rankimage":"images/rank/A.png"
     },
@@ -968,7 +968,7 @@
         "rarity": "Rare",
         "role": "Tank",
         "nourriture": "Fruits de mer",
-        "image": "Yokaidle/images/yokai_images/Oronyan.png",
+        "image": "images/yokai_images/Oronyan.png",
         "tribuimage":"images/tribu/Costaud.png",
         "rankimage":"images/rank/S.png"
     },
@@ -980,7 +980,7 @@
         "rarity": "Commun",
         "role": "Tank",
         "nourriture": "Légumes",
-        "image": "Yokaidle/images/yokai_images/Misterre.png",
+        "image": "images/yokai_images/Misterre.png",
         "tribuimage":"images/tribu/Costaud.png",
         "rankimage":"images/rank/S.png"
     },
@@ -992,7 +992,7 @@
         "rarity": "Rare",
         "role": "Tank",
         "nourriture": "Légumes",
-        "image": "Yokaidle/images/yokai_images/Ressak.png",
+        "image": "images/yokai_images/Ressak.png",
         "tribuimage":"images/tribu/Costaud.png",
         "rankimage":"images/rank/S.png"
     },
@@ -1004,7 +1004,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Hamburger",
-        "image": "Yokaidle/images/yokai_images/Squarlette.png",
+        "image": "images/yokai_images/Squarlette.png",
         "tribuimage":"images/tribu/Mignon.png",
         "rankimage":"images/rank/E.png"
 
@@ -1017,7 +1017,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Hamburger",
-        "image": "Yokaidle/images/yokai_images/Margoth.png",
+        "image": "images/yokai_images/Margoth.png",
         "tribuimage":"images/tribu/Mignon.png",
         "rankimage":"images/rank/C.png"
 
@@ -1030,7 +1030,7 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Hamburger",
-        "image": "Yokaidle/images/yokai_images/Squelèbelle.png",
+        "image": "images/yokai_images/Squelèbelle.png",
         "tribuimage":"images/tribu/Mignon.png",
         "rankimage":"images/rank/B.png"
 
@@ -1043,7 +1043,7 @@
         "rarity": "Commun",
         "role": "Ranger",
         "nourriture": "Jus",
-        "image": "Yokaidle/images/yokai_images/Cigalopin.png",
+        "image": "images/yokai_images/Cigalopin.png",
         "tribuimage":"images/tribu/Mignon.png",
         "rankimage":"images/rank/E.png"
 
@@ -1056,7 +1056,7 @@
         "rarity": "Commun",
         "role": "Ranger",
         "nourriture": "Jus",
-        "image": "Yokaidle/images/yokai_images/Cigaillard.png",
+        "image": "images/yokai_images/Cigaillard.png",
         "tribuimage":"images/tribu/Mignon.png",
         "rankimage":"images/rank/C.png"
 
@@ -1069,7 +1069,7 @@
         "rarity": "Rare",
         "role": "Ranger",
         "nourriture": "Jus",
-        "image": "Yokaidle/images/yokai_images/Cigazouille.png",
+        "image": "images/yokai_images/Cigazouille.png",
         "tribuimage":"images/tribu/Mignon.png",
         "rankimage":"images/rank/B.png"
 
@@ -1082,7 +1082,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Ramen",
-        "image": "Yokaidle/images/yokai_images/Chihuaglagla.png",
+        "image": "images/yokai_images/Chihuaglagla.png",
         "tribuimage":"images/tribu/Mignon.png",
         "rankimage":"images/rank/E.png"
 
@@ -1095,7 +1095,7 @@
         "rarity": "Commun",
         "role": "Ranger",
         "nourriture": "Ramen",
-        "image": "Yokaidle/images/yokai_images/Froahuahua.png",
+        "image": "images/yokai_images/Froahuahua.png",
         "tribuimage":"images/tribu/Mignon.png",
         "rankimage":"images/rank/S.png"
 
@@ -1108,7 +1108,7 @@
         "rarity": "Rare",
         "role": "Ranger",
         "nourriture": "Ramen",
-        "image": "Yokaidle/images/yokai_images/Cho-Cho.png",
+        "image": "images/yokai_images/Cho-Cho.png",
         "tribuimage":"images/tribu/Mignon.png",
         "rankimage":"images/rank/S.png"
 
@@ -1121,7 +1121,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Fruits de mer",
-        "image": "Yokaidle/images/yokai_images/Jibanyan.png",
+        "image": "images/yokai_images/Jibanyan.png",
         "tribuimage":"images/tribu/Mignon.png",
         "rankimage":"images/rank/D.png"
 
@@ -1134,7 +1134,7 @@
         "rarity": "Commun",
         "role": "Ranger",
         "nourriture": "Fruits de mer",
-        "image": "Yokaidle/images/yokai_images/Epinyan.png",
+        "image": "images/yokai_images/Epinyan.png",
         "tribuimage":"images/tribu/Mignon.png",
         "rankimage":"images/rank/B.png"
 
@@ -1147,7 +1147,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Fruits de mer",
-        "image": "Yokaidle/images/yokai_images/Bandinyan.png",
+        "image": "images/yokai_images/Bandinyan.png",
         "tribuimage":"images/tribu/Mignon.png",
         "rankimage":"images/rank/B.png"
 
@@ -1160,7 +1160,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Légumes",
-        "image": "Yokaidle/images/yokai_images/Kappakap.png",
+        "image": "images/yokai_images/Kappakap.png",
         "tribuimage":"images/tribu/Mignon.png",
         "rankimage":"images/rank/D.png"
 
@@ -1173,7 +1173,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Légumes",
-        "image": "Yokaidle/images/yokai_images/Appak.png",
+        "image": "images/yokai_images/Appak.png",
         "tribuimage":"images/tribu/Mignon.png",
         "rankimage":"images/rank/A.png"
 
@@ -1186,7 +1186,7 @@
         "rarity": "Rare",
         "role": "Ranger",
         "nourriture": "Légumes",
-        "image": "Yokaidle/images/yokai_images/Kappaloha.png",
+        "image": "images/yokai_images/Kappaloha.png",
         "tribuimage":"images/tribu/Mignon.png",
         "rankimage":"images/rank/A.png"
 
@@ -1199,7 +1199,7 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Lait",
-        "image": "Yokaidle/images/yokai_images/Komasan.png",
+        "image": "images/yokai_images/Komasan.png",
         "tribuimage":"images/tribu/Mignon.png",
         "rankimage":"images/rank/D.png"
 
@@ -1212,7 +1212,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Lait",
-        "image": "Yokaidle/images/yokai_images/Komajiro.png",
+        "image": "images/yokai_images/Komajiro.png",
         "tribuimage":"images/tribu/Mignon.png",
         "rankimage":"images/rank/D.png"
 
@@ -1225,7 +1225,7 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Lait",
-        "image": "Yokaidle/images/yokai_images/Komaouss.png",
+        "image": "images/yokai_images/Komaouss.png",
         "tribuimage":"images/tribu/Mignon.png",
         "rankimage":"images/rank/A.png"
 
@@ -1238,7 +1238,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Lait",
-        "image": "Yokaidle/images/yokai_images/Komistigri.png",
+        "image": "images/yokai_images/Komistigri.png",
         "tribuimage":"images/tribu/Mignon.png",
         "rankimage":"images/rank/A.png"
 
@@ -1251,7 +1251,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Jus",
-        "image": "Yokaidle/images/yokai_images/Baku.png",
+        "image": "images/yokai_images/Baku.png",
         "tribuimage":"images/tribu/Mignon.png",
         "rankimage":"images/rank/D.png"
 
@@ -1264,7 +1264,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Jus",
-        "image": "Yokaidle/images/yokai_images/Tapur.png",
+        "image": "images/yokai_images/Tapur.png",
         "tribuimage":"images/tribu/Mignon.png",
         "rankimage":"images/rank/C.png"
 
@@ -1277,7 +1277,7 @@
         "rarity": "Commun",
         "role": "Guérisseur",
         "nourriture": "Hamburger",
-        "image": "Yokaidle/images/yokai_images/Pitou.png",
+        "image": "images/yokai_images/Pitou.png",
         "tribuimage":"images/tribu/Mignon.png",
         "rankimage":"images/rank/C.png"
 
@@ -1290,7 +1290,7 @@
         "rarity": "Commun",
         "role": "Guérisseur",
         "nourriture": "Hamburger",
-        "image": "Yokaidle/images/yokai_images/Choubidou.png",
+        "image": "images/yokai_images/Choubidou.png",
         "tribuimage":"images/tribu/Mignon.png",
         "rankimage":"images/rank/B.png"
 
@@ -1303,7 +1303,7 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Hamburger",
-        "image": "Yokaidle/images/yokai_images/Satandre.png",
+        "image": "images/yokai_images/Satandre.png",
         "tribuimage":"images/tribu/Mignon.png",
         "rankimage":"images/rank/A.png"
 
@@ -1316,7 +1316,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Bonbons",
-        "image": "Yokaidle/images/yokai_images/Angélik.png",
+        "image": "images/yokai_images/Angélik.png",
         "tribuimage":"images/tribu/Mignon.png",
         "rankimage":"images/rank/B.png"
 
@@ -1329,7 +1329,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Bonbons",
-        "image": "Yokaidle/images/yokai_images/Blizzaria.png",
+        "image": "images/yokai_images/Blizzaria.png",
         "tribuimage":"images/tribu/Mignon.png",
         "rankimage":"images/rank/S.png"
 
@@ -1342,7 +1342,7 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Bonbons",
-        "image": "Yokaidle/images/yokai_images/Damona.png",
+        "image": "images/yokai_images/Damona.png",
         "tribuimage":"images/tribu/Mignon.png",
         "rankimage":"images/rank/S.png"
 
@@ -1355,7 +1355,7 @@
         "rarity": "Commun",
         "role": "Guérisseur",
         "nourriture": "Ramen",
-        "image": "Yokaidle/images/yokai_images/Noripop.png",
+        "image": "images/yokai_images/Noripop.png",
         "tribuimage":"images/tribu/Bienveillant.png",
         "rankimage":"images/rank/E.png"
     },
@@ -1367,7 +1367,7 @@
         "rarity": "Commun",
         "role": "Guérisseur",
         "nourriture": "Ramen",
-        "image": "Yokaidle/images/yokai_images/Wakapoeira.png",
+        "image": "images/yokai_images/Wakapoeira.png",
         "tribuimage":"images/tribu/Bienveillant.png",
         "rankimage":"images/rank/E.png"
     },
@@ -1379,7 +1379,7 @@
         "rarity": "Commun",
         "role": "Guérisseur",
         "nourriture": "Ramen",
-        "image": "Yokaidle/images/yokai_images/Salsalga.png",
+        "image": "images/yokai_images/Salsalga.png",
         "tribuimage":"images/tribu/Bienveillant.png",
         "rankimage":"images/rank/D.png"
     },
@@ -1391,7 +1391,7 @@
         "rarity": "Commun",
         "role": "Ranger",
         "nourriture": "Ramen",
-        "image": "Yokaidle/images/yokai_images/Amoiz.png",
+        "image": "images/yokai_images/Amoiz.png",
         "tribuimage":"images/tribu/Bienveillant.png",
         "rankimage":"images/rank/E.png"
     },
@@ -1403,7 +1403,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Ramen",
-        "image": "Yokaidle/images/yokai_images/Pikor.png",
+        "image": "images/yokai_images/Pikor.png",
         "tribuimage":"images/tribu/Bienveillant.png",
         "rankimage":"images/rank/D.png"
     },
@@ -1415,7 +1415,7 @@
         "rarity": "Commun",
         "role": "Guérisseur",
         "nourriture": "Boules de riz",
-        "image": "Yokaidle/images/yokai_images/Granpapéti.png",
+        "image": "images/yokai_images/Granpapéti.png",
         "tribuimage":"images/tribu/Bienveillant.png",
         "rankimage":"images/rank/E.png"
     },
@@ -1427,7 +1427,7 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Boules de riz",
-        "image": "Yokaidle/images/yokai_images/Puissanfon.png",
+        "image": "images/yokai_images/Puissanfon.png",
         "tribuimage":"images/tribu/Bienveillant.png",
         "rankimage":"images/rank/B.png"
     },
@@ -1439,7 +1439,7 @@
         "rarity": "Rare",
         "role": "Guérisseur",
         "nourriture": "Boules de riz",
-        "image": "Yokaidle/images/yokai_images/Grainpère.png",
+        "image": "images/yokai_images/Grainpère.png",
         "tribuimage":"images/tribu/Bienveillant.png",
         "rankimage":"images/rank/B.png"
     },
@@ -1451,7 +1451,7 @@
         "rarity": "Commun",
         "role": "Ranger",
         "nourriture": "Lait",
-        "image": "Yokaidle/images/yokai_images/Nomoné.png",
+        "image": "images/yokai_images/Nomoné.png",
         "tribuimage":"images/tribu/Bienveillant.png",
         "rankimage":"images/rank/D.png"
     },
@@ -1463,7 +1463,7 @@
         "rarity": "Commun",
         "role": "Ranger",
         "nourriture": "Lait",
-        "image": "Yokaidle/images/yokai_images/Noproblemo.png",
+        "image": "images/yokai_images/Noproblemo.png",
         "tribuimage":"images/tribu/Bienveillant.png",
         "rankimage":"images/rank/C.png"
     },
@@ -1475,7 +1475,7 @@
         "rarity": "Commun",
         "role": "Guérisseur",
         "nourriture": "Jus",
-        "image": "Yokaidle/images/yokai_images/Papiltation.png",
+        "image": "images/yokai_images/Papiltation.png",
         "tribuimage":"images/tribu/Bienveillant.png",
         "rankimage":"images/rank/D.png"
     },
@@ -1487,7 +1487,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Jus",
-        "image": "Yokaidle/images/yokai_images/Papiltension.png",
+        "image": "images/yokai_images/Papiltension.png",
         "tribuimage":"images/tribu/Bienveillant.png",
         "rankimage":"images/rank/D.png"
     },
@@ -1499,7 +1499,7 @@
         "rarity": "Commun",
         "role": "Guérisseur",
         "nourriture": "Jus",
-        "image": "Yokaidle/images/yokai_images/Hyprapillon.png",
+        "image": "images/yokai_images/Hyprapillon.png",
         "tribuimage":"images/tribu/Bienveillant.png",
         "rankimage":"images/rank/A.png"
     },
@@ -1511,7 +1511,7 @@
         "rarity": "Rare",
         "role": "Guérisseur",
         "nourriture": "Jus",
-        "image": "Yokaidle/images/yokai_images/Vitapillon.png",
+        "image": "images/yokai_images/Vitapillon.png",
         "tribuimage":"images/tribu/Bienveillant.png",
         "rankimage":"images/rank/S.png"
     },
@@ -1523,7 +1523,7 @@
         "rarity": "Commun",
         "role": "Guérisseur",
         "nourriture": "Pain",
-        "image": "Yokaidle/images/yokai_images/Jojojoyeux.png",
+        "image": "images/yokai_images/Jojojoyeux.png",
         "tribuimage":"images/tribu/Bienveillant.png",
         "rankimage":"images/rank/C.png"
     },
@@ -1535,7 +1535,7 @@
         "rarity": "Commun",
         "role": "Guérisseur",
         "nourriture": "Pain",
-        "image": "Yokaidle/images/yokai_images/Paradoxa.png",
+        "image": "images/yokai_images/Paradoxa.png",
         "tribuimage":"images/tribu/Bienveillant.png",
         "rankimage":"images/rank/A.png"
     },
@@ -1547,7 +1547,7 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Pain",
-        "image": "Yokaidle/images/yokai_images/Potaumorose.png",
+        "image": "images/yokai_images/Potaumorose.png",
         "tribuimage":"images/tribu/Bienveillant.png",
         "rankimage":"images/rank/A.png"
     },
@@ -1559,7 +1559,7 @@
         "rarity": "Commun",
         "role": "Guérisseur",
         "nourriture": "Lait",
-        "image": "Yokaidle/images/yokai_images/Ratatam.png",
+        "image": "images/yokai_images/Ratatam.png",
         "tribuimage":"images/tribu/Bienveillant.png",
         "rankimage":"images/rank/B.png"
     },
@@ -1571,7 +1571,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Lait",
-        "image": "Yokaidle/images/yokai_images/Supernoël.png",
+        "image": "images/yokai_images/Supernoël.png",
         "tribuimage":"images/tribu/Bienveillant.png",
         "rankimage":"images/rank/B.png"
     },
@@ -1583,7 +1583,7 @@
         "rarity": "Commun",
         "role": "Guérisseur",
         "nourriture": "Bonbons",
-        "image": "Yokaidle/images/yokai_images/Dédé.png",
+        "image": "images/yokai_images/Dédé.png",
         "tribuimage":"images/tribu/Bienveillant.png",
         "rankimage":"images/rank/A.png"
     },
@@ -1595,7 +1595,7 @@
         "rarity": "Commun",
         "role": "Ranger",
         "nourriture": "Bonbons",
-        "image": "Yokaidle/images/yokai_images/Dédestin.png",
+        "image": "images/yokai_images/Dédestin.png",
         "tribuimage":"images/tribu/Bienveillant.png",
         "rankimage":"images/rank/A.png"
     },
@@ -1607,7 +1607,7 @@
         "rarity": "Commun",
         "role": "Tank",
         "nourriture": "Viande",
-        "image": "Yokaidle/images/yokai_images/Tontonerre.png",
+        "image": "images/yokai_images/Tontonerre.png",
         "tribuimage":"images/tribu/Bienveillant.png",
         "rankimage":"images/rank/A.png"
     },
@@ -1619,7 +1619,7 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Viande",
-        "image": "Yokaidle/images/yokai_images/Omnitonton.png",
+        "image": "images/yokai_images/Omnitonton.png",
         "tribuimage":"images/tribu/Bienveillant.png",
         "rankimage":"images/rank/S.png"
     },
@@ -1631,7 +1631,7 @@
         "rarity": "Commun",
         "role": "Guérisseur",
         "nourriture": "Légumes",
-        "image": "Yokaidle/images/yokai_images/Tata_Aura.png",
+        "image": "images/yokai_images/Tata_Aura.png",
         "tribuimage":"images/tribu/Bienveillant.png",
         "rankimage":"images/rank/S.png"
     },
@@ -1643,7 +1643,7 @@
         "rarity": "Rare",
         "role": "Guérisseur",
         "nourriture": "Légumes",
-        "image": "Yokaidle/images/yokai_images/Tata_Câlin.png",
+        "image": "images/yokai_images/Tata_Câlin.png",
         "tribuimage":"images/tribu/Bienveillant.png",
         "rankimage":"images/rank/S.png"
     },
@@ -1655,7 +1655,7 @@
         "rarity": "Commun",
         "role": "Ranger",
         "nourriture": "Bonbons",
-        "image": "Yokaidle/images/yokai_images/Egaroni.png",
+        "image": "images/yokai_images/Egaroni.png",
         "tribuimage":"images/tribu/Sombre.png",
         "rankimage":"images/rank/E.png"
     },
@@ -1667,7 +1667,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Bonbons",
-        "image": "Yokaidle/images/yokai_images/Onisoi.png",
+        "image": "images/yokai_images/Onisoi.png",
         "tribuimage":"images/tribu/Sombre.png",
         "rankimage":"images/rank/D.png"
     },
@@ -1679,7 +1679,7 @@
         "rarity": "Commun",
         "role": "Ranger",
         "nourriture": "Bonbons",
-        "image": "Yokaidle/images/yokai_images/Tortico.png",
+        "image": "images/yokai_images/Tortico.png",
         "tribuimage":"images/tribu/Sombre.png",
         "rankimage":"images/rank/E.png"
     },
@@ -1691,7 +1691,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Bonbons",
-        "image": "Yokaidle/images/yokai_images/Tendino.png",
+        "image": "images/yokai_images/Tendino.png",
         "tribuimage":"images/tribu/Sombre.png",
         "rankimage":"images/rank/C.png"
     },
@@ -1703,7 +1703,7 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Bonbons",
-        "image": "Yokaidle/images/yokai_images/Contracto.png",
+        "image": "images/yokai_images/Contracto.png",
         "tribuimage":"images/tribu/Sombre.png",
         "rankimage":"images/rank/B.png"
     },
@@ -1715,7 +1715,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Jus",
-        "image": "Yokaidle/images/yokai_images/Nihilistik.png",
+        "image": "images/yokai_images/Nihilistik.png",
         "tribuimage":"images/tribu/Sombre.png",
         "rankimage":"images/rank/E.png"
     },
@@ -1727,7 +1727,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Jus",
-        "image": "Yokaidle/images/yokai_images/Emoustik.png",
+        "image": "images/yokai_images/Emoustik.png",
         "tribuimage":"images/tribu/Sombre.png",
         "rankimage":"images/rank/C.png"
     },
@@ -1739,7 +1739,7 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Jus",
-        "image": "Yokaidle/images/yokai_images/Grattoptère.png",
+        "image": "images/yokai_images/Grattoptère.png",
         "tribuimage":"images/tribu/Sombre.png",
         "rankimage":"images/rank/A.png"
     },
@@ -1751,7 +1751,7 @@
         "rarity": "Commun",
         "role": "Guérisseur",
         "nourriture": "Boules de riz",
-        "image": "Yokaidle/images/yokai_images/Marcognito.png",
+        "image": "images/yokai_images/Marcognito.png",
         "tribuimage":"images/tribu/Sombre.png",
         "rankimage":"images/rank/E.png"
     },
@@ -1763,7 +1763,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Boules de riz",
-        "image": "Yokaidle/images/yokai_images/Ninjamévu.png",
+        "image": "images/yokai_images/Ninjamévu.png",
         "tribuimage":"images/tribu/Sombre.png",
         "rankimage":"images/rank/B.png"
     },
@@ -1775,7 +1775,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Boules de riz",
-        "image": "Yokaidle/images/yokai_images/Nihilo.png",
+        "image": "images/yokai_images/Nihilo.png",
         "tribuimage":"images/tribu/Sombre.png",
         "rankimage":"images/rank/A.png"
     },
@@ -1787,7 +1787,7 @@
         "rarity": "Commun",
         "role": "Ranger",
         "nourriture": "Viande",
-        "image": "Yokaidle/images/yokai_images/Chauvekipeut.png",
+        "image": "images/yokai_images/Chauvekipeut.png",
         "tribuimage":"images/tribu/Sombre.png",
         "rankimage":"images/rank/E.png"
     },
@@ -1799,7 +1799,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Viande",
-        "image": "Yokaidle/images/yokai_images/Chauv'coucou.png",
+        "image": "images/yokai_images/Chauv'coucou.png",
         "tribuimage":"images/tribu/Sombre.png",
         "rankimage":"images/rank/A.png"
     },
@@ -1811,7 +1811,7 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Viande",
-        "image": "Yokaidle/images/yokai_images/Vampiloc.png",
+        "image": "images/yokai_images/Vampiloc.png",
         "tribuimage":"images/tribu/Sombre.png",
         "rankimage":"images/rank/A.png"
     },
@@ -1823,7 +1823,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Nourriture Chinoise",
-        "image": "Yokaidle/images/yokai_images/Suspicioni.png",
+        "image": "images/yokai_images/Suspicioni.png",
         "tribuimage":"images/tribu/Sombre.png",
         "rankimage":"images/rank/D.png"
     },
@@ -1835,7 +1835,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Nourriture Chinoise",
-        "image": "Yokaidle/images/yokai_images/Ragioni.png",
+        "image": "images/yokai_images/Ragioni.png",
         "tribuimage":"images/tribu/Sombre.png",
         "rankimage":"images/rank/D.png"
     },
@@ -1847,7 +1847,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Nourriture Chinoise",
-        "image": "Yokaidle/images/yokai_images/Contrarioni.png",
+        "image": "images/yokai_images/Contrarioni.png",
         "tribuimage":"images/tribu/Sombre.png",
         "rankimage":"images/rank/B.png"
     },
@@ -1859,7 +1859,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Légumes",
-        "image": "Yokaidle/images/yokai_images/Tengubre.png",
+        "image": "images/yokai_images/Tengubre.png",
         "tribuimage":"images/tribu/Sombre.png",
         "rankimage":"images/rank/C.png"
     },
@@ -1871,7 +1871,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Légumes",
-        "image": "Yokaidle/images/yokai_images/Bibliotengu.png",
+        "image": "images/yokai_images/Bibliotengu.png",
         "tribuimage":"images/tribu/Sombre.png",
         "rankimage":"images/rank/B.png"
     },
@@ -1883,7 +1883,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Légumes",
-        "image": "Yokaidle/images/yokai_images/Nimpégase.png",
+        "image": "images/yokai_images/Nimpégase.png",
         "tribuimage":"images/tribu/Sombre.png",
         "rankimage":"images/rank/A.png"
     },
@@ -1895,7 +1895,7 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Légumes",
-        "image": "Yokaidle/images/yokai_images/Hennimi.png",
+        "image": "images/yokai_images/Hennimi.png",
         "tribuimage":"images/tribu/Sombre.png",
         "rankimage":"images/rank/A.png"
     },
@@ -1907,7 +1907,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Ramen",
-        "image": "Yokaidle/images/yokai_images/Timidémon.png",
+        "image": "images/yokai_images/Timidémon.png",
         "tribuimage":"images/tribu/Sombre.png",
         "rankimage":"images/rank/A.png"
     },
@@ -1919,7 +1919,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Ramen",
-        "image": "Yokaidle/images/yokai_images/Belzel.png",
+        "image": "images/yokai_images/Belzel.png",
         "tribuimage":"images/tribu/Sombre.png",
         "rankimage":"images/rank/S.png"
     },
@@ -1931,7 +1931,7 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Ramen",
-        "image": "Yokaidle/images/yokai_images/Dente.png",
+        "image": "images/yokai_images/Dente.png",
         "tribuimage":"images/tribu/Sombre.png",
         "rankimage":"images/rank/S.png"
     },
@@ -1943,7 +1943,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Viande",
-        "image":"/Yokaidleimages/yokai_images/Vénaldo.png",
+        "image":"/mages/yokai_images/Vénaldo.png",
         "tribuimage":"images/tribu/Sombre.png",
         "rankimage":"images/rank/S.png"
     },
@@ -1955,7 +1955,7 @@
         "rarity": "Rare",
         "role": "Ranger",
         "nourriture": "Viande",
-        "image":"/Yokaidleimages/yokai_images/Maltesse.png",
+        "image":"/mages/yokai_images/Maltesse.png",
         "tribuimage":"images/tribu/Sombre.png",
         "rankimage":"images/rank/S.png"
     },
@@ -1967,7 +1967,7 @@
         "rarity": "Commun",
         "role": "Ranger",
         "nourriture": "Pain",
-        "image":"/Yokaidleimages/yokai_images/Malmidal.png",
+        "image":"/mages/yokai_images/Malmidal.png",
         "tribuimage":"images/tribu/Sinistre.png",
         "rankimage":"images/rank/E.png"
     },
@@ -1979,7 +1979,7 @@
         "rarity": "Commun",
         "role": "Ranger",
         "nourriture": "Pain",
-        "image":"/Yokaidleimages/yokai_images/Ecchinose.png",
+        "image":"/mages/yokai_images/Ecchinose.png",
         "tribuimage":"images/tribu/Sinistre.png",
         "rankimage":"images/rank/D.png"
     },
@@ -1991,7 +1991,7 @@
         "rarity": "Commun",
         "role": "Ranger",
         "nourriture": "Hamburger",
-        "image":"/Yokaidleimages/yokai_images/Chiperpiou.png",
+        "image":"/mages/yokai_images/Chiperpiou.png",
         "tribuimage":"images/tribu/Sinistre.png",
         "rankimage":"images/rank/E.png"
     },
@@ -2003,7 +2003,7 @@
         "rarity": "Commun",
         "role": "Ranger",
         "nourriture": "Hamburger",
-        "image":"/Yokaidleimages/yokai_images/Pioubidou.png",
+        "image":"/mages/yokai_images/Pioubidou.png",
         "tribuimage":"images/tribu/Sinistre.png",
         "rankimage":"images/rank/D.png"
     },
@@ -2015,7 +2015,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Pain",
-        "image":"/Yokaidleimages/yokai_images/Flamente.png",
+        "image":"/mages/yokai_images/Flamente.png",
         "tribuimage":"images/tribu/Sinistre.png",
         "rankimage":"images/rank/E.png"
     },
@@ -2027,7 +2027,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Pain",
-        "image":"/Yokaidleimages/yokai_images/Volibrius.png",
+        "image":"/mages/yokai_images/Volibrius.png",
         "tribuimage":"images/tribu/Sinistre.png",
         "rankimage":"images/rank/C.png"
     },
@@ -2039,7 +2039,7 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Pain",
-        "image":"/Yokaidleimages/yokai_images/Volatriste.png",
+        "image":"/mages/yokai_images/Volatriste.png",
         "tribuimage":"images/tribu/Sinistre.png",
         "rankimage":"images/rank/A.png"
     },
@@ -2051,7 +2051,7 @@
         "rarity": "Commun",
         "role": "Ranger",
         "nourriture": "Nourriture Chinoise",
-        "image":"/Yokaidleimages/yokai_images/Corniot.png",
+        "image":"/mages/yokai_images/Corniot.png",
         "tribuimage":"images/tribu/Sinistre.png",
         "rankimage":"images/rank/E.png"
     },
@@ -2063,7 +2063,7 @@
         "rarity": "Commun",
         "role": "Ranger",
         "nourriture": "Nourriture Chinoise",
-        "image":"/Yokaidleimages/yokai_images/Bicorniot.png",
+        "image":"/mages/yokai_images/Bicorniot.png",
         "tribuimage":"images/tribu/Sinistre.png",
         "rankimage":"images/rank/B.png"
     },
@@ -2075,7 +2075,7 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Nourriture Chinoise",
-        "image":"/Yokaidleimages/yokai_images/Cerbébert.png",
+        "image":"/mages/yokai_images/Cerbébert.png",
         "tribuimage":"images/tribu/Sinistre.png",
         "rankimage":"images/rank/A.png"
     },
@@ -2087,7 +2087,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Jus",
-        "image":"/Yokaidleimages/yokai_images/Humidon.png",
+        "image":"/mages/yokai_images/Humidon.png",
         "tribuimage":"images/tribu/Sinistre.png",
         "rankimage":"images/rank/E.png"
     },
@@ -2099,7 +2099,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Jus",
-        "image":"/Yokaidleimages/yokai_images/Délujien.png",
+        "image":"/mages/yokai_images/Délujien.png",
         "tribuimage":"images/tribu/Sinistre.png",
         "rankimage":"images/rank/B.png"
     },
@@ -2111,7 +2111,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Jus",
-        "image":"/Yokaidleimages/yokai_images/Fryzeur.png",
+        "image":"/mages/yokai_images/Fryzeur.png",
         "tribuimage":"images/tribu/Sinistre.png",
         "rankimage":"images/rank/E.png"
     },
@@ -2123,7 +2123,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Jus",
-        "image":"/Yokaidleimages/yokai_images/Kongel.png",
+        "image":"/mages/yokai_images/Kongel.png",
         "tribuimage":"images/tribu/Sinistre.png",
         "rankimage":"images/rank/B.png"
     },
@@ -2135,7 +2135,7 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Jus",
-        "image":"/Yokaidleimages/yokai_images/Hémorhino.png",
+        "image":"/mages/yokai_images/Hémorhino.png",
         "tribuimage":"images/tribu/Sinistre.png",
         "rankimage":"images/rank/B.png"
     },
@@ -2147,7 +2147,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Pain",
-        "image":"/Yokaidleimages/yokai_images/Blablara.png",
+        "image":"/mages/yokai_images/Blablara.png",
         "tribuimage":"images/tribu/Sinistre.png",
         "rankimage":"images/rank/D.png"
     },
@@ -2159,7 +2159,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Pain",
-        "image":"/Yokaidleimages/yokai_images/Umilie.png",
+        "image":"/mages/yokai_images/Umilie.png",
         "tribuimage":"images/tribu/Sinistre.png",
         "rankimage":"images/rank/C.png"
     },
@@ -2171,7 +2171,7 @@
         "rarity": "Commun",
         "role": "Tank",
         "nourriture": "Pain",
-        "image":"/Yokaidleimages/yokai_images/Lulugubre.png",
+        "image":"/mages/yokai_images/Lulugubre.png",
         "tribuimage":"images/tribu/Sinistre.png",
         "rankimage":"images/rank/D.png"
     },
@@ -2183,7 +2183,7 @@
         "rarity": "Commun",
         "role": "Ranger",
         "nourriture": "Lait",
-        "image":"/Yokaidleimages/yokai_images/Pégaz.png",
+        "image":"/mages/yokai_images/Pégaz.png",
         "tribuimage":"images/tribu/Sinistre.png",
         "rankimage":"images/rank/C.png"
     },
@@ -2195,7 +2195,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Lait",
-        "image":"/Yokaidleimages/yokai_images/Méphito.png",
+        "image":"/mages/yokai_images/Méphito.png",
         "tribuimage":"images/tribu/Sinistre.png",
         "rankimage":"images/rank/A.png"
     },
@@ -2207,7 +2207,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Nourriture Chinoise",
-        "image":"/Yokaidleimages/yokai_images/Misterbide.png",
+        "image":"/mages/yokai_images/Misterbide.png",
         "tribuimage":"images/tribu/Sinistre.png",
         "rankimage":"images/rank/A.png"
     },
@@ -2219,7 +2219,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Nourriture Chinoise",
-        "image":"/Yokaidleimages/yokai_images/Flopito.png",
+        "image":"/mages/yokai_images/Flopito.png",
         "tribuimage":"images/tribu/Sinistre.png",
         "rankimage":"images/rank/A.png"
     },
@@ -2231,7 +2231,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Lait",
-        "image":"/Yokaidleimages/yokai_images/Cenridion.png",
+        "image":"/mages/yokai_images/Cenridion.png",
         "tribuimage":"images/tribu/Sinistre.png",
         "rankimage":"images/rank/B.png"
     },
@@ -2243,7 +2243,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Lait",
-        "image":"/Yokaidleimages/yokai_images/Jouvencia.png",
+        "image":"/mages/yokai_images/Jouvencia.png",
         "tribuimage":"images/tribu/Sinistre.png",
         "rankimage":"images/rank/S.png"
     },
@@ -2255,7 +2255,7 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Lait",
-        "image":"/Yokaidleimages/yokai_images/Eterna.png",
+        "image":"/mages/yokai_images/Eterna.png",
         "tribuimage":"images/tribu/Sinistre.png",
         "rankimage":"images/rank/S.png"
     },
@@ -2267,7 +2267,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Bonbons",
-        "image":"/Yokaidleimages/yokai_images/Insomnelle.png",
+        "image":"/mages/yokai_images/Insomnelle.png",
         "tribuimage":"images/tribu/Sinistre.png",
         "rankimage":"images/rank/S.png"
     },
@@ -2279,7 +2279,7 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Bonbons",
-        "image":"/Yokaidleimages/yokai_images/Morféa.png",
+        "image":"/mages/yokai_images/Morféa.png",
         "tribuimage":"images/tribu/Sinistre.png",
         "rankimage":"images/rank/S.png"
     },
@@ -2291,7 +2291,7 @@
         "rarity": "Rare",
         "role": "Guérisseur",
         "nourriture": "Hamburger",
-        "image":"/Yokaidleimages/yokai_images/Noko.png",
+        "image":"/mages/yokai_images/Noko.png",
         "tribuimage":"images/tribu/Insaisissable.png",
         "rankimage":"images/rank/E.png"
     },
@@ -2303,7 +2303,7 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Hamburger",
-        "image":"/Yokaidleimages/yokai_images/Nénunoko.png",
+        "image":"/mages/yokai_images/Nénunoko.png",
         "tribuimage":"images/tribu/Insaisissable.png",
         "rankimage":"images/rank/A.png"
     },
@@ -2315,7 +2315,7 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Hamburger",
-        "image":"/Yokaidleimages/yokai_images/Pandanoko.png",
+        "image":"/mages/yokai_images/Pandanoko.png",
         "tribuimage":"images/tribu/Insaisissable.png",
         "rankimage":"images/rank/A.png"
     },
@@ -2327,7 +2327,7 @@
         "rarity": "Commun",
         "role": "Guérisseur",
         "nourriture": "Viande",
-        "image":"/Yokaidleimages/yokai_images/Anghihihille.png",
+        "image":"/mages/yokai_images/Anghihihille.png",
         "tribuimage":"images/tribu/Insaisissable.png",
         "rankimage":"images/rank/D.png"
     },
@@ -2339,7 +2339,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Viande",
-        "image":"/Yokaidleimages/yokai_images/Méroubadour.png",
+        "image":"/mages/yokai_images/Méroubadour.png",
         "tribuimage":"images/tribu/Insaisissable.png",
         "rankimage":"images/rank/C.png"
     },
@@ -2351,7 +2351,7 @@
         "rarity": "Commun",
         "role": "Guérisseur",
         "nourriture": "Viande",
-        "image":"/Yokaidleimages/yokai_images/Urnaconda.png",
+        "image":"/mages/yokai_images/Urnaconda.png",
         "tribuimage":"images/tribu/Insaisissable.png",
         "rankimage":"images/rank/C.png"
     },
@@ -2363,7 +2363,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Viande",
-        "image":"/Yokaidleimages/yokai_images/Murhaine.png",
+        "image":"/mages/yokai_images/Murhaine.png",
         "tribuimage":"images/tribu/Insaisissable.png",
         "rankimage":"images/rank/D.png"
     },
@@ -2375,7 +2375,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Viande",
-        "image":"/Yokaidleimages/yokai_images/Saumhonni.png",
+        "image":"/mages/yokai_images/Saumhonni.png",
         "tribuimage":"images/tribu/Insaisissable.png",
         "rankimage":"images/rank/B.png"
     },
@@ -2387,7 +2387,7 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Viande",
-        "image":"/Yokaidleimages/yokai_images/Vexturgeon.png",
+        "image":"/mages/yokai_images/Vexturgeon.png",
         "tribuimage":"images/tribu/Insaisissable.png",
         "rankimage":"images/rank/A.png"
     },
@@ -2399,7 +2399,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Nourriture Chinoise",
-        "image":"/Yokaidleimages/yokai_images/Dracounet.png",
+        "image":"/mages/yokai_images/Dracounet.png",
         "tribuimage":"images/tribu/Insaisissable.png",
         "rankimage":"images/rank/D.png"
     },
@@ -2411,7 +2411,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Nourriture Chinoise",
-        "image":"/Yokaidleimages/yokai_images/Sire_Dragon.png",
+        "image":"/mages/yokai_images/Sire_Dragon.png",
         "tribuimage":"images/tribu/Insaisissable.png",
         "rankimage":"images/rank/S.png"
     },
@@ -2423,7 +2423,7 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Nourriture Chinoise",
-        "image":"/Yokaidleimages/yokai_images/Dragô.png",
+        "image":"/mages/yokai_images/Dragô.png",
         "tribuimage":"images/tribu/Insaisissable.png",
         "rankimage":"images/rank/S.png"
     },
@@ -2435,7 +2435,7 @@
         "rarity": "Commun",
         "role": "Ranger",
         "nourriture": "Bonbons",
-        "image":"/Yokaidleimages/yokai_images/Bababou.png",
+        "image":"/mages/yokai_images/Bababou.png",
         "tribuimage":"images/tribu/Insaisissable.png",
         "rankimage":"images/rank/C.png"
     },
@@ -2447,7 +2447,7 @@
         "rarity": "Commun",
         "role": "Ranger",
         "nourriture": "Bonbons",
-        "image":"/Yokaidleimages/yokai_images/Tourneboul.png",
+        "image":"/mages/yokai_images/Tourneboul.png",
         "tribuimage":"images/tribu/Insaisissable.png",
         "rankimage":"images/rank/B.png"
     },
@@ -2459,7 +2459,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Légumes",
-        "image":"/Yokaidleimages/yokai_images/Croquin.png",
+        "image":"/mages/yokai_images/Croquin.png",
         "tribuimage":"images/tribu/Insaisissable.png",
         "rankimage":"images/rank/C.png"
     },
@@ -2471,7 +2471,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Légumes",
-        "image":"/Yokaidleimages/yokai_images/Inisquale.png",
+        "image":"/mages/yokai_images/Inisquale.png",
         "tribuimage":"images/tribu/Insaisissable.png",
         "rankimage":"images/rank/B.png"
     },
@@ -2483,7 +2483,7 @@
         "rarity": "Commun",
         "role": "Tank",
         "nourriture": "Pain",
-        "image":"/Yokaidleimages/yokai_images/Claquille.png",
+        "image":"/mages/yokai_images/Claquille.png",
         "tribuimage":"images/tribu/Insaisissable.png",
         "rankimage":"images/rank/C.png"
     },
@@ -2495,7 +2495,7 @@
         "rarity": "Rare",
         "role": "Tank",
         "nourriture": "Pain",
-        "image":"/Yokaidleimages/yokai_images/Cocpille.png",
+        "image":"/mages/yokai_images/Cocpille.png",
         "tribuimage":"images/tribu/Insaisissable.png",
         "rankimage":"images/rank/B.png"
     },
@@ -2507,7 +2507,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Bonbons",
-        "image":"/Yokaidleimages/yokai_images/Jacquasseur.png",
+        "image":"/mages/yokai_images/Jacquasseur.png",
         "tribuimage":"images/tribu/Insaisissable.png",
         "rankimage":"images/rank/C.png"
     },
@@ -2519,7 +2519,7 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Bonbons",
-        "image":"/Yokaidleimages/yokai_images/Bananar.png",
+        "image":"/mages/yokai_images/Bananar.png",
         "tribuimage":"images/tribu/Insaisissable.png",
         "rankimage":"images/rank/A.png"
     },
@@ -2531,7 +2531,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Fruits de mer",
-        "image":"/Yokaidleimages/yokai_images/Vipètesec.png",
+        "image":"/mages/yokai_images/Vipètesec.png",
         "tribuimage":"images/tribu/Insaisissable.png",
         "rankimage":"images/rank/B.png"
     },
@@ -2543,7 +2543,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Fruits de mer",
-        "image":"/Yokaidleimages/yokai_images/Vipérâle.png",
+        "image":"/mages/yokai_images/Vipérâle.png",
         "tribuimage":"images/tribu/Insaisissable.png",
         "rankimage":"images/rank/B.png"
     },
@@ -2555,7 +2555,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Fruits de mer",
-        "image":"/Yokaidleimages/yokai_images/Vipairflay.png",
+        "image":"/mages/yokai_images/Vipairflay.png",
         "tribuimage":"images/tribu/Insaisissable.png",
         "rankimage":"images/rank/A.png"
     },
@@ -2567,7 +2567,7 @@
         "rarity": "Commun",
         "role": "Combattant",
         "nourriture": "Fruits de mer",
-        "image":"/Yokaidleimages/yokai_images/Octorgone.png",
+        "image":"/mages/yokai_images/Octorgone.png",
         "tribuimage":"images/tribu/Insaisissable.png",
         "rankimage":"images/rank/S.png"
     },
@@ -2579,7 +2579,7 @@
         "rarity": "Rare",
         "role": "Guérisseur",
         "nourriture": "Fruits de mer",
-        "image":"/Yokaidleimages/yokai_images/Octorgombre.png",
+        "image":"/mages/yokai_images/Octorgombre.png",
         "tribuimage":"images/tribu/Insaisissable.png",
         "rankimage":"images/rank/S.png"
     },
@@ -2591,7 +2591,7 @@
         "rarity": "Légendaire",
         "role": "Combattant",
         "nourriture": "Fruits de mer",
-        "image":"/Yokaidleimages/yokai_images/Shogunyan.png",
+        "image":"/mages/yokai_images/Shogunyan.png",
         "tribuimage":"images/tribu/Vaillant.png",
         "rankimage":"images/rank/S.png"
     },
@@ -2603,7 +2603,7 @@
         "rarity": "Légendaire",
         "role": "Combattant",
         "nourriture": "Lait",
-        "image":"/Yokaidleimages/yokai_images/Komashura.png",
+        "image":"/mages/yokai_images/Komashura.png",
         "tribuimage":"images/tribu/Mysterieux.png",
         "rankimage":"images/rank/S.png"
     },
@@ -2615,7 +2615,7 @@
         "rarity": "Légendaire",
         "role": "Guérisseur",
         "nourriture": "Nourriture Chinoise",
-        "image":"/Yokaidleimages/yokai_images/Cabotin.png",
+        "image":"/mages/yokai_images/Cabotin.png",
         "tribuimage":"images/tribu/Sinistre.png",
         "rankimage":"images/rank/S.png"
     },
@@ -2627,7 +2627,7 @@
         "rarity": "Légendaire",
         "role": "Guérisseur",
         "nourriture": "Boules de riz",
-        "image":"/Yokaidleimages/yokai_images/Camaïeul.png",
+        "image":"/mages/yokai_images/Camaïeul.png",
         "tribuimage":"images/tribu/Bienveillant.png",
         "rankimage":"images/rank/S.png"
     },
@@ -2639,7 +2639,7 @@
         "rarity": "Légendaire",
         "role": "Combattant",
         "nourriture": "Viande",
-        "image":"/Yokaidleimages/yokai_images/Gorgouille.png",
+        "image":"/mages/yokai_images/Gorgouille.png",
         "tribuimage":"images/tribu/Costaud.png",
         "rankimage":"images/rank/S.png"
     },
@@ -2651,7 +2651,7 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Fruits de mer",
-        "image":"/Yokaidleimages/yokai_images/Saphinyan.png",
+        "image":"/mages/yokai_images/Saphinyan.png",
         "tribuimage":"images/tribu/Mignon.png",
         "rankimage":"images/rank/A.png"
 
@@ -2664,7 +2664,7 @@
         "rarity": "Rare",
         "role": "Guérisseur",
         "nourriture": "Fruits de mer",
-        "image":"/Yokaidleimages/yokai_images/Emeranyan.png",
+        "image":"/mages/yokai_images/Emeranyan.png",
         "tribuimage":"images/tribu/Mignon.png",
         "rankimage":"images/rank/A.png"
 
@@ -2677,7 +2677,7 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Fruits de mer",
-        "image":"/Yokaidleimages/yokai_images/Rubinyan.png",
+        "image":"/mages/yokai_images/Rubinyan.png",
         "tribuimage":"images/tribu/Mignon.png",
         "rankimage":"images/rank/A.png"
 
@@ -2690,7 +2690,7 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Fruits de mer",
-        "image":"/Yokaidleimages/yokai_images/Topanyan.png",
+        "image":"/mages/yokai_images/Topanyan.png",
         "tribuimage":"images/tribu/Mignon.png",
         "rankimage":"images/rank/A.png"
 
@@ -2703,7 +2703,7 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Fruits de mer",
-        "image":"/Yokaidleimages/yokai_images/Diamanyan.png",
+        "image":"/mages/yokai_images/Diamanyan.png",
         "tribuimage":"images/tribu/Mignon.png",
         "rankimage":"images/rank/A.png"
 
@@ -2716,7 +2716,7 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Viande",
-        "image":"/Yokaidleimages/yokai_images/Gargaros.png",
+        "image":"/mages/yokai_images/Gargaros.png",
         "tribuimage":"images/tribu/Costaud.png",
         "rankimage":"images/rank/S.png"
     },
@@ -2728,7 +2728,7 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Viande",
-        "image":"/Yokaidleimages/yokai_images/Ogralos.png",
+        "image":"/mages/yokai_images/Ogralos.png",
         "tribuimage":"images/tribu/Costaud.png",
         "rankimage":"images/rank/S.png"
     },
@@ -2740,7 +2740,7 @@
         "rarity": "Rare",
         "role": "Combattant",
         "nourriture": "Viande",
-        "image":"/Yokaidleimages/yokai_images/Orqanos.png",
+        "image":"/mages/yokai_images/Orqanos.png",
         "tribuimage":"images/tribu/Costaud.png",
         "rankimage":"images/rank/S.png"
     }
