@@ -4,9 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Classic</title>
-    <script src="guesseur.js" defer></script>
+    <title>Ombre</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <script src="guesseur_shadow.js"></script>
 </head>
 
 <body class="bg-gray-200 dark:bg-gray-800 text-gray-900 dark:text-gray-100 flex">
@@ -15,6 +15,11 @@
         <div class="flex justify-center items-center w-full">
             <a href="index.html"><img src="images/logo.png" class="h-40 w-19.2"></a>
         </div>
+        <div class="flex justify-center items-center w-full">
+            <div class="bg-blue-400 h-96 w-96 flex justify-center items-center">
+                <img src="" alt="ombre_yokai" class="brightness-0" id="yokai_image">
+            </div>
+        </div>
         <div class="justify-center items-center flex mb-20 mt-3">
             <input list="yokai-names" type="text" id="guessInput" placeholder="Entrez le nom du Yokai"
                 class="dark: text-black mr-4 px-0.5 border-gray-400 rounded border-solid border-2 py-2 w-1/3">
@@ -22,8 +27,11 @@
             <button class="bg-blue-400 border-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700"
                 onclick="checkGuess()">Valider</button>
         </div>
-        <div id="guess-container" class="flex flex-wrap gap-4 mt-4 h-80 overflow-y-auto">
-
+        <div class="grid grid-column-2 w-full justify-items-center">
+            <div id="guess-container" class="flex flex-wrap gap-4 mt-4 overflow-y-auto col-start-1"></div>
+            
+                
+            <div id="hint-container" class="flex flex-wrap mt-4 overflow-y-auto col-start-2 "></div>
         </div>
         <div class="flex justify-center items-center w-full">
             <div id="result" class="bg-green-600 justify-center hidden mt-3 aspect-square w-24">
